@@ -14,3 +14,15 @@
   color: $primary-color;
   line-height: 1;
 }
+
+// RESET BTN
+
+.reset-btn {
+  position: absolute;
+  width: 64px;
+  height: 32px;
+  cursor: pointer;
+  :hover {
+    opacity: .7;
+  }
+}
