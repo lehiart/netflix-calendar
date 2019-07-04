@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+.header {
+  width: 100%;
+  padding: 1.75em 0;
+  border-bottom: 1px solid $border-color;
+  background: $neutral-color;
+  
+}
+
+.header .title {
+  font-size: 2em;
+  text-align: center;
+  color: $primary-color;
+  line-height: 1;
+}

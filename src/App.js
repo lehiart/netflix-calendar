@@ -1,17 +1,12 @@
 import React from 'react';
+import Header from './components/Header'
 import './styles/App.scss'
 
 
 function App() {
   return (
     <div className='App'>
-      <header className='header'>
-        <nav className='title'>
-          <span>
-            Netflix<b> Originals</b>
-          </span>
-        </nav>
-      </header>
+      <Header />
       <main>
         <div className='calendar'>
           Calendar content
