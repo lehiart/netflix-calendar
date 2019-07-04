@@ -75,3 +75,28 @@ text-align: right;
   -moz-osx-font-smoothing: grayscale;
   font-feature-settings: "liga";
 }
+
+// LOGO LOADER //
+
+.logo-netflix {
+  width: 205px;
+  height: 372px;
+  background-image: linear-gradient(to right, #B30000 33%, #FFF 33%, #FFF 67%, #B30000 67%, #B30000 100%);
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+}
+.logo-netflix:before {
+   content: '';
+   width: 84px;
+   height: 100%;
+   position: fixed;
+   background: #E80000;
+   top: 0;
+   opacity: 1;
+   transform: skewX(18deg) ;
+   left: 29.55%;
+   box-shadow: inset 0 1px 2px rgba(0.2, 0.2,0.2,0.2), 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22), 0 0 100px rgba(0.3, 0.3,0.3,0.3);
+}
