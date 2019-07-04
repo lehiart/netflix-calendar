@@ -1,0 +1,130 @@
+@import './variables.scss';
+
+// MODAL
+
+.modal,
+.modal-mask {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+
+.modal {
+    position: fixed;
+}
+
+
+.modal-mask {
+    position: absolute;
+    background: rgba(0, 0, 0, .5);
+}
+
+
+.modal-dialog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 101;
+  padding: 15px;
+  background: $bg-color;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+  height: 55vh;
+  width: 75vw;
+  
+}
+
+.modal-dialog:focus {
+  outline: none;
+}
+
+// HEADER
+
+.modal-header {
+  font-size: 1.5em;
+  text-align: center;
+  color: $primary-color;
+  line-height: 1;
+  padding-bottom: 15px;
+  border-bottom: 1px solid $border-color;
+}
+
+// BODY
+
+.modal-body {
+  padding: 50px;
+}
+
+
+// CLOSE BUTTON
+
+.modal-close {
+  position: absolute;
+  height: 32px;
+  float: right;
+  right: 15px;
+  top: 15px;
+}
+
+// ANIMATIONS
+
+
+@-webkit-keyframes modal-fade-leave {
+  to {
+      opacity: 0
+  }
+}
+
+@keyframes modal-fade-leave {
+  to {
+      opacity: 0
+  }
+}
+
+.modal-fade-leave {
+  -webkit-animation: modal-fade-leave both ease-out;
+  animation: modal-fade-leave both ease-out;
+}
+
+@-webkit-keyframes modal-zoom-enter {
+  from {
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3);
+  }
+}
+
+@keyframes modal-zoom-enter {
+  from {
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3);
+  }
+}
+
+.modal-zoom-enter {
+  -webkit-animation: modal-zoom-enter both cubic-bezier(0.4, 0, 0, 1.5);
+  animation: modal-zoom-enter both cubic-bezier(0.4, 0, 0, 1.5);
+}
+
+@-webkit-keyframes modal-zoom-leave {
+  to {
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3);
+  }
+}
+
+@keyframes modal-zoom-leave {
+  to {
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3);
+  }
+}
+
+.modal-zoom-leave {
+  -webkit-animation: modal-zoom-leave both;
+  animation: modal-zoom-leave both;
+}

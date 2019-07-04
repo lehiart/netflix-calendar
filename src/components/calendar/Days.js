@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import dateFns from 'date-fns';
 import axios from 'axios'
+import Modal, { useModal } from '../common/Modal';
 import '../../styles/Calendar.scss'
 
 const getCellClassname = (day, monthStart, selectedDate) => {
@@ -43,6 +44,8 @@ function addEvents(day, events) {
 const DayCells = ({ currentDate }) => {
   const [events, setEvents] = useState([]);
   const [selectedDate, setSelectedDate] = useState(new Date())
+  const [selectedDayEvents, setSelectedDayEvents] = useState([])
+  const {isShowing, toggle} = useModal();
 
   useEffect(() => {
     const getEvents = async () => {
@@ -60,8 +63,10 @@ const DayCells = ({ currentDate }) => {
   let day = startDate;
   let dayindex = 0
 
-  const onDateClick = (day) => {
+  const onDateClick = (day, events) => {
+    setSelectedDayEvents(events)
     setSelectedDate(day);
+    toggle();
   }
 
   // O(n) constant time
@@ -76,6 +81,7 @@ const DayCells = ({ currentDate }) => {
         selectedDate={selectedDate}
       />
     )
+
     dayindex++
     day = dateFns.addDays(day, 1);
   }
@@ -85,6 +91,12 @@ const DayCells = ({ currentDate }) => {
       <div className='row'>
         {days}
       </div>
+      <Modal
+        date={selectedDate}
+        events={selectedDayEvents}
+        isShowing={isShowing}
+        hide={toggle}
+      />
     </div>
   )
 }
