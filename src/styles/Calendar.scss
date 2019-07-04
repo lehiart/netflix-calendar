@@ -83,6 +83,15 @@
   overflow-x: hidden;
   max-height: 100%;
   padding-bottom: 40px;
+  padding-top: 10px;
+}
+
+.calendar .body .cell li {
+  color: $primary-color-dark;
+}
+
+.calendar .body .cell span {
+  color: $text-color;
 }
 
 .calendar .body .cell .title {

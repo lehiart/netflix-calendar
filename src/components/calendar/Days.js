@@ -28,7 +28,7 @@ const Daybox = ({ onDateClick, day, monthStart, selectedDate, dayEvents }) => {
       <ul>{dayEvents.length ?
         dayEvents.map(event =>
           <li key={event.id} className='title'>
-            {event.title}
+            <span>{event.title}</span>
           </li>)
         : null}
       </ul>
@@ -38,7 +38,7 @@ const Daybox = ({ onDateClick, day, monthStart, selectedDate, dayEvents }) => {
 }
 
 function addEvents(day, events) {
-  return events.filter(event => dateFns.isSameDay(day, event.launch_date))
+  return events.filter(event => dateFns.isSameDay(day, event.date_released))
 }
 
 const DayCells = ({ currentDate }) => {
@@ -50,6 +50,7 @@ const DayCells = ({ currentDate }) => {
   useEffect(() => {
     const getEvents = async () => {
       let response = await axios.get(`http://localhost:3000/api/events/${dateFns.getYear(currentDate)}/${dateFns.getMonth(currentDate) + 1}`)
+      console.log(response)
       setEvents(response.data)
     }
 
