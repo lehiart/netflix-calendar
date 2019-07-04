@@ -1,0 +1,10 @@
+@import './variables.scss';
+
+// CALENDAR 
+
+.calendar {
+  position: relative;
+  width: 100%;
+  background: $neutral-color;
+  border: 1px solid $border-color;
+}

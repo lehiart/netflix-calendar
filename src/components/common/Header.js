@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import '../styles/Header.scss'
+import '../../styles/Header.scss'
 
 const AppHeader = () => {
     return (
