@@ -16,10 +16,20 @@ export const useModal = () => {
   }
 };
 
-const EventCard = ({event}) => {
+const EventCard = ({ event }) => {
   console.log(event)
   return (
-    <div>{event.title}</div>
+    <div className='row event-container'>
+      <div className='col col-4'>
+        <img alt='cover' src={event.image_landscape} />
+      </div>
+      <div className='col col-6 event-details'>
+        <span className='event-title'>{ event.title}</span>
+        <p>{event.category.split(' ')[0]}</p>
+        <p>IMDB { event.imdb ? event.imdb : 'N/A'}</p>
+        <p>{ event.description}</p>
+      </div>
+    </div>
   )
 }
 
@@ -80,7 +90,7 @@ const ModalContainer = ({ events, date, hide, isShowing }) => {
             </div>
           </header>
           <div className='modal-body'>
-            { events.map(event => <EventCard key={event.id} event={event} />)}
+            {events.map(event => <EventCard key={event.id} event={event} />)}
           </div>
         </div>
       </div>
