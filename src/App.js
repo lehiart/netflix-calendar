@@ -1,5 +1,7 @@
 import React from 'react';
 import Header from './components/Header'
+import Footer from './components/Footer'
+
 import './styles/App.scss'
 
 
@@ -12,11 +14,7 @@ function App() {
           Calendar content
         </div>
       </main>
-      <footer>
-        <nav className='title'>
-          <span>SEE WHAT'S NEXT</span>
-        </nav>
-      </footer>
+      <Footer />
     </div>
   );
 }
