@@ -29,7 +29,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"6.4\/10",
       "runtime":"99 minutes",
-      "id":"80125979",
+      "id":"80125970009",
       "date_released":"2019-09-08",
       "description":"When nerdy high schooler Dani finally attracts the interest of her longtime crush, she lands in the cross hairs of his ex, a social media celebrity."
   },

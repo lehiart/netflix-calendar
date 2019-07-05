@@ -47,28 +47,17 @@ const ModalContainer = ({ events, date, hide, isShowing }) => {
     }
   }
 
-  const style = {
-    display: isShow ? '' : 'none',
-    animationDuration: '800ms',
-    WebkitAnimationDuration: '800ms'
-  }
-
-  const bodyStyle = {
-    animationDuration: '800ms',
-    WebkitAnimationDuration: '800ms'
-  };
-
   return (
     <Fragment>
       <div
-        style={style}
+        style={{ display: isShow ? '' : 'none' }}
         className={`modal modal-fade-${animationType}`}
         ref={modalRef}
         onKeyUp={onKeyUp}
         tabIndex='-1'
         onAnimationEnd={animationEnd}>
         <div className='modal-mask' onClick={hide}></div>
-        <div style={bodyStyle} className={`modal-dialog modal-zoom-${animationType}`}>
+        <div className={`modal-dialog modal-zoom-${animationType}`}>
           <header className='modal-header'>
             <div>{dateFns.format(date, 'ddd - D MMMM YYYY')}</div>
             <div className='modal-close' onClick={hide}>
@@ -86,7 +75,10 @@ const ModalContainer = ({ events, date, hide, isShowing }) => {
 
 // Creates a React Portal on id: portal
 const Modal = (props) => {
-  return props.isShowing ? ReactDOM.createPortal(<ModalContainer {...props} />, document.getElementById('portal')) : null;
+  return props.isShowing ?
+    ReactDOM.createPortal(<ModalContainer {...props} />, document.getElementById('portal'))
+    :
+    null;
 }
 
 ModalContainer.propTypes = {

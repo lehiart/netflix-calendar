@@ -19,7 +19,7 @@ export const EventCard = ({ event }) => {
 
 export const EmptyCard = ({message = 'Sorry, no events for this day'}) => {
   return (
-    <div className='row event-container'>
+    <div className='row event-container-empty'>
       <div className='col'>
         <span className='event-title'>{message}</span>
       </div>
@@ -28,9 +28,9 @@ export const EmptyCard = ({message = 'Sorry, no events for this day'}) => {
 }
 
 EventCard.propTypes = {
-  events: Proptypes.object
+  event: Proptypes.object
 }
 
 EmptyCard.propTypes = {
-  events: Proptypes.string
+  message: Proptypes.string
 }

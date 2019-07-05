@@ -7,42 +7,42 @@
   width: 100%;
   background: $neutral-color;
   border: 1px solid $border-color;
-}
 
-.calendar .header {
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 115%;
-  padding: 1.5em 0;
-  border-bottom: 1px solid $border-color;
+  & .header {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 115%;
+    padding: 1.5em 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  & .days {
+    text-transform: uppercase;
+    font-weight: 400;
+    color: $text-color-light;
+    font-size: 70%;
+    padding: 0.75em 0;
+    border-bottom: 1px solid $border-color;
+  }
 }
 
 .calendar .header .icon {
   cursor: pointer;
   transition: 0.15s ease-out;
-}
 
-.calendar .header .icon:hover {
-  transform: scale(1.75);
-  transition: 0.25s ease-out;
-  color: $primary-color;
-}
+  &:hover {
+    transform: scale(1.75);
+    transition: 0.25s ease-out;
+    color: $primary-color;
+  }
 
-.calendar .header .icon:first-of-type {
-  margin-left: 1em;
-}
+  &:first-of-type {
+    margin-left: 1em;
+  }
 
-.calendar .header .icon:last-of-type {
-  margin-right: 1em;
-}
-
-.calendar .days {
-  text-transform: uppercase;
-  font-weight: 400;
-  color: $text-color-light;
-  font-size: 70%;
-  padding: 0.75em 0;
-  border-bottom: 1px solid $border-color;
+  &:last-of-type {
+    margin-right: 1em;
+  }
 }
 
 .calendar .body .cell {
@@ -54,11 +54,23 @@
   background: $neutral-color;
   transition: 0.25s ease-out;
   border-bottom: 1px solid $border-color;
-}
 
-.calendar .body .cell:hover {
-  background: $bg-color;
-  transition: 0.5s ease-out;
+  &:hover {
+    background: $bg-color;
+    transition: 0.5s ease-out;
+  }
+
+  & ul {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 100%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+
+  & li {
+    color: $primary-color-dark;
+  }
 }
 
 .calendar .body .selected {
@@ -70,26 +82,13 @@
 
 .calendar .body .row {
   border-bottom: 1px solid $border-color;
-}
+  &:last-child {
+    border-bottom: none;
+  }
 
-.calendar .body .row:last-child {
-  border-bottom: none;
-}
-
-.calendar .body .cell:last-child {
-  border-right: none;
-}
-
-.calendar .body .cell ul {
-  overflow-y: scroll;
-  overflow-x: hidden;
-  max-height: 100%;
-  padding-bottom: 40px;
-  padding-top: 10px;
-}
-
-.calendar .body .cell li {
-  color: $primary-color-dark;
+  &:last-child {
+    border-right: none;
+  }
 }
 
 .calendar .body .cell .title span {

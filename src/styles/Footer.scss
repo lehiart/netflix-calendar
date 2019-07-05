@@ -1,17 +1,17 @@
 @import './variables.scss';
 
 footer {
-    width: 100%;
-    padding: 1.75em 0;
-    border-bottom: 1px solid $border-color;
-    background: $neutral-color;
-    bottom: 0;
-    margin-top: 2px;
-}
-  
-footer .title {
-    font-size: 1em;
-    text-align: center;
-    color: $primary-color;
-    line-height: 1;
+  width: 100%;
+  padding: 1.75em 0;
+  border-bottom: 1px solid $border-color;
+  background: $neutral-color;
+  bottom: 0;
+  margin-top: 2px;
+
+  .title {
+      font-size: 1em;
+      text-align: center;
+      color: $primary-color;
+      line-height: 1;
+  }
 }

@@ -21,7 +21,7 @@ This will concurrently run the server and the client.
 
 ## :white_check_mark: Server 
 
-The application contains a simple node (express) server, that receives the requests for the endpoint `api/events/year/month` and will return the events json.
+The application contains a simple node (express) server, that receives the requests for the endpoint `api/events/year/month` and returns the events json.
 
 It contains a small middleware `DateMiddleware` to parse the events by date, simulating a DB request.
 
@@ -32,7 +32,6 @@ There is a `data-events` json with more than 1000 real movies/shows from netflix
 
 Here is the real deal, the frontend base was created using create-react-app to save time on bundlers, linters and configurations.
 
-
 UI: The views and components state are managed by React, using the latest features as:
 * Hooks 
 * Portals
@@ -40,7 +39,7 @@ UI: The views and components state are managed by React, using the latest featur
 * Suspense
 * Fragment
 
-CSS: Even when css-in-js is very trendy, i used a more classic approach using `sass` files, with reusable variables, there is a cool css netflix logo that appears as the loading indicator when the calendar events are loading.
+CSS: Even when css-in-js is very trendy, i used a more classic approach using `sass`, with reusable variables, there is a cool css netflix logo that appears as the loading indicator when the calendar events are loading.
 
 State management: I didn't use any state management because the app is small and doesn't share state to components outside, i keep the internal state using `useState` hook. I would have used them in this order depending on the size of the app -> React.Context, Mobx or Redux
 
@@ -48,9 +47,10 @@ Router: for routing i used `react-router-dom` to handle the route params and use
 
 Requests: for the HTTP requests library i used axios, just because it supports promises, so i can use the `async await` syntax, but I could have chosen any other that uses promises like superagent.
 
-Dates: I used `date-fns`, it a very useful, well documented and simple library for dates, i prefer it more than moment.js
+Dates: I used `date-fns`, it's a very useful, well documented and simple library for dates, i prefer it more than moment.js
 
-Performance: In order to improve the performance and handle the thousand of objects from `data-events` json, i made that the requests for only the current month you are viewing, If the user doesnt specify a year and month in the url or enters an invalid number, it will redirect you to the current date. I was planning to add memoization but due to the time i didn't implement it.
+Performance: In order to improve the performance and handle the thousand objects from `data-events` json, i set the requests for only the current month you are viewing, so it returns in chunks.
+If the user doesn't specify a year and month in the url or enters an invalid number, it will redirect you to the current date. useMemo could be added to memoize the functions in case the operations gets expensive.
 
 ---
 

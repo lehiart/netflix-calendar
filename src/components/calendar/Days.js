@@ -3,7 +3,6 @@ import Proptypes from 'prop-types'
 import dateFns from 'date-fns';
 import axios from 'axios'
 import Modal, { useModal } from '../common/Modal';
-import '../../styles/Calendar.scss'
 
 const getCellClassname = (day, monthStart, selectedDate) => {
   let customClass = 'col cell '
@@ -50,12 +49,12 @@ const DayCells = ({ currentDate }) => {
   const {isShowing, toggle} = useModal();
 
   useEffect(() => {
-    const getEvents = async () => {
-      let response = await axios.get(`http://localhost:3000/api/events/${dateFns.getYear(currentDate)}/${dateFns.getMonth(currentDate) + 1}`)
+    const getEvents = async (year, month) => {
+      const response = await axios.get(`http://localhost:3000/api/events/${year}/${month}`)
       setEvents(response.data)
     }
 
-    getEvents()
+    getEvents(dateFns.getYear(currentDate), dateFns.getMonth(currentDate) + 1)
   }, [currentDate]);
 
   const monthStart = dateFns.startOfMonth(currentDate);

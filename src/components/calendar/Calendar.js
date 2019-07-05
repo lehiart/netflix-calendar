@@ -19,9 +19,9 @@ const setDateFromURL = (params) => {
   }
 
   if (!month || isNaN(month)) {
-    date.month = dateFns.getMonth(current)
+    date.month = dateFns.getMonth(current) + 1
   } else {
-    date.month = month - 1
+    date.month = month
   }
 
   return new Date(date.year, date.month, dateFns.getDay(current))
