@@ -1,4 +1,21 @@
 module.exports = [
+    {
+        "title":"Stranger Things (Season 3)",
+        "type":"Movie",
+        "titlereleased":"2019",
+        "image_landscape":"https:\/\/occ-0-999-448.1.nflxso.net\/dnm\/api\/v5\/rendition\/412e4119fb212e3ca9f1add558e2e7fed42f8fb4\/AAAABWaXV8OQVl1orIlJInVg_vbR_xkVVsS3YajZLzR9UXIXBcE1Vfj8V69CtLopcD3OXP_Fj0KteqqrINE-3PPRWczxt3Ft59OThlIP1B7WgU2Dle58Tb5oy3xXSb9i_Bs_tmU8h3Vf6A.jpg",
+        "image_portrait":"https:\/\/dnm.nflximg.net\/api\/v6\/XsrytRUxks8BtTRf9HNlZkW2tvY\/AAAAAf4mq6FAbUMCOEtwKTcQnNtsNBQyQOAVQdyHgnd7BXAGxiUeMPkhoe30iPu0VVX9I7eF43u_BqN7di6hiXzp6CtZkJJ9.jpg?r=d7b",
+        "rating":"TV-14",
+        "quality":"UltraHD",
+        "actors":"Nesta Cooper, Kate Walsh, John Michael Higgins, Keith Powers",
+        "director":"Fernando Lebrija",
+        "category":"Comedies",
+        "imdb":"6.4\/10",
+        "runtime":"99 minutes",
+        "id":"80125979",
+        "date_released":"2019-09-08",
+        "description":"When nerdy high schooler Dani finally attracts the interest of her longtime crush, she lands in the cross hairs of his ex, a social media celebrity."
+    },
   {
       "title":"#realityhigh",
       "type":"Movie",
@@ -12,8 +29,8 @@ module.exports = [
       "category":"Comedies",
       "imdb":"6.4\/10",
       "runtime":"99 minutes",
-      "netflixid":"80125979",
-      "date_released":"2017-09-08",
+      "id":"80125979",
+      "date_released":"2019-09-08",
       "description":"When nerdy high schooler Dani finally attracts the interest of her longtime crush, she lands in the cross hairs of his ex, a social media celebrity."
   },
   {
@@ -29,8 +46,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80117470",
-      "date_released":"2017-03-31",
+      "id":"80117470",
+      "date_released":"2019-03-31",
       "description":"Why did Hannah Baker take her own life? Her classmates all have secrets ... and the truth is about to come out."
   },
   {
@@ -46,7 +63,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"8.1\/10",
       "runtime":"29 minutes",
-      "netflixid":"80996791",
+      "id":"80996791",
       "date_released":"2018-05-07",
       "description":"Cast members, writers, producers and mental health professionals discuss some of the difficult issues and themes explored in \"13 Reasons Why.\""
   },
@@ -63,7 +80,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.0\/10",
       "runtime":"100 minutes",
-      "netflixid":"80091741",
+      "id":"80091741",
       "date_released":"2016-10-07",
       "description":"In this thought-provoking documentary, scholars, activists and politicians analyze the criminalization of African Americans and the U.S. prison boom."
   },
@@ -80,7 +97,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"7.0\/10",
       "runtime":"124 minutes",
-      "netflixid":"81033429",
+      "id":"81033429",
       "date_released":"2019-03-29",
       "description":"On India's Independence Day, a zany mishap in a Mumbai chawl disrupts a young love story while compelling the residents to unite in aid of a little boy."
   },
@@ -97,8 +114,8 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"5.9\/10",
       "runtime":"102 minutes",
-      "netflixid":"80135164",
-      "date_released":"2017-10-20",
+      "id":"80135164",
+      "date_released":"2019-10-20",
       "description":"A farmer pens a confession admitting to his wife's murder, but her death is just the beginning of a macabre tale. Based on Stephen King's novella."
   },
   {
@@ -114,7 +131,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80205593",
+      "id":"80205593",
       "date_released":"2018-11-30",
       "description":"In this dark alt-history thriller, a na\u00efve law student and a world-weary detective uncover a conspiracy that has tyrannized Poland for decades."
   },
@@ -131,7 +148,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"5.8\/10",
       "runtime":"",
-      "netflixid":"80215076",
+      "id":"80215076",
       "date_released":"2018-03-01",
       "description":"Players and coaches for a Montreal soccer team chase dreams of stardom while their personal lives erupt with love, fear, passion and violence."
   },
@@ -148,7 +165,7 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"7.3\/10",
       "runtime":"144 minutes",
-      "netflixid":"80210932",
+      "id":"80210932",
       "date_released":"2018-10-10",
       "description":"After devastating terror attacks in Norway, a young survivor, grieving families and the country rally for justice and healing. Based on a true story."
   },
@@ -165,7 +182,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80074220",
+      "id":"80074220",
       "date_released":"2016-11-25",
       "description":"In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor."
   },
@@ -182,7 +199,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Sci-Fi & Fantasy",
       "imdb":"5.3\/10",
       "runtime":"",
-      "netflixid":"80179784",
+      "id":"80179784",
       "date_released":"2018-12-21",
       "description":"After crash-landing on Earth, two royal teen aliens on the run struggle to blend in with humans as they evade intergalactic bounty hunters."
   },
@@ -199,7 +216,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"4.2\/10",
       "runtime":"95 minutes",
-      "netflixid":"81016408",
+      "id":"81016408",
       "date_released":"2018-12-07",
       "description":"When the Italian prime minister meets his lover and political rival while on an official trip to Budapest during Christmas week, things go topsy-turvy."
   },
@@ -216,7 +233,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"6.0\/10",
       "runtime":"75 minutes",
-      "netflixid":"80130625",
+      "id":"80130625",
       "date_released":"2018-04-06",
       "description":"A loyal sister struggles to stay afloat while driving her heroin-addicted brother to a detox center and looking after his 2-year-old daughter."
   },
@@ -233,7 +250,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"77 minutes",
-      "netflixid":"80095197",
+      "id":"80095197",
       "date_released":"2016-10-27",
       "description":"Loyalties are tested and cruelties revealed when four business partners spend a tense evening debating who will pay for the crime they committed."
   },
@@ -250,7 +267,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80207124",
+      "id":"80207124",
       "date_released":"2018-12-21",
       "description":"Witness the excitement and drama behind the scenes in the seven days leading up to major live events in the worlds of sports, fashion, space and food."
   },
@@ -267,7 +284,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Science & Nature TV",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80165437",
+      "id":"80165437",
       "date_released":"2018-08-10",
       "description":"From fangs to claws to venomous stings, they all wield deadly weapons. But which creature will be crowned the fiercest of all?"
   },
@@ -284,8 +301,8 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Science & Nature TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80165247",
-      "date_released":"2017-12-22",
+      "id":"80165247",
+      "date_released":"2019-12-22",
       "description":"Powerful cats, indestructible arachnids and flesh-melting pit vipers are just the beginning in this series about Latin America's deadliest creatures."
   },
   {
@@ -301,8 +318,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas\n                  Romantic Movies",
       "imdb":"6.6\/10",
       "runtime":"92 minutes",
-      "netflixid":"80160759",
-      "date_released":"2017-11-17",
+      "id":"80160759",
+      "date_released":"2019-11-17",
       "description":"Christmas comes early for an aspiring young journalist when she's sent abroad to get the scoop on a dashing prince who's poised to be king."
   },
   {
@@ -318,7 +335,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas\n                  Romantic Movies",
       "imdb":"6.2\/10",
       "runtime":"92 minutes",
-      "netflixid":"80238204",
+      "id":"80238204",
       "date_released":"2018-11-30",
       "description":"A year after helping Richard secure the crown, Amber returns to Aldovia to plan their wedding. But her simple tastes clash with royal protocol."
   },
@@ -335,7 +352,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"7.9\/10",
       "runtime":"167 minutes",
-      "netflixid":"81073387",
+      "id":"81073387",
       "date_released":"2019-04-19",
       "description":"A gifted engineer flees his austere roots to pursue wealth and success among Copenhagen's elite, but the pride propelling him threatens to be his ruin."
   },
@@ -352,7 +369,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"6.6\/10",
       "runtime":"101 minutes",
-      "netflixid":"80107084",
+      "id":"80107084",
       "date_released":"2018-01-26",
       "description":"In a life full of triumph and failure, \"National Lampoon\" co-founder Doug Kenney built a comedy empire, molding pop culture in the 1970s."
   },
@@ -369,7 +386,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"95 minutes",
-      "netflixid":"81041391",
+      "id":"81041391",
       "date_released":"2019-04-12",
       "description":"A cop in Singapore investigates the disappearance of a Chinese migrant construction worker who spent sleepless nights playing a mysterious video game."
   },
@@ -386,7 +403,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80193475",
+      "id":"80193475",
       "date_released":"2018-05-04",
       "description":"Comedy icon Carol Burnett returns to TV with a panel of clever kids, who help adults and celebrity guests solve their problems with brutal honesty."
   },
@@ -403,8 +420,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80050008",
-      "date_released":"2017-01-13",
+      "id":"80050008",
+      "date_released":"2019-01-13",
       "description":"The extraordinary Baudelaire orphans face trials, tribulations and the evil Count Olaf in their fateful quest to unlock long-held family secrets."
   },
   {
@@ -420,8 +437,8 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.0\/10",
       "runtime":"25 minutes",
-      "netflixid":"80158854",
-      "date_released":"2017-12-01",
+      "id":"80158854",
+      "date_released":"2019-12-01",
       "description":"Bo thinks her holiday gift-giving isn't good enough, so she heads north to study under Santa Claus -- only to find he's missing."
   },
   {
@@ -437,7 +454,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80189619",
+      "id":"80189619",
       "date_released":"2019-01-26",
       "description":"A Taipei doctor and a San Francisco engineer swap homes in a daring pact, embarking on journeys filled with trials, secrets and unexpected encounters."
   },
@@ -454,7 +471,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"7.8\/10",
       "runtime":"122 minutes",
-      "netflixid":"80185375",
+      "id":"80185375",
       "date_released":"2018-12-28",
       "description":"Future Uruguayan president Jos\u00e9 Mujica and his fellow Tupamaro political prisoners fight to survive 12 years of solitary confinement and torture."
   },
@@ -471,7 +488,7 @@ module.exports = [
       "category":"Comedies\n                  Music & Musicals",
       "imdb":"5.3\/10",
       "runtime":"56 minutes",
-      "netflixid":"80042368",
+      "id":"80042368",
       "date_released":"2015-12-04",
       "description":"Bill Murray rounds up an all-star cast for an evening of music, mischief and barroom camaraderie in this irreverent twist on holiday variety shows."
   },
@@ -488,7 +505,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80097771",
+      "id":"80097771",
       "date_released":"2016-06-30",
       "description":"At the height of the Cold War in 1960, Andr\u00e9 Merlaux joins the French Secret Service and contends with enemies both foreign and bureaucratic."
   },
@@ -505,7 +522,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80161848",
+      "id":"80161848",
       "date_released":"2018-03-09",
       "description":"Everything Aiko knew was a lie. Now she's joining a team of Divers to reach the place where the Burst began to stop it for good and save her family."
   },
@@ -522,8 +539,8 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80057883",
-      "date_released":"2017-02-10",
+      "id":"80057883",
+      "date_released":"2019-02-10",
       "description":"Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life."
   },
   {
@@ -539,7 +556,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"81025800",
+      "id":"81025800",
       "date_released":"2018-10-19",
       "description":"Rejecting the demands of her wealthy family, a young woman poses as an ordinary college student and crosses paths with a stoic pop star at school."
   },
@@ -556,7 +573,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.6\/10",
       "runtime":"73 minutes",
-      "netflixid":"80224536",
+      "id":"80224536",
       "date_released":"2018-10-23",
       "description":"From \"Heroes\" to \"Ice Cream Ladies\" -- Adam Sandler's comedy special hits you with new songs and jokes in an unexpected, groundbreaking way."
   },
@@ -573,7 +590,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"58 minutes",
-      "netflixid":"80203919",
+      "id":"80203919",
       "date_released":"2018-03-01",
       "description":"From Casino du Liban, Lebanese actor and comedian Adel Karam delivers earthy punchlines on kissing norms, colonoscopies and a memorable trip to Africa."
   },
@@ -590,8 +607,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.6\/10",
       "runtime":"62 minutes",
-      "netflixid":"80183329",
-      "date_released":"2017-07-18",
+      "id":"80183329",
+      "date_released":"2019-07-18",
       "description":"Trailblazing comic Aditi Mittal mixes topical stand-up with frank talk about being single, wearing thongs and the awkwardness of Indian movie ratings."
   },
   {
@@ -607,7 +624,7 @@ module.exports = [
       "category":"Docuseries\n                  Reality TV",
       "imdb":"4.3\/10",
       "runtime":"",
-      "netflixid":"80188953",
+      "id":"80188953",
       "date_released":"2018-08-10",
       "description":"Baffling symptoms. Controversial diagnoses. Costly treatments. Seven people with chronic illnesses search for answers -- and relief."
   },
@@ -624,7 +641,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80998491",
+      "id":"80998491",
       "date_released":"2019-03-08",
       "description":"Struggling to come to terms with his wife's death, a writer for a newspaper adopts a gruff new persona in an effort to push away those trying to help."
   },
@@ -641,7 +658,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80198505",
+      "id":"80198505",
       "date_released":"2018-04-20",
       "description":"Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work."
   },
@@ -658,7 +675,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.5\/10",
       "runtime":"22 minutes",
-      "netflixid":"81008536",
+      "id":"81008536",
       "date_released":"2018-12-20",
       "description":"While Retsuko desperately makes plans for Christmas Eve, her new obsession with seeking validation through social media spirals out of control."
   },
@@ -675,7 +692,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.5\/10",
       "runtime":"60 minutes",
-      "netflixid":"80191555",
+      "id":"80191555",
       "date_released":"2018-02-16",
       "description":"Argentine comedian Agust\u00edn Aristar\u00e1n adds doses of magic, music and acting to his high-energy stand-up routine."
   },
@@ -692,7 +709,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV\n                  Romantic TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80174280",
+      "id":"80174280",
       "date_released":"2018-04-19",
       "description":"Seven men and women board a pink bus in search of true love. On a journey through Asia with strangers, their goal is to return to Japan as a couple."
   },
@@ -709,7 +726,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80043576",
+      "id":"80043576",
       "date_released":"2016-04-12",
       "description":"A teenager discovers that he is an Ajin and flees before the authorities experiment on him. Other Ajin plan to fight back and he must choose a side."
   },
@@ -726,8 +743,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"53 minutes",
-      "netflixid":"80124724",
-      "date_released":"2017-08-04",
+      "id":"80124724",
+      "date_released":"2019-08-04",
       "description":"Mexican comic Alan Salda\u00f1a has fun with everything from the pressure of sitting in an exit row to maxing out his credit card in this stand-up special."
   },
   {
@@ -743,7 +760,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"80192136",
+      "id":"80192136",
       "date_released":"2018-01-10",
       "description":"Colombian comedian Alejandro Ria\u00f1o discusses the perks of dating a she-wolf, styles of dancing, the quirks of Bogot\u00e1 men and soccer game announcers."
   },
@@ -760,7 +777,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"6.7\/10",
       "runtime":"99 minutes",
-      "netflixid":"80168189",
+      "id":"80168189",
       "date_released":"2018-06-08",
       "description":"High school senior Alex Truelove's plan to lose his virginity to lovable girlfriend Claire goes awry when he meets the equally lovable Elliot."
   },
@@ -777,7 +794,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80174285",
+      "id":"80174285",
       "date_released":"2018-03-23",
       "description":"Alexa is battling cancer. But with her best friend, Katie, by her side, she's also starting high school -- and ready for whatever comes next."
   },
@@ -794,7 +811,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.6\/10",
       "runtime":"60 minutes",
-      "netflixid":"80101493",
+      "id":"80101493",
       "date_released":"2016-05-06",
       "description":"Ali Wong's stand-up special delves into her sexual adventures, hoarding, the rocky road to pregnancy, and why feminism is terrible."
   },
@@ -811,7 +828,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.7\/10",
       "runtime":"64 minutes",
-      "netflixid":"80186940",
+      "id":"80186940",
       "date_released":"2018-05-13",
       "description":"Two years after the hit \"Baby Cobra,\" Ali Wong is back with another baby bump -- and a torrent of hilarious truths about marriage and motherhood."
   },
@@ -828,7 +845,7 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  International Movies",
       "imdb":"8.1\/10",
       "runtime":"109 minutes",
-      "netflixid":"80244709",
+      "id":"80244709",
       "date_released":"2018-06-08",
       "description":"After telling a white lie that spins out of control, the son of an Iraqi-born cleric in Melbourne becomes torn between family duty and his own heart."
   },
@@ -845,8 +862,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80119411",
-      "date_released":"2017-11-03",
+      "id":"80119411",
+      "date_released":"2019-11-03",
       "description":"In 19th-century Canada, a psychiatrist weighs whether a murderess should be pardoned due to insanity. Based on Margaret Atwood's award-winning novel."
   },
   {
@@ -862,7 +879,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"2.8\/10",
       "runtime":"",
-      "netflixid":"80211884",
+      "id":"80211884",
       "date_released":"2018-08-10",
       "description":"Hip-hop icon MC Joe Speed retires from showbiz and finds a new rhythm balancing business, romance and everyday family chaos."
   },
@@ -879,8 +896,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80018987",
-      "date_released":"2014-12-19",
+      "id":"80018987",
+      "date_released":"2020-12-19",
       "description":"In this Emmy winner for Outstanding Children's Animated Program, Madagascar booty-shaker King Julien takes on the jungle\u2019s craziest adventures."
   },
   {
@@ -896,8 +913,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Comedies",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80174364",
-      "date_released":"2017-05-12",
+      "id":"80174364",
+      "date_released":"2019-05-12",
       "description":"Julien's been dethroned, but loyal friends and some very unlikely allies will propel the lovable lemur on a colorful journey to take back his kingdom."
   },
   {
@@ -913,7 +930,7 @@ module.exports = [
       "category":"Documentaries\n                  LGBTQ Movies",
       "imdb":"7.0\/10",
       "runtime":"40 minutes",
-      "netflixid":"80208662",
+      "id":"80208662",
       "date_released":"2019-05-03",
       "description":"After starting a family of his very own in America, a gay filmmaker documents his loving, traditional Chinese family's process of acceptance."
   },
@@ -930,7 +947,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80097140",
+      "id":"80097140",
       "date_released":"2018-02-02",
       "description":"After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder."
   },
@@ -947,7 +964,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80205595",
+      "id":"80205595",
       "date_released":"2019-02-01",
       "description":"A young 17th-century witch time travels to the future to save the man she loves, but first must adjust to present-day Cartagena and defeat a dark rival."
   },
@@ -964,7 +981,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.6\/10",
       "runtime":"92 minutes",
-      "netflixid":"80081155",
+      "id":"80081155",
       "date_released":"2016-09-30",
       "description":"She was twice convicted and acquitted of murder. Amanda Knox and the people closest to her case speak out in this illuminating documentary."
   },
@@ -981,7 +998,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Sports Movies",
       "imdb":"6.5\/10",
       "runtime":"96 minutes",
-      "netflixid":"80096984",
+      "id":"80096984",
       "date_released":"2018-04-06",
       "description":"After he's recruited to an elite prep school, a 14-year-old basketball phenom is confronted by corruption and greed in amateur sports."
   },
@@ -998,7 +1015,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Reality TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80184067",
+      "id":"80184067",
       "date_released":"2018-07-20",
       "description":"Meet eccentric homeowners whose seemingly ordinary spaces are full of surprises, from a backyard roller coaster to an indoor aquarium."
   },
@@ -1015,8 +1032,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Comedies\n                  Teen TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80117545",
-      "date_released":"2017-09-15",
+      "id":"80117545",
+      "date_released":"2019-09-15",
       "description":"In the wake of their first documentary's success, Peter and Sam seek a new case and settle on a stomach-churning mystery at a Washington high school."
   },
   {
@@ -1032,7 +1049,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80218962",
+      "id":"80218962",
       "date_released":"2018-04-09",
       "description":"Despite the Philippine government's crackdown on narcotics, high schooler Joseph expands his drug running while his cop uncle profits from corruption."
   },
@@ -1049,7 +1066,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"81037077",
+      "id":"81037077",
       "date_released":"2019-03-19",
       "description":"Amy Schumer spills on her new marriage, personal growth, making a baby and her mom's misguided advice in a special that's both raunchy and sincere."
   },
@@ -1066,8 +1083,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.0\/10",
       "runtime":"57 minutes",
-      "netflixid":"80150002",
-      "date_released":"2017-03-07",
+      "id":"80150002",
+      "date_released":"2019-03-07",
       "description":"Comic sensation Amy Schumer riffs on sex, dating and the absurdities of fame in a bold and uncensored stand-up set at Denver's Bellco Theater."
   },
   {
@@ -1083,7 +1100,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"8.0\/10",
       "runtime":"102 minutes",
-      "netflixid":"80998427",
+      "id":"80998427",
       "date_released":"2019-01-04",
       "description":"An Icelandic single mom struggling with poverty and a Guinea-Bissauan asylum seeker facing deportation find their lives intertwined in unexpected ways."
   },
@@ -1100,7 +1117,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"6.8\/10",
       "runtime":"30 minutes",
-      "netflixid":"80230507",
+      "id":"80230507",
       "date_released":"2018-11-30",
       "description":"A trip to church with her family on Christmas Eve gives young Angela an extraordinary idea. A heartwarming tale based on a story by Frank McCourt."
   },
@@ -1117,7 +1134,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"5.7\/10",
       "runtime":"87 minutes",
-      "netflixid":"80239629",
+      "id":"80239629",
       "date_released":"2019-01-25",
       "description":"A teen's eerie visions become increasingly frequent and terrifying after her longtime friend gets a girlfriend and his abusive dad is strangely killed."
   },
@@ -1134,7 +1151,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"63 minutes",
-      "netflixid":"80046779",
+      "id":"80046779",
       "date_released":"2015-10-02",
       "description":"The actress, comedian and YouTube sensation riffs on everything from nail salons and Gypsies to Mexican moms and super-sleuthing Liam Neeson."
   },
@@ -1151,8 +1168,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"8.4\/10",
       "runtime":"",
-      "netflixid":"80136311",
-      "date_released":"2017-05-12",
+      "id":"80136311",
+      "date_released":"2019-05-12",
       "description":"A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on \"Anne of Green Gables.\""
   },
   {
@@ -1168,7 +1185,7 @@ module.exports = [
       "category":"Dramas\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"5.8\/10",
       "runtime":"100 minutes",
-      "netflixid":"80195964",
+      "id":"80195964",
       "date_released":"2018-05-04",
       "description":"In a future where technology has rendered privacy obsolete, a detective investigates a serial assassin who has been deleted from all visual records."
   },
@@ -1185,7 +1202,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"64 minutes",
-      "netflixid":"80227677",
+      "id":"80227677",
       "date_released":"2019-04-30",
       "description":"Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can't in this stand-up special shot in New York."
   },
@@ -1202,7 +1219,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"59 minutes",
-      "netflixid":"80043049",
+      "id":"80043049",
       "date_released":"2015-10-16",
       "description":"There's no subject too dark as the comedian skewers taboos and riffs on national tragedies before pulling back the curtain on his provocative style."
   },
@@ -1219,7 +1236,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies\n                  Sports Movies",
       "imdb":"6.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"81049949",
+      "id":"81049949",
       "date_released":"2019-03-21",
       "description":"With heart and determination, Antoine Griezmann overcame his small stature to become one of the world\u2019s top soccer players and a World Cup champion."
   },
@@ -1236,7 +1253,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies\n                  Thrillers",
       "imdb":"6.2\/10",
       "runtime":"130 minutes",
-      "netflixid":"80158148",
+      "id":"80158148",
       "date_released":"2018-10-12",
       "description":"In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island."
   },
@@ -1253,7 +1270,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.0\/10",
       "runtime":"62 minutes",
-      "netflixid":"80191988",
+      "id":"80191988",
       "date_released":"2018-01-17",
       "description":"Colombian stand-up comedians Antonio Sanint and Juli\u00e1n Arango impersonate an Argentine visitor and a cabbie, and a pair of dirty old men at the opera."
   },
@@ -1270,8 +1287,8 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Dramas",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80214115",
-      "date_released":"2017-11-22",
+      "id":"80214115",
+      "date_released":"2019-11-22",
       "description":"In a world filled with provocative (and often misleading) news, a passionate team of investigative TV reporters strives to bring truths to light."
   },
   {
@@ -1287,8 +1304,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80192842",
-      "date_released":"2017-07-18",
+      "id":"80192842",
+      "date_released":"2019-07-18",
       "description":"Wry yet thoughtful, comedian Ari Shaffir brings his edgy humor to two fast-paced stand-up specials about children and adulthood."
   },
   {
@@ -1304,7 +1321,7 @@ module.exports = [
       "category":"International Movies\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"6.1\/10",
       "runtime":"88 minutes",
-      "netflixid":"80092885",
+      "id":"80092885",
       "date_released":"2016-09-16",
       "description":"Trapped in a lab and stuck in a time loop, a disoriented couple fends off masked raiders while harboring a new energy source that could save humanity."
   },
@@ -1321,7 +1338,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"70140358",
+      "id":"70140358",
       "date_released":"2013-08-30",
       "description":"It's the Emmy-winning story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together."
   },
@@ -1338,7 +1355,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Science & Nature TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81003997",
+      "id":"81003997",
       "date_released":"2018-10-19",
       "description":"From allergies to diet to sleep, three friendly doctors share expert advice, bust medical myths and test the latest treatments."
   },
@@ -1355,7 +1372,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80108159",
+      "id":"80108159",
       "date_released":"2016-08-12",
       "description":"Five curious little creatures track down the answers to kids' biggest questions, like how night happens or why we need to brush our teeth."
   },
@@ -1372,7 +1389,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80067618",
+      "id":"80067618",
       "date_released":"2015-12-01",
       "description":"A young \"fabric geek\" lands a job at an upscale Japanese lingerie company -- and quickly discovers she'll need help to survive."
   },
@@ -1389,8 +1406,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80117540",
-      "date_released":"2017-08-11",
+      "id":"80117540",
+      "date_released":"2019-08-11",
       "description":"When a teen on the autism spectrum decides to get a girlfriend, his bid for more independence puts his whole family on a path of self-discovery."
   },
   {
@@ -1406,7 +1423,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.3\/10",
       "runtime":"98 minutes",
-      "netflixid":"80097321",
+      "id":"80097321",
       "date_released":"2016-09-23",
       "description":"In this wrenching documentary, two teens are sexually assaulted by boys they considered friends, humiliated online and harassed by their communities."
   },
@@ -1423,7 +1440,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"58 minutes",
-      "netflixid":"80038296",
+      "id":"80038296",
       "date_released":"2015-03-06",
       "description":"Stand-up comedian and TV star Aziz Ansari (\"Parks and Recreation\") delivers his sharp-witted take on immigrants, relationships and the food industry."
   },
@@ -1440,7 +1457,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.1\/10",
       "runtime":"79 minutes",
-      "netflixid":"70290568",
+      "id":"70290568",
       "date_released":"2013-11-01",
       "description":"\"Parks and Recreation\" star Aziz Ansari takes the stage to share his unfiltered views on adulthood, babies, marriage, love and more in the modern era."
   },
@@ -1457,7 +1474,7 @@ module.exports = [
       "category":"Anime Series\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80097594",
+      "id":"80097594",
       "date_released":"2018-03-02",
       "description":"Genius investigator Keith Flick rejoins the royal police force just as serial killer \"B\" emerges. Mysterious youth Koku may be an ally, or a target."
   },
@@ -1474,7 +1491,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80211634",
+      "id":"80211634",
       "date_released":"2018-11-30",
       "description":"Fed up with their families and classmates, two teen girls from a wealthy part of Rome are drawn to the city's underworld and start leading double lives."
   },
@@ -1491,7 +1508,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.5\/10",
       "runtime":"",
-      "netflixid":"80136321",
+      "id":"80136321",
       "date_released":"2018-01-30",
       "description":"A Soviet freight train's hijacking leads a haunted cop and a poor typist to uncover a political conspiracy amid the vice and glamour of 1929 Berlin."
   },
@@ -1508,7 +1525,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80996957",
+      "id":"80996957",
       "date_released":"2018-12-12",
       "description":"To pay for an epic blunder, three yakuza brothers are forced to alter their bodies, form a girl group and break into the underground J-Pop idol scene."
   },
@@ -1525,7 +1542,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV\n                  Romantic TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80210995",
+      "id":"80210995",
       "date_released":"2019-01-11",
       "description":"New beginnings or old baggage? Four singles have one chance to reignite romance with an ex -- or leave the past behind for good."
   },
@@ -1542,7 +1559,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80221787",
+      "id":"80221787",
       "date_released":"2018-12-07",
       "description":"This sprawling crime drama follows the true story of the Rizzuto family and its associates, who presided over organized crime in Montreal for decades."
   },
@@ -1559,7 +1576,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80214772",
+      "id":"80214772",
       "date_released":"2018-03-08",
       "description":"Ordered to take down a villainous business leader who controls the city, a prosecutor gathers a team of men who may not be so clean themselves."
   },
@@ -1576,7 +1593,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"8.2\/10",
       "runtime":"105 minutes",
-      "netflixid":"80999643",
+      "id":"80999643",
       "date_released":"2018-12-21",
       "description":"Troubled by his past, a scam artist who runs a petty racket with his adoptive mom finds redemption while mentoring a group of difficult students."
   },
@@ -1593,7 +1610,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80204451",
+      "id":"80204451",
       "date_released":"2018-12-18",
       "description":"While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on."
   },
@@ -1610,7 +1627,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80242036",
+      "id":"80242036",
       "date_released":"2019-03-08",
       "description":"A loving couple become rivals when Belle opens a fusion bistro next to her ex-boyfriend Kram\u2019s traditional restaurant in Bangkok\u2019s chic Ari district."
   },
@@ -1627,7 +1644,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80236408",
+      "id":"80236408",
       "date_released":"2019-03-08",
       "description":"From a teenage parkour enthusiast to a bawdy restaurateur, an eclectic group of characters find romance in Bangkok's glittering Silom district."
   },
@@ -1644,8 +1661,8 @@ module.exports = [
       "category":"Music & Musicals",
       "imdb":"8.0\/10",
       "runtime":"108 minutes",
-      "netflixid":"80203522",
-      "date_released":"2017-11-22",
+      "id":"80203522",
+      "date_released":"2019-11-22",
       "description":"Iconic songstress Barbra Streisand culminates her 13-city tour in Miami with dazzling ballads, Broadway standards and stories from behind the scenes."
   },
   {
@@ -1661,7 +1678,7 @@ module.exports = [
       "category":"Dramas",
       "imdb":"5.3\/10",
       "runtime":"104 minutes",
-      "netflixid":"80144803",
+      "id":"80144803",
       "date_released":"2016-12-16",
       "description":"A young Barack Obama forges his identity while dealing with race, divergent cultures and ordinary life as a New York City college student."
   },
@@ -1678,7 +1695,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.6\/10",
       "runtime":"98 minutes",
-      "netflixid":"81002685",
+      "id":"81002685",
       "date_released":"2018-12-01",
       "description":"After Amalie's dad goes bankrupt, the young dancer's affluent life collapses. But she finds a new beat to follow after meeting hip-hop dancer Mikael."
   },
@@ -1695,7 +1712,7 @@ module.exports = [
       "category":"Reality TV\n                  Science & Nature TV\n                  TV Action & Adventure",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80195173",
+      "id":"80195173",
       "date_released":"2018-09-21",
       "description":"Over the course of a fishing season, tough men and women pursue lucrative albacore tuna in the competitive waters off the Oregon coast."
   },
@@ -1712,7 +1729,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Sports Movies",
       "imdb":"5.8\/10",
       "runtime":"101 minutes",
-      "netflixid":"80188579",
+      "id":"80188579",
       "date_released":"2019-03-29",
       "description":"Alone in Finland, a retired Mexican boxer lives in desolation under the weight of an agonizing past, until he gets a shot at redemption in the ring."
   },
@@ -1729,7 +1746,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"7.6\/10",
       "runtime":"137 minutes",
-      "netflixid":"80044545",
+      "id":"80044545",
       "date_released":"2015-10-16",
       "description":"When civil war tears his family apart, a young West African boy is forced to join a unit of mercenary fighters and transform into a child soldier."
   },
@@ -1746,7 +1763,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80057611",
+      "id":"80057611",
       "date_released":"2016-08-03",
       "description":"With songs made famous by the Beatles, five friendly bugs learn big lessons about the world around them -- all from the safety of their own backyard."
   },
@@ -1763,8 +1780,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Music & Musicals",
       "imdb":"7.3\/10",
       "runtime":"50 minutes",
-      "netflixid":"80208104",
-      "date_released":"2017-11-21",
+      "id":"80208104",
+      "date_released":"2019-11-21",
       "description":"After winning a local talent show, the Beat Bugs journey to compete on \"The Bug Factor,\" a televised singing contest held in faraway Rocket Ship Park."
   },
   {
@@ -1780,7 +1797,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Music & Musicals",
       "imdb":"6.6\/10",
       "runtime":"100 minutes",
-      "netflixid":"80211622",
+      "id":"80211622",
       "date_released":"2018-10-26",
       "description":"A single mother in London's Camden Town hears music when she meets a handsome stranger with a past. But she's not sure she's ready to open her heart."
   },
@@ -1797,7 +1814,7 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"6.4\/10",
       "runtime":"97 minutes",
-      "netflixid":"80002667",
+      "id":"80002667",
       "date_released":"2018-01-05",
       "description":"Still mourning the death of their son, Mark and Jessie welcome foster child Cody into their lives. Soon they discover he has a strange ability."
   },
@@ -1814,7 +1831,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas",
       "imdb":"6.8\/10",
       "runtime":"87 minutes",
-      "netflixid":"80204923",
+      "id":"80204923",
       "date_released":"2018-03-16",
       "description":"A determined dog comes to the rescue and helps heal a broken family when a young boy and his sister stumble into some serious danger."
   },
@@ -1831,7 +1848,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.4\/10",
       "runtime":"57 minutes",
-      "netflixid":"80238360",
+      "id":"80238360",
       "date_released":"2018-08-24",
       "description":"Shirtless comic Bert Kreischer relays personal secrets and stories about being a cool -- if not always responsible -- dad in this stand-up special."
   },
@@ -1848,7 +1865,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80207486",
+      "id":"80207486",
       "date_released":"2018-10-19",
       "description":"Teenage friends plan an epic trip to Comic-Con to meet their idol, only to get caught in one hilariously awkward predicament after another."
   },
@@ -1865,7 +1882,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"5.4\/10",
       "runtime":"",
-      "netflixid":"80022632",
+      "id":"80022632",
       "date_released":"2015-05-22",
       "description":"After a mysterious disease kills every resident over 21 years old, survivors of a town must fend for themselves when the government quarantines them."
   },
@@ -1882,8 +1899,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80197912",
-      "date_released":"2017-10-27",
+      "id":"80197912",
+      "date_released":"2019-10-27",
       "description":"Secrets from the \"Stranger Things 2\" universe are revealed as cast and guests discuss the latest episodes with host Jim Rash. Caution: spoilers ahead!"
   },
   {
@@ -1899,8 +1916,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80117038",
-      "date_released":"2017-09-29",
+      "id":"80117038",
+      "date_released":"2019-09-29",
       "description":"Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg."
   },
   {
@@ -1916,8 +1933,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.8\/10",
       "runtime":"80 minutes",
-      "netflixid":"80004478",
-      "date_released":"2014-12-05",
+      "id":"80004478",
+      "date_released":"2020-12-05",
       "description":"Bill Burr escapes the zombie apocalypse, explores how rom-coms ruin great sex and explains how too many childhood hugs may be the downfall of man."
   },
   {
@@ -1933,8 +1950,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"77 minutes",
-      "netflixid":"80133549",
-      "date_released":"2017-01-31",
+      "id":"80133549",
+      "date_released":"2019-01-31",
       "description":"No-nonsense comic Bill Burr takes the stage in Nashville and riffs on fast food, overpopulation, dictators and gorilla sign language."
   },
   {
@@ -1950,8 +1967,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows",
       "imdb":"2.3\/10",
       "runtime":"",
-      "netflixid":"80117748",
-      "date_released":"2017-04-21",
+      "id":"80117748",
+      "date_released":"2019-04-21",
       "description":"Emmy-winning host Bill Nye brings experts and famous guests to his lab for a talk show exploring scientific issues that touch our lives."
   },
   {
@@ -1967,7 +1984,7 @@ module.exports = [
       "category":"Dramas\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"7.2\/10",
       "runtime":"124 minutes",
-      "netflixid":"80196789",
+      "id":"80196789",
       "date_released":"2018-12-21",
       "description":"Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety."
   },
@@ -1984,7 +2001,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80992232",
+      "id":"80992232",
       "date_released":"2019-03-29",
       "description":"While investigating the disappearance of a teen girl in a tight-knit Galician town, a Civil Guard officer uncovers secrets linked to a loss of her own."
   },
@@ -2001,8 +2018,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80214013",
-      "date_released":"2017-12-15",
+      "id":"80214013",
+      "date_released":"2019-12-15",
       "description":"A Grim Reaper, a detective and a woman who foresees death get ensnared in matters of life and death -- and dark mysteries of twenty years past."
   },
   {
@@ -2018,7 +2035,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80145141",
+      "id":"80145141",
       "date_released":"2019-01-25",
       "description":"Adopted by a human rights attorney after the Rwandan genocide, legal investigator Kate Ashby confronts her past when she takes on war crimes cases."
   },
@@ -2035,7 +2052,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"70264888",
+      "id":"70264888",
       "date_released":"2015-12-25",
       "description":"This sci-fi anthology series explores a twisted, high-tech near-future where humanity's greatest innovations and darkest instincts collide."
   },
@@ -2052,7 +2069,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"7.4\/10",
       "runtime":"2 minutes",
-      "netflixid":"80988062",
+      "id":"80988062",
       "date_released":"2018-12-28",
       "description":"In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings."
   },
@@ -2069,7 +2086,7 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Dramas\n                  TV Horror",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80198988",
+      "id":"80198988",
       "date_released":"2019-04-11",
       "description":"In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones."
   },
@@ -2086,8 +2103,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Anime Features\n                  International Movies",
       "imdb":"6.6\/10",
       "runtime":"106 minutes",
-      "netflixid":"80115466",
-      "date_released":"2017-05-19",
+      "id":"80115466",
+      "date_released":"2019-05-19",
       "description":"Inside a vast, self-replicating city bent on eliminating all life, mysterious loner Killy emerges to guide a remnant of humanity desperate to survive."
   },
   {
@@ -2103,8 +2120,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Comedies",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80175822",
-      "date_released":"2017-11-10",
+      "id":"80175822",
+      "date_released":"2019-11-10",
       "description":"Featuring the boys of Johnny's West, a gang of zany transfer students are recruited for a mysterious mission ordained by their shadowy principal."
   },
   {
@@ -2120,7 +2137,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"6.6\/10",
       "runtime":"108 minutes",
-      "netflixid":"80217733",
+      "id":"80217733",
       "date_released":"2018-09-14",
       "description":"When high schooler Ichigo is suddenly given reaper abilities, he really wants to give the powers back. But he'll have to reap some souls first."
   },
@@ -2137,7 +2154,7 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"85 minutes",
-      "netflixid":"80194737",
+      "id":"80194737",
       "date_released":"2018-01-24",
       "description":"Dumped over a video he made to amuse his ailing dad, a heartsick J\u00e9r\u00e9my hatches an elaborate scheme to win back his superhero-loving girlfriend, Lola."
   },
@@ -2154,7 +2171,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81003880",
+      "id":"81003880",
       "date_released":"2018-10-10",
       "description":"An ambitious TV reporter uses risky and ethically questionable methods to report on gang wars and police corruption in the Amazon port of Bel\u00e9m, Brazil."
   },
@@ -2171,7 +2188,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Mysteries\n                  TV Thrillers",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80010655",
+      "id":"80010655",
       "date_released":"2015-03-20",
       "description":"When the black sheep son of a respected family threatens to expose dark secrets from their past, sibling loyalties are put to the test."
   },
@@ -2188,7 +2205,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.4\/10",
       "runtime":"60 minutes",
-      "netflixid":"80106124",
+      "id":"80106124",
       "date_released":"2016-06-03",
       "description":"Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special."
   },
@@ -2205,7 +2222,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80174282",
+      "id":"80174282",
       "date_released":"2018-04-27",
       "description":"Historic footage and leading voices of the era examine the \"Bobby Phenomenon\" of the 1960s and the legacy of the man who helped redefine the country."
   },
@@ -2222,7 +2239,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80220035",
+      "id":"80220035",
       "date_released":"2018-09-14",
       "description":"Players, fans and staff of soccer powerhouse Boca Juniors provide an exclusive, behind-the-scenes look at Argentina's legendary club."
   },
@@ -2239,7 +2256,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80235864",
+      "id":"80235864",
       "date_released":"2018-10-24",
       "description":"After helping thwart a terrorist attack, a war veteran is assigned to protect a politician who was a main proponent of the very conflict he fought in."
   },
@@ -2256,8 +2273,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"70300800",
-      "date_released":"2014-08-22",
+      "id":"70300800",
+      "date_released":"2020-08-22",
       "description":"Meet the most beloved sitcom horse of the '90s, 20 years later. He\u2019s a curmudgeon with a heart of...not quite gold...but something like gold. Copper?"
   },
   {
@@ -2273,8 +2290,8 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.3\/10",
       "runtime":"25 minutes",
-      "netflixid":"80019503",
-      "date_released":"2014-12-19",
+      "id":"80019503",
+      "date_released":"2020-12-19",
       "description":"It's Christmas, and BoJack wants nothing to do with it. Then Todd shows up with a giant candy cane and an old \"Horsin' Around\" Christmas episode."
   },
   {
@@ -2290,8 +2307,8 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  International Movies",
       "imdb":"5.5\/10",
       "runtime":"89 minutes",
-      "netflixid":"80134526",
-      "date_released":"2017-10-12",
+      "id":"80134526",
+      "date_released":"2019-10-12",
       "description":"In this dark comedy, a dysfunctional group of wannabe Basque terrorists awaits word about a new mission while Spain makes a run at the World Cup title."
   },
   {
@@ -2307,7 +2324,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81004814",
+      "id":"81004814",
       "date_released":"2019-04-24",
       "description":"A New York City grad student moonlighting as a dominatrix enlists her gay BFF from high school to be her assistant."
   },
@@ -2324,8 +2341,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80141270",
-      "date_released":"2017-10-05",
+      "id":"80141270",
+      "date_released":"2019-10-05",
       "description":"A new couple, their exes and their children navigate the emotional challenges and tricky logistics of blended family life in this Swedish dramedy."
   },
   {
@@ -2341,7 +2358,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80174617",
+      "id":"80174617",
       "date_released":"2018-03-06",
       "description":"To protect his family, a police detective covers up a murder case. But when his partner suspects foul play, he is trapped in a dangerous game on duty."
   },
@@ -2358,8 +2375,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80145143",
-      "date_released":"2017-03-31",
+      "id":"80145143",
+      "date_released":"2019-03-31",
       "description":"A gifted detective takes a job in a small town so he can spend more time with his family. But he's soon drawn into a web of disturbing murder cases."
   },
   {
@@ -2375,7 +2392,7 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80022276",
+      "id":"80022276",
       "date_released":"2016-08-19",
       "description":"The fun-loving Gumbles bounce and play while staying away from the foul-smelling Bottersnikes who live in a nearby junkyard."
   },
@@ -2392,8 +2409,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.7\/10",
       "runtime":"63 minutes",
-      "netflixid":"80185166",
-      "date_released":"2017-08-15",
+      "id":"80185166",
+      "date_released":"2019-08-15",
       "description":"Country music star Brad Paisley hosts a night of music and laughs with comics Nate Bargatze, John Heffron, Jon Reep, Sarah Tiana and Mike E. Winfield."
   },
   {
@@ -2409,7 +2426,7 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  International Movies",
       "imdb":"5.4\/10",
       "runtime":"95 minutes",
-      "netflixid":"80097355",
+      "id":"80097355",
       "date_released":"2016-07-06",
       "description":"This homage to 1980s teen sex comedies follows a college quiz bowl champion who knows almost everything -- except how to talk to women."
   },
@@ -2426,7 +2443,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"7.2\/10",
       "runtime":"89 minutes",
-      "netflixid":"80128245",
+      "id":"80128245",
       "date_released":"2018-06-22",
       "description":"Stricken with seizures, psychosis and memory loss, a young New York Post reporter visits doctor after doctor in search of an elusive diagnosis."
   },
@@ -2443,7 +2460,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80215086",
+      "id":"80215086",
       "date_released":"2018-11-02",
       "description":"From germs and emotions to social media and more, it's the science of your world explained in a way that's refreshingly relatable."
   },
@@ -2460,7 +2477,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"76 minutes",
-      "netflixid":"81010166",
+      "id":"81010166",
       "date_released":"2019-04-19",
       "description":"With humor and empathy, Bren\u00e9 Brown discusses what it takes to choose courage over comfort in a culture defined by scarcity, fear and uncertainty."
   },
@@ -2477,8 +2494,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"61 minutes",
-      "netflixid":"80134827",
-      "date_released":"2017-11-21",
+      "id":"80134827",
+      "date_released":"2019-11-21",
       "description":"Brian Regan takes relatable family humor to new heights as he talks board games, underwear elastic and looking for hot dogs in all the wrong places."
   },
   {
@@ -2494,8 +2511,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Sci-Fi & Fantasy",
       "imdb":"6.2\/10",
       "runtime":"117 minutes",
-      "netflixid":"80119234",
-      "date_released":"2017-12-22",
+      "id":"80119234",
+      "date_released":"2019-12-22",
       "description":"In an LA rife with interspecies tensions, a human cop and his orc partner stumble on a powerful object and become embroiled in a prophesied turf war."
   },
   {
@@ -2511,7 +2528,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.3\/10",
       "runtime":"100 minutes",
-      "netflixid":"80992995",
+      "id":"80992995",
       "date_released":"2018-08-03",
       "description":"Faking his death to escape the realities of his uneventful life worked out well for Brij Mohan -- until he was sentenced to death for his own murder."
   },
@@ -2528,7 +2545,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"6.1\/10",
       "runtime":"103 minutes",
-      "netflixid":"80987464",
+      "id":"80987464",
       "date_released":"2019-03-01",
       "description":"Two best friends put their careers and marriages on the line when they launch a business hosting outrageous, anything-goes bachelor parties in Hungary."
   },
@@ -2545,8 +2562,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80081170",
-      "date_released":"2017-03-10",
+      "id":"80081170",
+      "date_released":"2019-03-10",
       "description":"Follow the outrageous, high-octane adventures of Buddy Thunderstruck, a truck-racing dog who brings guts and good times to the town of Greasepit."
   },
   {
@@ -2562,8 +2579,8 @@ module.exports = [
       "category":"Movies",
       "imdb":"8.0\/10",
       "runtime":"13 minutes",
-      "netflixid":"80149064",
-      "date_released":"2017-07-14",
+      "id":"80149064",
+      "date_released":"2019-07-14",
       "description":"Champion truck-racing dog Buddy and his handyman ferret pal Darnell test potentially awesome (but mostly terrible) ideas in this interactive adventure."
   },
   {
@@ -2579,7 +2596,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80216094",
+      "id":"80216094",
       "date_released":"2018-11-27",
       "description":"When Jeff Ross and Dave Attell take the stage, no one is safe. With the help of special guests, they're packing a lot of laughs into one epic weekend."
   },
@@ -2596,7 +2613,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.7\/10",
       "runtime":"103 minutes",
-      "netflixid":"80171678",
+      "id":"80171678",
       "date_released":"2019-03-15",
       "description":"When his son's mom runs afoul of Paris's criminal underworld, a thrill-seeking superbike racer begins moonlighting as a drug courier to clear her debt."
   },
@@ -2613,8 +2630,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"6.3\/10",
       "runtime":"102 minutes",
-      "netflixid":"80097003",
-      "date_released":"2017-03-10",
+      "id":"80097003",
+      "date_released":"2019-03-10",
       "description":"Promising student Zurich opens his eyes to some hard truths when his fraternity's violent hazing escalates into a disastrous hell night."
   },
   {
@@ -2630,7 +2647,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Stand-Up Comedy & Talk Shows",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80209553",
+      "id":"80209553",
       "date_released":"2018-05-04",
       "description":"Tackling different mysteries in each episode of this game show, seven sleuths get closer to solving the biggest one of all: What happened to Project D?"
   },
@@ -2647,8 +2664,8 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80100929",
-      "date_released":"2017-04-28",
+      "id":"80100929",
+      "date_released":"2019-04-28",
       "description":"In 1920s Madrid, four women at the National Telephone Company ring in revolution as they manage romance, friendship and the modern workplace."
   },
   {
@@ -2664,7 +2681,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.7\/10",
       "runtime":"101 minutes",
-      "netflixid":"80198478",
+      "id":"80198478",
       "date_released":"2018-06-29",
       "description":"Two lifelong friends on a hunting trip in Scotland find their nerves -- and their morals -- ruthlessly tested after a harrowing turn of events."
   },
@@ -2681,7 +2698,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80117627",
+      "id":"80117627",
       "date_released":"2016-12-16",
       "description":"On his path to becoming Pope Francis, Father Jorge Bergoglio pursues his religious vocation in a country ravaged by a brutal military dictatorship."
   },
@@ -2698,7 +2715,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"8.8\/10",
       "runtime":"",
-      "netflixid":"80133335",
+      "id":"80133335",
       "date_released":"2016-12-20",
       "description":"At a top Paris talent firm, agents scramble to keep their star clients happy -- and their business afloat -- after an unexpected crisis."
   },
@@ -2715,7 +2732,7 @@ module.exports = [
       "category":"Independent Movies\n                  Thrillers",
       "imdb":"5.9\/10",
       "runtime":"94 minutes",
-      "netflixid":"80177400",
+      "id":"80177400",
       "date_released":"2018-11-16",
       "description":"After a look-alike takes over her account, a cam girl with a growing fan base sets out to identify the mysterious culprit and reclaim her own identity."
   },
@@ -2732,7 +2749,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas\n                  Romantic Movies",
       "imdb":"6.5\/10",
       "runtime":"92 minutes",
-      "netflixid":"80164864",
+      "id":"80164864",
       "date_released":"2018-04-27",
       "description":"Dueling high school debate champs who are at odds on just about everything forge ahead with ambitious plans to get into the colleges of their dreams."
   },
@@ -2749,7 +2766,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80115112",
+      "id":"80115112",
       "date_released":"2016-12-15",
       "description":"When a huge marijuana shipment falls prey to thieves, the aftermath touches players from all ranks of the drug trade between Morocco and Europe."
   },
@@ -2766,7 +2783,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80065491",
+      "id":"80065491",
       "date_released":"2016-12-09",
       "description":"This documentary series reconstructs history's most complex, high-stakes hostage negotiations as kidnapping victims recount their terrifying ordeals."
   },
@@ -2783,7 +2800,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80194704",
+      "id":"80194704",
       "date_released":"2018-09-14",
       "description":"The colorful crew at Gotham Garage overhauls an eclectic collection of cars and trucks, trading up to a showstopper they can sell for big bucks."
   },
@@ -2800,7 +2817,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80046348",
+      "id":"80046348",
       "date_released":"2015-11-06",
       "description":"The whole huggable gang is back, bringing tales of caring and sharing to a new generation. And now the Care Bear Cousins are here to join the fun!"
   },
@@ -2817,7 +2834,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"6.3\/10",
       "runtime":"104 minutes",
-      "netflixid":"80161216",
+      "id":"80161216",
       "date_released":"2018-05-18",
       "description":"Amid a terrifying pandemic, a father searches the wilds of Australia for someone willing to protect and care for his infant daughter."
   },
@@ -2834,7 +2851,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"67 minutes",
-      "netflixid":"80124725",
+      "id":"80124725",
       "date_released":"2016-11-21",
       "description":"Carlos Ballarta mocks daily life in Mexico, including public transit, the education system and the corn seller who betrays your confidence."
   },
@@ -2851,7 +2868,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"62 minutes",
-      "netflixid":"80192065",
+      "id":"80192065",
       "date_released":"2018-05-11",
       "description":"Mexican comic Carlos Ballarta mocks himself and points out the absurdities of parenthood and how he uses his wife's pregnancies to avoid commitments."
   },
@@ -2868,7 +2885,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Thrillers",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80167821",
+      "id":"80167821",
       "date_released":"2019-01-18",
       "description":"A master thief who uses her skills for good, Carmen Sandiego travels the world foiling V.I.L.E.'s evil plans -- with help from her savvy sidekicks."
   },
@@ -2885,7 +2902,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80114869",
+      "id":"80114869",
       "date_released":"2016-11-09",
       "description":"A smart lawyer whose drinking and recklessness send him on a path of self-destruction finds new purpose investigating a teenager's apparent suicide."
   },
@@ -2902,8 +2919,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"5.5\/10",
       "runtime":"80 minutes",
-      "netflixid":"80142316",
-      "date_released":"2017-04-28",
+      "id":"80142316",
+      "date_released":"2019-04-28",
       "description":"Local actors from JonBenet Ramsey's hometown offer multiple perspectives on her 1996 murder as they vie to play roles in a dramatization of the case."
   },
   {
@@ -2919,8 +2936,8 @@ module.exports = [
       "category":"Anime Series\n                  TV Horror\n                  TV Thrillers",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80095241",
-      "date_released":"2017-07-07",
+      "id":"80095241",
+      "date_released":"2019-07-07",
       "description":"A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself. Inspired by the classic video games."
   },
   {
@@ -2936,7 +2953,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"5.7\/10",
       "runtime":"116 minutes",
-      "netflixid":"80218111",
+      "id":"80218111",
       "date_released":"2018-05-18",
       "description":"Amid growing tensions in their marriage, a Johannesburg professor and his journalist wife find their lives upended by a famous, hard-partying author."
   },
@@ -2953,7 +2970,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Dramas",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80150507",
+      "id":"80150507",
       "date_released":"2018-08-31",
       "description":"In 14th-century Barcelona, a serf's determined climb to wealth and freedom incurs the disdain of the noble class and the suspicion of the Inquisition."
   },
@@ -2970,7 +2987,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.1\/10",
       "runtime":"60 minutes",
-      "netflixid":"80108371",
+      "id":"80108371",
       "date_released":"2016-09-16",
       "description":"Donning his signature suit and fedora, the dapper comic offers a unique spin on getting old, the presidential election and \"Honky Tonk Badonkadonk.\""
   },
@@ -2987,7 +3004,7 @@ module.exports = [
       "category":"TV Horror\n                  TV Mysteries\n                  Teen TV Shows",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80210361",
+      "id":"80210361",
       "date_released":"2019-04-26",
       "description":"Haunted by eerie visions and sinister impulses after a heart transplant, a teenager tries to unmask the truth behind her donor's mysterious death."
   },
@@ -3004,7 +3021,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80178971",
+      "id":"80178971",
       "date_released":"2018-04-19",
       "description":"Staff at Berlin's Charit\u00e9 hospital witness history being made, including vaccine breakthroughs in the 1880s and eugenic practices during World War II."
   },
@@ -3021,7 +3038,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80189632",
+      "id":"80189632",
       "date_released":"2019-03-22",
       "description":"Charlie creates fun stories using different shapes, and he needs your help! Take off for adventures in outer space, the Wild West -- and right at home."
   },
@@ -3038,7 +3055,7 @@ module.exports = [
       "category":"Reality TV\n                  Teen TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80116839",
+      "id":"80116839",
       "date_released":"2016-12-27",
       "description":"Go behind the scenes with social media sensation Cameron Dallas as he takes his career to the next level on an international tour."
   },
@@ -3055,8 +3072,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.3\/10",
       "runtime":"89 minutes",
-      "netflixid":"80168188",
-      "date_released":"2017-07-14",
+      "id":"80168188",
+      "date_released":"2019-07-14",
       "description":"Divers, scientists and photographers around the world mount an epic underwater campaign to document the disappearance of coral reefs."
   },
   {
@@ -3072,7 +3089,7 @@ module.exports = [
       "category":"Docuseries\n                  Reality TV",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80007945",
+      "id":"80007945",
       "date_released":"2015-04-26",
       "description":"In this Emmy-nominated series, meet culinary stars around the world who are redefining gourmet food with innovative dishes and tantalizing desserts."
   },
@@ -3089,7 +3106,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80128096",
+      "id":"80128096",
       "date_released":"2016-09-02",
       "description":"Sample the bold new flavors of France with chefs who are pushing the boundaries of fine dining and reinventing a rich culinary tradition."
   },
@@ -3106,7 +3123,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80049872",
+      "id":"80049872",
       "date_released":"2016-06-01",
       "description":"It's not her first talk show, but it is a first of its kind. Ideas, people and places that fascinate her, all in her unique style."
   },
@@ -3123,7 +3140,7 @@ module.exports = [
       "category":"Docuseries\n                  Science & Nature TV",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80073486",
+      "id":"80073486",
       "date_released":"2016-01-23",
       "description":"In a provocative documentary series, comedian Chelsea Handler confronts personal and cultural hang-ups around four topics that fascinate her."
   },
@@ -3140,8 +3157,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.4\/10",
       "runtime":"71 minutes",
-      "netflixid":"80003481",
-      "date_released":"2014-10-10",
+      "id":"80003481",
+      "date_released":"2020-10-10",
       "description":"In her first Netflix stand-up comedy special, Chelsea Handler recounts her African adventures (and provides hilarious photographic evidence)."
   },
   {
@@ -3157,8 +3174,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"74 minutes",
-      "netflixid":"80004534",
-      "date_released":"2014-11-14",
+      "id":"80004534",
+      "date_released":"2020-11-14",
       "description":"\"Brooklyn Nine-Nine\" star Chelsea Peretti showcases her diverse talents in this dark yet silly reimagining of the comedy special."
   },
   {
@@ -3174,7 +3191,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80130911",
+      "id":"80130911",
       "date_released":"2016-10-31",
       "description":"The virginal Tracey, who was raised in a strictly religious Tower Hamlets flat, is ready to realize her potential. And the first step is having sex."
   },
@@ -3191,7 +3208,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80174917",
+      "id":"80174917",
       "date_released":"2018-03-13",
       "description":"As a magic wielder, young archivist Chakuro knows his time is short, but everything changes when a girl from the outside appears on his island."
   },
@@ -3208,7 +3225,7 @@ module.exports = [
       "category":"TV Horror\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80223989",
+      "id":"80223989",
       "date_released":"2018-10-26",
       "description":"Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night."
   },
@@ -3225,7 +3242,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Action & Adventure",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80227516",
+      "id":"80227516",
       "date_released":"2018-03-31",
       "description":"When a mysterious box arrives at his door, a doctor and father is forced to participate in a twisted killing game, or risk losing everything."
   },
@@ -3242,7 +3259,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.2\/10",
       "runtime":"83 minutes",
-      "netflixid":"80029368",
+      "id":"80029368",
       "date_released":"2015-04-17",
       "description":"Stand-up comedian Chris D'Elia covers everything from how to improve the NFL to why dating is evil and that babies should grow up before they're born."
   },
@@ -3259,8 +3276,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.8\/10",
       "runtime":"65 minutes",
-      "netflixid":"80133553",
-      "date_released":"2017-06-27",
+      "id":"80133553",
+      "date_released":"2019-06-27",
       "description":"Unbridled comic Chris D'Elia reconsiders his approach to major life events like marriage, not having kids and buying pants for your friends."
   },
   {
@@ -3276,7 +3293,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"64 minutes",
-      "netflixid":"80167498",
+      "id":"80167498",
       "date_released":"2018-02-14",
       "description":"Chris Rock takes the stage in Brooklyn for a comedy special filled with searing observations on fatherhood, infidelity and American politics."
   },
@@ -3293,7 +3310,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"92 minutes",
-      "netflixid":"80044731",
+      "id":"80044731",
       "date_released":"2015-07-10",
       "description":"Filmed in his hometown of Atlanta, Chris Tucker showcases his stand-up comedic chops as he shares his experiences from childhood to the big time."
   },
@@ -3310,8 +3327,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"59 minutes",
-      "netflixid":"80205204",
-      "date_released":"2017-10-10",
+      "id":"80205204",
+      "date_released":"2019-10-10",
       "description":"Christina Pazsitzky hits Seattle with a biting dose of reality, telling truths about her childhood, getting older and the horrors of giving birth."
   },
   {
@@ -3327,8 +3344,8 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.4\/10",
       "runtime":"104 minutes",
-      "netflixid":"80177441",
-      "date_released":"2017-12-15",
+      "id":"80177441",
+      "date_released":"2019-12-15",
       "description":"To inherit her father's company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others."
   },
   {
@@ -3344,7 +3361,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Reality TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80195811",
+      "id":"80195811",
       "date_released":"2018-06-29",
       "description":"In this history-steeped reality series, 14 contestants undergo the same rigorous selection process as Britain's top-secret World War II spies."
   },
@@ -3361,7 +3378,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"76 minutes",
-      "netflixid":"80203094",
+      "id":"80203094",
       "date_released":"2018-09-07",
       "description":"Women who've been sexually brutalized in war-torn Congo begin to heal at City of Joy, a center that helps them regain a sense of self and empowerment."
   },
@@ -3378,8 +3395,8 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"5.2\/10",
       "runtime":"104 minutes",
-      "netflixid":"80096955",
-      "date_released":"2017-01-13",
+      "id":"80096955",
+      "date_released":"2019-01-13",
       "description":"A psychiatrist is plagued by flashbacks to a terrifying attack as she treats a new patient who was horribly disfigured in an accident."
   },
   {
@@ -3395,7 +3412,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.1\/10",
       "runtime":"94 minutes",
-      "netflixid":"80207371",
+      "id":"80207371",
       "date_released":"2019-01-18",
       "description":"When attackers target the heiress she's protecting, battle-hardened bodyguard Sam scrambles to save her client -- and teach her how to fight back."
   },
@@ -3412,7 +3429,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Comedies",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80030346",
+      "id":"80030346",
       "date_released":"2015-08-07",
       "description":"A brother and sister battle high expectations and each other after inheriting a soccer team. A series from the creators of \u201cNosotros los Nobles.\u201d"
   },
@@ -3429,7 +3446,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"6.7\/10",
       "runtime":"50 minutes",
-      "netflixid":"80226951",
+      "id":"80226951",
       "date_released":"2018-10-19",
       "description":"Former Club de Cuervos player Potro returns home to Argentina to crash the wedding of his famous soccer-star brother and confront his estranged family."
   },
@@ -3446,7 +3463,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80195801",
+      "id":"80195801",
       "date_released":"2018-06-17",
       "description":"Chava Iglesias's doting personal assistant Hugo S\u00e1nchez is tasked with leading Club de Cuervos to victory in Nicaragua -- if only his mom will let him."
   },
@@ -3463,7 +3480,7 @@ module.exports = [
       "category":"Docuseries\n                  Reality TV",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80157137",
+      "id":"80157137",
       "date_released":"2018-02-02",
       "description":"Fueled by his own rough upbringing, Snoop Dogg creates a youth football league to keep at-risk kids off the streets and focused on their goals."
   },
@@ -3480,7 +3497,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80215500",
+      "id":"80215500",
       "date_released":"2018-08-03",
       "description":"In 1980s Galicia, Spain, a young fisherman becomes a prosperous cocaine smuggler by providing Latin American suppliers with a European entry point."
   },
@@ -3497,7 +3514,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"56 minutes",
-      "netflixid":"80192135",
+      "id":"80192135",
       "date_released":"2018-07-27",
       "description":"A study in contrasts, comedy partners and good friends Coco Celis and Ra\u00fal Meneses alternate separate stand-up sets for double the laughs."
   },
@@ -3514,8 +3531,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas",
       "imdb":"5.3\/10",
       "runtime":"97 minutes",
-      "netflixid":"80097725",
-      "date_released":"2017-01-06",
+      "id":"80097725",
+      "date_released":"2019-01-06",
       "description":"When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint."
   },
   {
@@ -3531,7 +3548,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.3\/10",
       "runtime":"62 minutes",
-      "netflixid":"80117534",
+      "id":"80117534",
       "date_released":"2016-11-18",
       "description":"The \"SNL\" veteran performs his off-Broadway show about the history of New York and the people who shape its personality. Directed by Jerry Seinfeld."
   },
@@ -3548,7 +3565,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"5.9\/10",
       "runtime":"",
-      "netflixid":"80185171",
+      "id":"80185171",
       "date_released":"2018-03-09",
       "description":"Investigating the murder of a pizza delivery man, a London detective uncovers a tangled conspiracy involving drug dealers, smugglers and spies."
   },
@@ -3565,7 +3582,7 @@ module.exports = [
       "category":"Dramas\n                  Faith & Spirituality\n                  Independent Movies",
       "imdb":"6.3\/10",
       "runtime":"105 minutes",
-      "netflixid":"80152625",
+      "id":"80152625",
       "date_released":"2018-04-13",
       "description":"A crisis of faith sets renowned fundamentalist preacher Carlton Pearson on a new spiritual path that jeopardizes everything he holds dear."
   },
@@ -3582,7 +3599,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80171362",
+      "id":"80171362",
       "date_released":"2018-01-05",
       "description":"Jerry Seinfeld's roving talk show combines coffee, laughs and vintage cars into quirky, caffeine-fueled adventures with the sharpest minds in comedy."
   },
@@ -3599,7 +3616,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81008236",
+      "id":"81008236",
       "date_released":"2019-01-01",
       "description":"A diverse set of 47 comedians from 13 regions bring their perspective on what's funny around the world. Browse and discover by selecting \"Episodes.\""
   },
@@ -3616,7 +3633,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80226612",
+      "id":"80226612",
       "date_released":"2019-01-24",
       "description":"Present-day interviews, archival footage and audio recordings made on death row form a searing portrait of notorious serial killer Ted Bundy."
   },
@@ -3633,7 +3650,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80022456",
+      "id":"80022456",
       "date_released":"2016-02-19",
       "description":"As he tries his hand at baking, brewing and braising, acclaimed food writer Michael Pollan explores how cooking transforms food and shapes our world."
   },
@@ -3650,7 +3667,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80988793",
+      "id":"80988793",
       "date_released":"2018-06-22",
       "description":"In the first-ever competitive cannabis cooking show, two chefs prepare mouthwatering marijuana-infused dishes for a panel of very chill celeb judges."
   },
@@ -3667,8 +3684,8 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"6.7\/10",
       "runtime":"91 minutes",
-      "netflixid":"80049873",
-      "date_released":"2017-06-16",
+      "id":"80049873",
+      "date_released":"2019-06-16",
       "description":"As boxing's popularity wanes, three fighters at different stages of their career make sacrifices to pursue their dreams of becoming champions."
   },
   {
@@ -3684,8 +3701,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"66 minutes",
-      "netflixid":"80187435",
-      "date_released":"2017-12-05",
+      "id":"80187435",
+      "date_released":"2019-12-05",
       "description":"Cheeky comic Craig Ferguson keeps it casual as he discusses '70s porn, Japanese toilets and his mildly crime-filled days as a talk show host."
   },
   {
@@ -3701,7 +3718,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80133117",
+      "id":"80133117",
       "date_released":"2016-09-01",
       "description":"In exchange for low rent, a hodgepodge group of 20-something tenants set up residence as property guards in a disused hospital, where hilarity ensues."
   },
@@ -3718,7 +3735,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80104983",
+      "id":"80104983",
       "date_released":"2016-12-16",
       "description":"Bowling alley worker Amy and nonconformist Raquel kick some serious demon butt while also facing their inner demons as they navigate their early 20s."
   },
@@ -3735,7 +3752,7 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV\n                  TV Thrillers",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80214792",
+      "id":"80214792",
       "date_released":"2018-10-04",
       "description":"A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series."
   },
@@ -3752,7 +3769,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80222770",
+      "id":"80222770",
       "date_released":"2019-03-01",
       "description":"Follow Indian Premier League champions Mumbai Indians through the 2018 season in this series featuring insider insights and intense cricket action."
   },
@@ -3769,7 +3786,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80994596",
+      "id":"80994596",
       "date_released":"2019-05-03",
       "description":"After going to a Halloween party, college student Luis Andr\u00e9s Colmenares is found dead. Was it an accident or murder? Inspired by true events."
   },
@@ -3786,7 +3803,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80230265",
+      "id":"80230265",
       "date_released":"2019-03-22",
       "description":"In 1994, Mexican presidential candidate Luis Donaldo Colosio's assassination sends his dying widow racing to uncover who did it. Based on true events."
   },
@@ -3803,8 +3820,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"66 minutes",
-      "netflixid":"80117453",
-      "date_released":"2017-01-24",
+      "id":"80117453",
+      "date_released":"2019-01-24",
       "description":"The irrepressible Alonzo skewers Latino stereotypes, pricey luxuries and her mother's tough-love parenting in a night of sly and infectious comedy."
   },
   {
@@ -3820,7 +3837,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"7.8\/10",
       "runtime":"81 minutes",
-      "netflixid":"81015153",
+      "id":"81015153",
       "date_released":"2018-12-01",
       "description":"In Kuala Lumpur, an abused domestic worker tries to escape to Indonesia, while an idealistic cop insists on fighting corruption  -- at a heavy price."
   },
@@ -3837,7 +3854,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Romantic Movies",
       "imdb":"5.9\/10",
       "runtime":"100 minutes",
-      "netflixid":"80039717",
+      "id":"80039717",
       "date_released":"2016-02-26",
       "description":"Renowned warrior Yu Shu-Lien comes out of retirement to keep the legendary Green Destiny sword away from villainous warlord Hades Dai."
   },
@@ -3854,8 +3871,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"114 minutes",
-      "netflixid":"80126449",
-      "date_released":"2017-11-24",
+      "id":"80126449",
+      "date_released":"2019-11-24",
       "description":"Emmy-winning filmmaker Jon Alpert chronicles the fortunes of three Cuban families over the course of four tumultuous decades in the nation's history."
   },
   {
@@ -3871,7 +3888,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"80091341",
+      "id":"80091341",
       "date_released":"2016-03-07",
       "description":"Rachel shocks her proper British parents when she marries an American hippie, but it's just the first in a series of surprises for the family."
   },
@@ -3888,7 +3905,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80198459",
+      "id":"80198459",
       "date_released":"2018-07-27",
       "description":"An enterprising cupcake and his cheerful dinosaur brother take on jobs of all sorts as they work to help friends and strangers in their eccentric city."
   },
@@ -3905,8 +3922,8 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80057749",
-      "date_released":"2017-02-10",
+      "id":"80057749",
+      "date_released":"2019-02-10",
       "description":"Years after taking up normal lives incognito, the cyborgs are forced to fight again when the superhuman Blessed appear with a plan for humanity."
   },
   {
@@ -3922,7 +3939,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.8\/10",
       "runtime":"58 minutes",
-      "netflixid":"80213654",
+      "id":"80213654",
       "date_released":"2018-09-18",
       "description":"D.L. Hughley riffs on hot-button political issues, celebrity scandals, his mother's tough love and more in a rapid-fire stand-up show in Philadelphia."
   },
@@ -3939,7 +3956,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"64 minutes",
-      "netflixid":"80117461",
+      "id":"80117461",
       "date_released":"2016-11-04",
       "description":"Emmy-winning comedian Dana Carvey blends pitch-perfect takes on big personalities with so-true-it-hurts stories from his life as a dad of millennials."
   },
@@ -3956,7 +3973,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80996626",
+      "id":"80996626",
       "date_released":"2018-05-18",
       "description":"True and her friends are making music -- and they want you to dance and sing along. So cut loose, silly goose! These fun beats are totally sweet."
   },
@@ -3973,7 +3990,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80198511",
+      "id":"80198511",
       "date_released":"2018-10-05",
       "description":"Snatching trophies. Getting gorgeous. Turning it up. Alyssa Edwards rules the dance studio by day -- and the drag world by night."
   },
@@ -3990,7 +4007,7 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80045820",
+      "id":"80045820",
       "date_released":"2016-04-29",
       "description":"The world's greatest super-spy returns to save the world with the help of hapless hamster Penfold and a collection of state-of-the-art gadgetry."
   },
@@ -4007,7 +4024,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"8.4\/10",
       "runtime":"",
-      "netflixid":"80223685",
+      "id":"80223685",
       "date_released":"2018-09-11",
       "description":"Comedian Daniel Sloss is ready to find the funny in some very dark topics, from the deeply personal to the truly irreverent."
   },
@@ -4024,8 +4041,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"77 minutes",
-      "netflixid":"80124726",
-      "date_released":"2017-02-03",
+      "id":"80124726",
+      "date_released":"2019-02-03",
       "description":"Comedian Daniel Sosa inhabits various characters, including a Tupperware dealer, a thirsty priest and a Trojan horse soldier in this stand-up special."
   },
   {
@@ -4041,7 +4058,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"113 minutes",
-      "netflixid":"80213024",
+      "id":"80213024",
       "date_released":"2018-05-04",
       "description":"In an eclectic one-man show, French superstar Dany Boon reflects on his homeland, his first comedy gig and the challenges of parenting hostile teens."
   },
@@ -4058,8 +4075,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80100172",
-      "date_released":"2017-12-01",
+      "id":"80100172",
+      "date_released":"2019-12-01",
       "description":"A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
   {
@@ -4075,7 +4092,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80189791",
+      "id":"80189791",
       "date_released":"2018-07-20",
       "description":"From a nuclear lake to a haunted forest, journalist David Farrier visits unusual -- and often macabre -- tourism spots around the world."
   },
@@ -4092,7 +4109,7 @@ module.exports = [
       "category":"Reality TV\n                  Romantic TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80204889",
+      "id":"80204889",
       "date_released":"2019-02-14",
       "description":"In each episode of flirtations and fails, one real-life single navigates five blind dates. The mission: Find one match worthy of a second date."
   },
@@ -4109,8 +4126,8 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80092926",
-      "date_released":"2017-07-28",
+      "id":"80092926",
+      "date_released":"2019-07-28",
       "description":"Five girls from India's most impoverished families attend a boarding school designed to create opportunities as they strive for a brighter future."
   },
   {
@@ -4126,8 +4143,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80171965",
-      "date_released":"2017-03-21",
+      "id":"80171965",
+      "date_released":"2019-03-21",
       "description":"Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials."
   },
   {
@@ -4143,8 +4160,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80230402",
-      "date_released":"2017-12-31",
+      "id":"80230402",
+      "date_released":"2019-12-31",
       "description":"Comedy titan Dave Chappelle caps a wild year with two stand-up specials packed with scorching new material, self-reflection and tough love."
   },
   {
@@ -4160,8 +4177,8 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"6.0\/10",
       "runtime":"96 minutes",
-      "netflixid":"80103818",
-      "date_released":"2017-02-10",
+      "id":"80103818",
+      "date_released":"2019-02-10",
       "description":"With \"The Office\" long in the past, middling salesman David Brent ditches work and goes on tour with his rock band in a disastrous stab at stardom."
   },
   {
@@ -4177,7 +4194,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"73 minutes",
-      "netflixid":"80108759",
+      "id":"80108759",
       "date_released":"2016-08-05",
       "description":"Cross skewers Donald Trump, religious taboos and American swagger in a provocative night of comedy at the Paramount Theatre in Austin, Texas."
   },
@@ -4194,7 +4211,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"80049870",
+      "id":"80049870",
       "date_released":"2015-12-24",
       "description":"The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures."
   },
@@ -4211,7 +4228,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"8.4\/10",
       "runtime":"",
-      "netflixid":"80219707",
+      "id":"80219707",
       "date_released":"2019-05-03",
       "description":"A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems."
   },
@@ -4228,7 +4245,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80243728",
+      "id":"80243728",
       "date_released":"2018-08-23",
       "description":"Just months after a tragic loss, detective Sofia Karppi investigates the murder of a woman with ties to a Helsinki construction company."
   },
@@ -4245,7 +4262,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"7.5\/10",
       "runtime":"99 minutes",
-      "netflixid":"81045891",
+      "id":"81045891",
       "date_released":"2019-02-01",
       "description":"A teen navigates a bitter feud between his willful mom and a free-spirited man, who's the lover and insurance beneficiary of his recently deceased dad."
   },
@@ -4262,8 +4279,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80095698",
-      "date_released":"2017-04-28",
+      "id":"80095698",
+      "date_released":"2019-04-28",
       "description":"Students of color navigate the daily slights and slippery politics of life at an Ivy League college that's not nearly as \"post-racial\" as it thinks."
   },
   {
@@ -4279,7 +4296,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80191074",
+      "id":"80191074",
       "date_released":"2018-11-30",
       "description":"Magician Drummond Money-Coutts travels the globe, sharing his infectious love of his craft and attempting feats that proved fatal to other magicians."
   },
@@ -4296,8 +4313,8 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"4.2\/10",
       "runtime":"100 minutes",
-      "netflixid":"80122759",
-      "date_released":"2017-08-25",
+      "id":"80122759",
+      "date_released":"2019-08-25",
       "description":"Light Turner finds a supernatural notebook and uses it to mete out death, attracting the attention of a detective, a demon and a girl in his class."
   },
   {
@@ -4313,8 +4330,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.1\/10",
       "runtime":"81 minutes",
-      "netflixid":"80151483",
-      "date_released":"2017-09-26",
+      "id":"80151483",
+      "date_released":"2019-09-26",
       "description":"In this special live event, giants of stand-up come together to commemorate the 25th anniversary of Russell Simmons's groundbreaking \"Def Comedy Jam.\""
   },
   {
@@ -4330,7 +4347,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80062047",
+      "id":"80062047",
       "date_released":"2016-01-15",
       "description":"Degrassi's next generation of high-tech newbies and returning students navigates real-world high school drama. If you're a teen, this is your life."
   },
@@ -4347,8 +4364,8 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"5.7\/10",
       "runtime":"92 minutes",
-      "netflixid":"80108984",
-      "date_released":"2017-03-17",
+      "id":"80108984",
+      "date_released":"2019-03-17",
       "description":"With their mother in jail and bills piling up, ambitious small-town teens Deidra and Laney plot a series of train robberies to keep themselves afloat."
   },
   {
@@ -4364,7 +4381,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"81076756",
+      "id":"81076756",
       "date_released":"2019-03-22",
       "description":"As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case."
   },
@@ -4381,7 +4398,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.4\/10",
       "runtime":"61 minutes",
-      "netflixid":"80044804",
+      "id":"80044804",
       "date_released":"2015-08-14",
       "description":"Demetri Martin brings his off-kilter take on acoustic guitar, hairless cats, color schemes, and the word \"nope\" to Washington in his original special."
   },
@@ -4398,7 +4415,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"56 minutes",
-      "netflixid":"80158802",
+      "id":"80158802",
       "date_released":"2018-08-10",
       "description":"With his signature one-liners and drawings, Demetri Martin muses on doughnut holes, dogs, sports bars, the alphabet's most aggressive letters and more."
   },
@@ -4415,8 +4432,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.9\/10",
       "runtime":"66 minutes",
-      "netflixid":"80191804",
-      "date_released":"2017-11-14",
+      "id":"80191804",
+      "date_released":"2019-11-14",
       "description":"Dynamic comic DeRay Davis hits the stage like a ball of fire, nailing the finer points of living, dating and handling show business as a black man."
   },
   {
@@ -4432,7 +4449,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"70258489",
+      "id":"70258489",
       "date_released":"2013-09-12",
       "description":"Ricky Gervais created and stars in this heartwarming comedy-drama series as a loyal English nursing home caretaker who sees only the good in everyone."
   },
@@ -4449,7 +4466,7 @@ module.exports = [
       "category":"International Movies",
       "imdb":"6.6\/10",
       "runtime":"73 minutes",
-      "netflixid":"80219802",
+      "id":"80219802",
       "date_released":"2018-06-22",
       "description":"Illusionist Derren Brown reinvents the concept of \"faith healing\u201d through a series of stunts that debunk the confines of fear, pain and disbelief."
   },
@@ -4466,7 +4483,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.8\/10",
       "runtime":"49 minutes",
-      "netflixid":"80216677",
+      "id":"80216677",
       "date_released":"2018-10-19",
       "description":"Illusionist Derren Brown concocts a psychological experiment in which he tries to manipulate an ordinary person into taking a bullet for a stranger."
   },
@@ -4483,7 +4500,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.5\/10",
       "runtime":"69 minutes",
-      "netflixid":"80220000",
+      "id":"80220000",
       "date_released":"2018-02-27",
       "description":"Mentalist Derren Brown engineers an audacious social experiment demonstrating how manipulation can lead an ordinary person to commit an appalling act."
   },
@@ -4500,7 +4517,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80238565",
+      "id":"80238565",
       "date_released":"2018-12-21",
       "description":"Amidst the political conflict of Northern Ireland in the 1990s, five high school students square off with the universal challenges of being a teenager."
   },
@@ -4517,7 +4534,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.7\/10",
       "runtime":"78 minutes",
-      "netflixid":"81031939",
+      "id":"81031939",
       "date_released":"2019-05-03",
       "description":"After their mother's death, four sisters learn a shocking family secret and embark on an adventure to discover the truth about their genealogy."
   },
@@ -4534,7 +4551,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows\n                  TV Horror",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80174974",
+      "id":"80174974",
       "date_released":"2018-01-05",
       "description":"With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo."
   },
@@ -4551,7 +4568,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Action & Adventure",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80172145",
+      "id":"80172145",
       "date_released":"2018-12-21",
       "description":"When a young girl goes missing in a big city, a desperate priest joins a demon hunter and his motley crew on an otherworldly mission to find her."
   },
@@ -4568,7 +4585,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"68 minutes",
-      "netflixid":"80117532",
+      "id":"80117532",
       "date_released":"2016-11-15",
       "description":"The cerebral and popular German cabaret comic expounds his theories on gender norms, primal instincts and a decidedly gastrointestinal Big Bang."
   },
@@ -4585,7 +4602,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80049903",
+      "id":"80049903",
       "date_released":"2015-08-14",
       "description":"Half dinosaur, half construction truck, full-on fun! Watch giant Ty Rux, his little buddy Revvit and the crew come face-to-face with evil D-Structs."
   },
@@ -4602,8 +4619,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80171452",
-      "date_released":"2017-11-10",
+      "id":"80171452",
+      "date_released":"2019-11-10",
       "description":"Amped up with powers that make them faster, stronger and more agile than ever, the Dinotrux are back to face new challenges and meet new friends."
   },
   {
@@ -4619,7 +4636,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80118100",
+      "id":"80118100",
       "date_released":"2018-01-26",
       "description":"From crippling payday loans to cars that cheat emissions tests, this investigative series exposes brazen acts of corporate greed and corruption."
   },
@@ -4636,7 +4653,7 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Comedies\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80095697",
+      "id":"80095697",
       "date_released":"2018-08-17",
       "description":"Princess duties call, but she'd rather be drinking. Free-spirited Bean exasperates the king as she wreaks havoc with her demon and elf pals."
   },
@@ -4653,8 +4670,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.1\/10",
       "runtime":"",
-      "netflixid":"80117694",
-      "date_released":"2017-08-25",
+      "id":"80117694",
+      "date_released":"2019-08-25",
       "description":"Pot activist Ruth Whitefeather Feldman runs a medical marijuana dispensary while encouraging her loyal patients to chill out and enjoy the high life."
   },
   {
@@ -4670,7 +4687,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"8.0\/10",
       "runtime":"107 minutes",
-      "netflixid":"80115031",
+      "id":"80115031",
       "date_released":"2016-11-18",
       "description":"A shrewd teenager and her wisecracking best friend plan to get rich or die trying by following in the footsteps of a flashy female drug dealer."
   },
@@ -4687,7 +4704,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.5\/10",
       "runtime":"",
-      "netflixid":"80191036",
+      "id":"80191036",
       "date_released":"2018-11-16",
       "description":"These six intimate stories explore the abiding emotional bonds that form between dogs and their caregivers, no matter the circumstances."
   },
@@ -4704,7 +4721,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"5.4\/10",
       "runtime":"",
-      "netflixid":"80189522",
+      "id":"80189522",
       "date_released":"2018-12-07",
       "description":"Two cops investigate the murder of a famous Turkish-German soccer player, but one of them has underworld connections that mire the case in controversy."
   },
@@ -4721,8 +4738,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80178726",
-      "date_released":"2017-12-22",
+      "id":"80178726",
+      "date_released":"2019-12-22",
       "description":"Filmed from the perspectives of dealers, users and the police, this vivid series offers a bracing look at the war on drugs."
   },
   {
@@ -4738,8 +4755,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"80005325",
-      "date_released":"2014-11-06",
+      "id":"80005325",
+      "date_released":"2020-11-06",
       "description":"Renowned stoner Doug Benson takes his relaxed yet irreverent vibe to Seattle's Neptune Theater, where he shares advice from old ladies and more."
   },
   {
@@ -4755,7 +4772,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"7.4\/10",
       "runtime":"126 minutes",
-      "netflixid":"80990221",
+      "id":"80990221",
       "date_released":"2018-10-26",
       "description":"Over six days in 1971, brilliant writer Sergei Dovlatov encounters maddening barriers to publishing his work under the repressive Soviet regime."
   },
@@ -4772,7 +4789,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80241960",
+      "id":"80241960",
       "date_released":"2018-09-21",
       "description":"Recently stationed Air Self-Defense Force rookie Hisone Amakasu is chosen by a dragon concealed within Gifu Air Base to be his pilot."
   },
@@ -4789,7 +4806,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80039394",
+      "id":"80039394",
       "date_released":"2015-06-26",
       "description":"From the creators of \"How to Train Your Dragon\" comes a new series that takes Hiccup and Toothless to the edge of adventure."
   },
@@ -4806,8 +4823,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies\n                  Music & Musicals",
       "imdb":"4.7\/10",
       "runtime":"45 minutes",
-      "netflixid":"80191081",
-      "date_released":"2017-12-01",
+      "id":"80191081",
+      "date_released":"2019-12-01",
       "description":"Oh takes it upon himself to introduce Christmas joy to his fellow Boovs. Unfortunately, his well-meaning mission nearly destroys the city."
   },
   {
@@ -4823,7 +4840,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80177803",
+      "id":"80177803",
       "date_released":"2018-01-19",
       "description":"Witness the stories of history's most notorious kingpins, their terrifying enforcers, and the men and women who've sworn to bring them down."
   },
@@ -4840,7 +4857,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"6.2\/10",
       "runtime":"92 minutes",
-      "netflixid":"80195962",
+      "id":"80195962",
       "date_released":"2018-07-20",
       "description":"As his flock's annual migration nears, a carefree goose is grounded with an injury and takes a pair of lost ducklings under his wing."
   },
@@ -4857,7 +4874,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"5.6\/10",
       "runtime":"97 minutes",
-      "netflixid":"80192186",
+      "id":"80192186",
       "date_released":"2018-04-20",
       "description":"Four best friends navigate loss and major life changes -- and smoke a lot of weed -- during their last two weeks of high school."
   },
@@ -4874,7 +4891,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"6.9\/10",
       "runtime":"110 minutes",
-      "netflixid":"80201490",
+      "id":"80201490",
       "date_released":"2018-12-07",
       "description":"To prove a point about measuring up and fitting in, Texas teen Willowdean Dickson enters a local pageant run by her ex-beauty queen mom."
   },
@@ -4891,8 +4908,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.5\/10",
       "runtime":"89 minutes",
-      "netflixid":"70299286",
-      "date_released":"2014-10-24",
+      "id":"70299286",
+      "date_released":"2020-10-24",
       "description":"The courageous investigators of Human Rights Watch's Emergencies Team risk their lives to document unlawful attacks on civilians by brutal dictators."
   },
   {
@@ -4908,7 +4925,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80095699",
+      "id":"80095699",
       "date_released":"2016-09-22",
       "description":"This eclectic, star-studded anthology follows diverse Chicagoans fumbling through the modern maze of love, sex, technology and culture."
   },
@@ -4925,8 +4942,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Kids' TV",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80057506",
-      "date_released":"2017-01-06",
+      "id":"80057506",
+      "date_released":"2019-01-06",
       "description":"Saved from a plane crash and given supernatural powers, teen Tarzan joins forces with brave city girl Jane to protect his jungle home from threats."
   },
   {
@@ -4942,7 +4959,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Dramas",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80112916",
+      "id":"80112916",
       "date_released":"2018-03-16",
       "description":"Revenge, passion and dark secrets push a successful fashion designer and single mother to her limits when she meets a handsome and mysterious man."
   },
@@ -4959,7 +4976,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"65 minutes",
-      "netflixid":"81041273",
+      "id":"81041273",
       "date_released":"2019-03-15",
       "description":"Italian comedian Edoardo Ferrario riffs on life at 30 and unpacks the peculiarities of global travel, social media and people who like craft beer."
   },
@@ -4976,8 +4993,8 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"5.8\/10",
       "runtime":"89 minutes",
-      "netflixid":"80178974",
-      "date_released":"2017-12-08",
+      "id":"80178974",
+      "date_released":"2019-12-08",
       "description":"Stuck in a liquor store during an alleged robbery, a group of strangers shares hidden truths and forms an unexpected bond on Christmas Eve."
   },
   {
@@ -4993,8 +5010,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"52 minutes",
-      "netflixid":"80183198",
-      "date_released":"2017-10-13",
+      "id":"80183198",
+      "date_released":"2019-10-13",
       "description":"From a Mexico City theme park, energetic stand-up Alex Fern\u00e1ndez riffs on music, cheap toys, insecurity and other fun things about growing up."
   },
   {
@@ -5010,7 +5027,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80115297",
+      "id":"80115297",
       "date_released":"2016-10-07",
       "description":"While investigating a kidnapping, an ex-cop sent to infiltrate a prison finds himself surrounded by dangerous felons who can't know his real identity."
   },
@@ -5027,7 +5044,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Music & Musicals",
       "imdb":"5.8\/10",
       "runtime":"122 minutes",
-      "netflixid":"81000860",
+      "id":"81000860",
       "date_released":"2019-01-04",
       "description":"Argentine cuarteto singer Rodrigo \"El Potro\" Bueno rises to fame amid personal struggles in this dramatization of the charismatic superstar's life."
   },
@@ -5044,7 +5061,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80200942",
+      "id":"80200942",
       "date_released":"2018-10-05",
       "description":"When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
   },
@@ -5061,7 +5078,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80166467",
+      "id":"80166467",
       "date_released":"2018-12-18",
       "description":"In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she's learned along the way."
   },
@@ -5078,7 +5095,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80240840",
+      "id":"80240840",
       "date_released":"2018-10-05",
       "description":"Interviews with scholars and dramatic reenactments bring to life the origins and history-making achievements of the world's greatest ancient empires."
   },
@@ -5095,7 +5112,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.3\/10",
       "runtime":"40 minutes",
-      "netflixid":"80210691",
+      "id":"80210691",
       "date_released":"2018-05-04",
       "description":"Facing an inevitable outcome, terminally ill patients meet extraordinary medical practitioners seeking to change our approach to life and death."
   },
@@ -5112,7 +5129,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"65 minutes",
-      "netflixid":"80217772",
+      "id":"80217772",
       "date_released":"2018-04-26",
       "description":"Live from Hamburg, Iranian-German comedian Enissa Amani shares her take on German engineering, tax deductions and online fan-mail etiquette."
   },
@@ -5129,8 +5146,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80173711",
-      "date_released":"2017-12-15",
+      "id":"80173711",
+      "date_released":"2019-12-15",
       "description":"After finding his mom killed, Satoru's time-traveling ability takes him back 18 years for a chance to prevent her death and those of three classmates."
   },
   {
@@ -5146,7 +5163,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"6.3\/10",
       "runtime":"99 minutes",
-      "netflixid":"80239565",
+      "id":"80239565",
       "date_released":"2018-10-12",
       "description":"A brutal blacksmith tortures a demon he blames for his misery, unaware a trespassing orphan is about to change everything. Based on Basque folklore."
   },
@@ -5163,7 +5180,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80118346",
+      "id":"80118346",
       "date_released":"2016-11-11",
       "description":"An undercover agent, a prosecutor and a journalist try to bring down a human trafficking ring, but nothing is as straightforward as it seems."
   },
@@ -5180,8 +5197,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"70300626",
-      "date_released":"2014-02-01",
+      "id":"70300626",
+      "date_released":"2020-02-01",
       "description":"The kids of fairy-tale characters attend a school with two cliques: those who accept their fairy-tale destinies and those who want to write their own."
   },
   {
@@ -5197,7 +5214,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80117551",
+      "id":"80117551",
       "date_released":"2018-02-16",
       "description":"It's 1996 in a town called Boring, where high school misfits in the AV and drama clubs brave the ups and downs of teenage life in the VHS era."
   },
@@ -5214,7 +5231,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  TV Mysteries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80158319",
+      "id":"80158319",
       "date_released":"2018-05-11",
       "description":"This baffling true crime story starts with the grisly death of a pizza man who robs a bank with a bomb around his neck -- and gets weirder from there."
   },
@@ -5231,7 +5248,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80991879",
+      "id":"80991879",
       "date_released":"2019-01-25",
       "description":"Allegations of child sexual abuse in Spain's Catholic institutions are examined in interviews with survivors, clergy, journalists and other experts."
   },
@@ -5248,7 +5265,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80216752",
+      "id":"80216752",
       "date_released":"2018-05-23",
       "description":"This enlightening series from Vox digs into a wide range of topics such as the rise of cryptocurrency, why diets fail, and the wild world of K-pop."
   },
@@ -5265,7 +5282,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  Sci-Fi & Fantasy",
       "imdb":"5.9\/10",
       "runtime":"95 minutes",
-      "netflixid":"80236421",
+      "id":"80236421",
       "date_released":"2018-07-27",
       "description":"Plagued by dreams of an alien invasion, a family man faces his worst nightmare when an extraterrestrial force begins exterminating Earth's inhabitants."
   },
@@ -5282,7 +5299,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"8.2\/10",
       "runtime":"109 minutes",
-      "netflixid":"81028570",
+      "id":"81028570",
       "date_released":"2019-05-03",
       "description":"Single mother Liz falls for Ted Bundy and refuses to believe the truth about his crimes for years. A drama based on a true story."
   },
@@ -5299,7 +5316,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.2\/10",
       "runtime":"24 minutes",
-      "netflixid":"80106307",
+      "id":"80106307",
       "date_released":"2016-09-13",
       "description":"Witness the wrenching emotions that accompany end-of-life decisions as doctors, patients and families in a hospital ICU face harrowing choices."
   },
@@ -5316,7 +5333,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80028732",
+      "id":"80028732",
       "date_released":"2015-12-18",
       "description":"Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV."
   },
@@ -5333,8 +5350,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"1.0\/10",
       "runtime":"59 minutes",
-      "netflixid":"80164077",
-      "date_released":"2017-09-08",
+      "id":"80164077",
+      "date_released":"2019-09-08",
       "description":"Fabrizio Copano takes audience participation to the next level in this stand-up set while reflecting on sperm banks, family WhatsApp groups and more."
   },
   {
@@ -5350,7 +5367,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"80196589",
+      "id":"80196589",
       "date_released":"2018-01-26",
       "description":"Stand-up comic Fakkah Fuzz mines cross-cultural humor from the experience of growing up as an outspoken Malay man in Singapore."
   },
@@ -5367,7 +5384,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.9\/10",
       "runtime":"74 minutes",
-      "netflixid":"80217689",
+      "id":"80217689",
       "date_released":"2018-04-03",
       "description":"Armed with sly wit, a fresh outlook and plenty of style, French comedy star Fary veers from dating to stereotypes and beyond in this exclusive special."
   },
@@ -5384,7 +5401,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80190009",
+      "id":"80190009",
       "date_released":"2018-04-06",
       "description":"The drivers of exotic supercars put their street cred on the line against deceptively fast sleeper cars built and modified by true gearheads."
   },
@@ -5401,8 +5418,8 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80180849",
-      "date_released":"2017-11-07",
+      "id":"80180849",
+      "date_released":"2019-11-07",
       "description":"The theft of the Greater Grail from Fuyuki City leads to a splintered timeline in which the Great Holy Grail War is waged on an unprecedented scale."
   },
   {
@@ -5418,7 +5435,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"4.5\/10",
       "runtime":"",
-      "netflixid":"80185145",
+      "id":"80185145",
       "date_released":"2018-06-30",
       "description":"Hakuno Kishinami finds himself in the midst of a Holy Grail war with no memories of how he got there. Through his confusion, he must fight to survive."
   },
@@ -5435,7 +5452,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.3\/10",
       "runtime":"94 minutes",
-      "netflixid":"80185070",
+      "id":"80185070",
       "date_released":"2018-07-20",
       "description":"A drunken debate between two recent college grads about whose father would win in a fight leads to mayhem when their dads take the challenge seriously."
   },
@@ -5452,7 +5469,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80113612",
+      "id":"80113612",
       "date_released":"2016-12-02",
       "description":"A top Israeli agent comes out of retirement to hunt for a Palestinian fighter he thought he'd killed, setting a chaotic chain of events into motion."
   },
@@ -5469,7 +5486,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80078197",
+      "id":"80078197",
       "date_released":"2016-08-19",
       "description":"On a journey from Brazil to the Las Vegas championships, professional bull riders risk it all to earn money, respect and titles."
   },
@@ -5486,8 +5503,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.1\/10",
       "runtime":"90 minutes",
-      "netflixid":"80162210",
-      "date_released":"2017-03-24",
+      "id":"80162210",
+      "date_released":"2019-03-24",
       "description":"YouTube sensation Felipe Neto brings the stories from his autobiographical book \"N\u00e3o Faz Sentido!\" to the stage in this comedy special."
   },
   {
@@ -5503,7 +5520,7 @@ module.exports = [
       "category":"Documentaries\n                  LGBTQ Movies",
       "imdb":"8.2\/10",
       "runtime":"86 minutes",
-      "netflixid":"80216844",
+      "id":"80216844",
       "date_released":"2018-10-12",
       "description":"Revisiting 1970s photos of women that captured a feminist awakening, this film explores those women's lives and examines the continued need for change."
   },
@@ -5520,7 +5537,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"63 minutes",
-      "netflixid":"80192137",
+      "id":"80192137",
       "date_released":"2018-05-25",
       "description":"Argentine actor and comedian Fernando Sanjiao uses humor and impersonations to explore the concepts of masculinity and fatherhood in modern times."
   },
@@ -5537,7 +5554,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80187722",
+      "id":"80187722",
       "date_released":"2018-10-12",
       "description":"Actor and fight enthusiast Frank Grillo travels the world, immersing himself in different fight cultures to understand their traditions and motivations."
   },
@@ -5554,8 +5571,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80178543",
-      "date_released":"2017-09-01",
+      "id":"80178543",
+      "date_released":"2019-09-01",
       "description":"A father and son rekindle their bond through the online role-playing game Final Fantasy XIV in this live-action series based on a true story."
   },
   {
@@ -5571,8 +5588,8 @@ module.exports = [
       "category":"Docuseries\n                  Science & Nature TV",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80117902",
-      "date_released":"2017-09-08",
+      "id":"80117902",
+      "date_released":"2019-09-08",
       "description":"As California's 2016 fire season rages, brave backcountry firefighters race to put out the flames, protect homes and save lives in this docuseries."
   },
   {
@@ -5588,7 +5605,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.0\/10",
       "runtime":"116 minutes",
-      "netflixid":"81026327",
+      "id":"81026327",
       "date_released":"2019-02-22",
       "description":"While she successfully advocates for her female clients in difficult divorce cases, a lawyer\u2019s trauma from sexual assault impacts her own marriage."
   },
@@ -5605,7 +5622,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80190843",
+      "id":"80190843",
       "date_released":"2018-09-07",
       "description":"Take an intimate look at the emotionally charged first and last days of new and soon-to-be released inmates at Georgia's Gwinnett County Jail."
   },
@@ -5622,7 +5639,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Sports Movies",
       "imdb":"6.1\/10",
       "runtime":"102 minutes",
-      "netflixid":"80117458",
+      "id":"80117458",
       "date_released":"2018-03-30",
       "description":"A tenacious high school girl raised in foster homes in the inner city tries to reconnect with her ex-con father by joining a boys wrestling team."
   },
@@ -5639,7 +5656,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80211576",
+      "id":"80211576",
       "date_released":"2018-02-16",
       "description":"Follow renowned soccer club Juventus on and off the pitch as they attempt to win a seventh straight Italian title and achieve Champions League glory."
   },
@@ -5656,8 +5673,8 @@ module.exports = [
       "category":"Dramas",
       "imdb":"7.5\/10",
       "runtime":"136 minutes",
-      "netflixid":"80067522",
-      "date_released":"2017-09-15",
+      "id":"80067522",
+      "date_released":"2019-09-15",
       "description":"A 5-year-old girl embarks on a harrowing quest for survival amid the sudden rise and terrifying reign of the Khmer Rouge in Cambodia."
   },
   {
@@ -5673,8 +5690,8 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80049928",
-      "date_released":"2017-03-31",
+      "id":"80049928",
+      "date_released":"2019-03-31",
       "description":"Five acclaimed contemporary directors tell the story of five legendary Hollywood filmmakers who enlisted in the armed forces to document World War II."
   },
   {
@@ -5690,7 +5707,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80046249",
+      "id":"80046249",
       "date_released":"2016-03-11",
       "description":"In his funky California beach enclave, Chip's the go-to guy for personal insights. But he isn't quite as enlightened when it comes to his own baggage."
   },
@@ -5707,7 +5724,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80991060",
+      "id":"80991060",
       "date_released":"2019-02-11",
       "description":"Delve into the delectable world of Chaoshan cuisine, explore its unique ingredients and hear the stories of the people behind its creation."
   },
@@ -5724,7 +5741,7 @@ module.exports = [
       "category":"Anime Features\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.7\/10",
       "runtime":"74 minutes",
-      "netflixid":"80234491",
+      "id":"80234491",
       "date_released":"2018-08-04",
       "description":"Memories in a bowl of steaming noodles, a fading beauty finding her way and a bittersweet first love -- all in these stories of city life in China."
   },
@@ -5741,7 +5758,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"4.0\/10",
       "runtime":"",
-      "netflixid":"80207066",
+      "id":"80207066",
       "date_released":"2019-05-03",
       "description":"Harrowing and hilarious tests await the brave and foolhardy, as well as the judges, in this comedy game show. If they flinch, they feel the pain."
   },
@@ -5758,7 +5775,7 @@ module.exports = [
       "category":"Docuseries\n                  Science & Nature TV",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80156688",
+      "id":"80156688",
       "date_released":"2018-03-02",
       "description":"Over a two-year period, filmmakers embedded with cops in Flint, Michigan, reveal a department grappling with volatile issues in untenable conditions."
   },
@@ -5775,7 +5792,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80217889",
+      "id":"80217889",
       "date_released":"2018-08-23",
       "description":"Follow the reporters at BuzzFeed as they probe topics ranging from quirky internet crazes to safe injection spaces for opioid users."
   },
@@ -5792,7 +5809,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80986797",
+      "id":"80986797",
       "date_released":"2018-09-28",
       "description":"Kai grows up playing an old piano discarded in the woods; Shuhei's father is a famous pianist. Their chance meeting transforms their lives and music."
   },
@@ -5809,7 +5826,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"104 minutes",
-      "netflixid":"80244782",
+      "id":"80244782",
       "date_released":"2018-05-04",
       "description":"Threatened by creditors, a newly unemployed man agrees to work for a debt collector, but soon discovers his deal with the devil has unexpected costs."
   },
@@ -5826,7 +5843,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"7.8\/10",
       "runtime":"108 minutes",
-      "netflixid":"80223050",
+      "id":"80223050",
       "date_released":"2018-02-21",
       "description":"When his abducted brother returns seemingly a different man with no memory of the past 19 days, Jin-seok chases after the truth behind the kidnapping."
   },
@@ -5843,7 +5860,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80204890",
+      "id":"80204890",
       "date_released":"2019-03-08",
       "description":"Drivers, managers and team owners live life in the fast lane -- both on and off the track -- during one cutthroat season of Formula 1 racing."
   },
@@ -5860,7 +5877,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80149141",
+      "id":"80149141",
       "date_released":"2016-12-09",
       "description":"As Havana slowly revolves through the year, wistful detective Mario Conde probes the sultry heart of the city to investigate dark and deadly crimes."
   },
@@ -5877,7 +5894,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.2\/10",
       "runtime":"61 minutes",
-      "netflixid":"81041272",
+      "id":"81041272",
       "date_released":"2019-04-12",
       "description":"Taking the stage in Milan, Francesco De Carlo opens up about his bad habits, religion, politics and what he's learned from traveling the world."
   },
@@ -5894,7 +5911,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"54 minutes",
-      "netflixid":"81006826",
+      "id":"81006826",
       "date_released":"2019-04-17",
       "description":"Comedian Franco Escamilla shares stories about parenting his children when they get into trouble, with reflections on gender, friendship and romance."
   },
@@ -5911,7 +5928,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"66 minutes",
-      "netflixid":"80194946",
+      "id":"80194946",
       "date_released":"2018-06-08",
       "description":"Mexican stand-up comedian Franco Escamilla draws his jokes from real-life experiences -- and he's willing to do anything for new material."
   },
@@ -5928,7 +5945,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.3\/10",
       "runtime":"65 minutes",
-      "netflixid":"80159028",
+      "id":"80159028",
       "date_released":"2018-02-06",
       "description":"For an audience of drummers, comedian Fred Armisen shares and demonstrates his thoughts on musical genres, drummer quirks, regional accents and more."
   },
@@ -5945,8 +5962,8 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV\n                  TV Dramas",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80134695",
-      "date_released":"2017-06-22",
+      "id":"80134695",
+      "date_released":"2019-06-22",
       "description":"A 15-year-old from LA spends the summer at her mom's childhood home on an island off the coast of England, where she bonds with a mysterious horse."
   },
   {
@@ -5962,7 +5979,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.0\/10",
       "runtime":"57 minutes",
-      "netflixid":"81001412",
+      "id":"81001412",
       "date_released":"2018-12-07",
       "description":"As Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia."
   },
@@ -5979,7 +5996,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"8.0\/10",
       "runtime":"50 minutes",
-      "netflixid":"81001413",
+      "id":"81001413",
       "date_released":"2019-02-01",
       "description":"Love is in the air as Zoe and friends go on a quest to find a fabled Maid's Stone. But when rivalry blinds them to danger, it's Raven to the rescue!"
   },
@@ -5996,8 +6013,8 @@ module.exports = [
       "category":"Romantic TV Shows\n                  TV Comedies",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80117485",
-      "date_released":"2017-07-14",
+      "id":"80117485",
+      "date_released":"2019-07-14",
       "description":"Twenty years after graduation, a tight-knit group of college friends reconnects and discovers that love hasn't gotten easier with age."
   },
   {
@@ -6013,8 +6030,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80099656",
-      "date_released":"2017-01-20",
+      "id":"80099656",
+      "date_released":"2019-01-20",
       "description":"In 18th-century North America, ruthless trappers and entrepreneurs fight to wrest control of the fur trade from the mighty Hudson's Bay Company."
   },
   {
@@ -6030,7 +6047,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80235857",
+      "id":"80235857",
       "date_released":"2018-11-23",
       "description":"A domestic abuse survivor orchestrates an elaborate deception to protect her family from her powerfully wealthy husband and his vindictive enemies."
   },
@@ -6047,7 +6064,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80051137",
+      "id":"80051137",
       "date_released":"2016-02-26",
       "description":"The Tanner family\u2019s adventures continue as DJ Tanner-Fuller shares a home with her sister Stephanie and friend Kimmy who help raise her three boys."
   },
@@ -6064,7 +6081,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"5.1\/10",
       "runtime":"134 minutes",
-      "netflixid":"80223731",
+      "id":"80223731",
       "date_released":"2018-02-19",
       "description":"While alchemist Edward Elric searches for a way to restore his brother Al's body, the military government and mysterious monsters are watching closely."
   },
@@ -6081,7 +6098,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.9\/10",
       "runtime":"97 minutes",
-      "netflixid":"81035279",
+      "id":"81035279",
       "date_released":"2019-01-18",
       "description":"The Fyre Festival was billed as a luxury music experience on a posh private island, but it failed spectacularly in the hands of a cocky entrepreneur."
   },
@@ -6098,7 +6115,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"90 minutes",
-      "netflixid":"80237903",
+      "id":"80237903",
       "date_released":"2019-01-29",
       "description":"Gabriel \"Fluffy\" Iglesias discusses his teenage son and encounters with Snoop Dogg, Chris Rock and Vicente Fern\u00e1ndez in this stand-up special for 2019."
   },
@@ -6115,7 +6132,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"87 minutes",
-      "netflixid":"80117628",
+      "id":"80117628",
       "date_released":"2016-12-20",
       "description":"Hawaiian-shirt enthusiast Gabriel \"Fluffy\" Iglesias finds the laughs in racist gift baskets, Prius-driving cops and all-female taco trucks."
   },
@@ -6132,7 +6149,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"57 minutes",
-      "netflixid":"80170187",
+      "id":"80170187",
       "date_released":"2018-03-06",
       "description":"In his first English-language special, comedian Gad Elmaleh gleefully digs into America's food obsessions, dating culture, slang and more."
   },
@@ -6149,8 +6166,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"57 minutes",
-      "netflixid":"80124680",
-      "date_released":"2017-01-23",
+      "id":"80124680",
+      "date_released":"2019-01-23",
       "description":"French comic Gad Elmaleh regales a Montreal crowd with tales of awkward mix-ups and baffling customs he's encountered since moving to the U.S."
   },
   {
@@ -6166,8 +6183,8 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.7\/10",
       "runtime":"100 minutes",
-      "netflixid":"80196586",
-      "date_released":"2017-09-22",
+      "id":"80196586",
+      "date_released":"2019-09-22",
       "description":"Follow pop provocateur Lady Gaga as she releases a new album, preps for her Super Bowl halftime show, and confronts physical and emotional struggles."
   },
   {
@@ -6183,7 +6200,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies",
       "imdb":"5.6\/10",
       "runtime":"101 minutes",
-      "netflixid":"80169617",
+      "id":"80169617",
       "date_released":"2018-03-23",
       "description":"Three buddies with big dreams go from underachieving slackers to badass warriors when their posh hotel is taken over by terrorists."
   },
@@ -6200,8 +6217,8 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"6.4\/10",
       "runtime":"103 minutes",
-      "netflixid":"80128722",
-      "date_released":"2017-09-29",
+      "id":"80128722",
+      "date_released":"2019-09-29",
       "description":"When her husband's sex game goes wrong, Jessie -- handcuffed to a bed in a remote lake house -- faces warped visions, dark secrets and a dire choice."
   },
   {
@@ -6217,8 +6234,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.4\/10",
       "runtime":"101 minutes",
-      "netflixid":"80114666",
-      "date_released":"2017-05-12",
+      "id":"80114666",
+      "date_released":"2019-05-12",
       "description":"Examine the rise, fall and rebirth of political operative Roger Stone, who's been an influential member of Team Trump for decades."
   },
   {
@@ -6234,7 +6251,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Horror",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80245450",
+      "id":"80245450",
       "date_released":"2018-08-24",
       "description":"When a new prisoner at a military detention center exhibits eerie behavior, a young interrogator\u2019s search for the truth becomes a battle for survival."
   },
@@ -6251,7 +6268,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80109415",
+      "id":"80109415",
       "date_released":"2016-11-25",
       "description":"Set nearly a decade after the finale of the original series, this revival follows Lorelai, Rory and Emily Gilmore through four seasons of change."
   },
@@ -6268,7 +6285,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  LGBTQ Movies",
       "imdb":"7.6\/10",
       "runtime":"105 minutes",
-      "netflixid":"81004374",
+      "id":"81004374",
       "date_released":"2019-03-15",
       "description":"Fifteen-year-old ballet dancer Lara faces physical and emotional hurdles as she prepares for gender confirmation surgery. Inspired by a true story."
   },
@@ -6285,7 +6302,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80241947",
+      "id":"80241947",
       "date_released":"2018-10-31",
       "description":"A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn."
   },
@@ -6302,8 +6319,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80115671",
-      "date_released":"2017-04-21",
+      "id":"80115671",
+      "date_released":"2019-04-21",
       "description":"Rebellious and broke, Sophia stumbles into creating an online business and learns how to be the boss. A comedy inspired by the best-selling memoir."
   },
   {
@@ -6319,8 +6336,8 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies",
       "imdb":"4.7\/10",
       "runtime":"70 minutes",
-      "netflixid":"80081987",
-      "date_released":"2017-02-14",
+      "id":"80081987",
+      "date_released":"2019-02-14",
       "description":"When he's caught up in a deadly conspiracy, an unemployed greeting card writer must create the perfect card for a new holiday to save his skin."
   },
   {
@@ -6336,7 +6353,7 @@ module.exports = [
       "category":"Docuseries\n                  Reality TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80185178",
+      "id":"80185178",
       "date_released":"2018-03-02",
       "description":"At Madison Juvenile Correctional Facility in Indiana, teen girls struggle with conflict and heartbreak as they try to turn their lives around."
   },
@@ -6353,7 +6370,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Horror",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"80108495",
+      "id":"80108495",
       "date_released":"2016-10-15",
       "description":"A police officer and a doctor face an emotionally charged mystery when seven local residents inexplicably return from the dead in peak physical form."
   },
@@ -6370,7 +6387,7 @@ module.exports = [
       "category":"Anime Series\n                  Kids' TV",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80057968",
+      "id":"80057968",
       "date_released":"2015-12-18",
       "description":"Five preteen girls learn they're a legendary superhero squad known as the Glitter Force. Their mission? To defend Earth from evil fairy-tale villains."
   },
@@ -6387,8 +6404,8 @@ module.exports = [
       "category":"Anime Series\n                  Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80175619",
-      "date_released":"2017-08-18",
+      "id":"80175619",
+      "date_released":"2019-08-18",
       "description":"Four girls summon their inner superheroes to defend Earth and the magical kingdom of Splendorius from King Mercenare and his minions."
   },
   {
@@ -6404,8 +6421,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80114988",
-      "date_released":"2017-06-23",
+      "id":"80114988",
+      "date_released":"2019-06-23",
       "description":"In 1980s LA, a crew of misfits reinvent themselves as the Gorgeous Ladies of Wrestling. A comedy by the team behind \"Orange Is the New Black.\""
   },
   {
@@ -6421,7 +6438,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"6.3\/10",
       "runtime":"85 minutes",
-      "netflixid":"80232279",
+      "id":"80232279",
       "date_released":"2018-10-19",
       "description":"After moving into a new house with her mom, high schooler Chloe discovers a troupe of talking garden gnomes who need her help saving the world."
   },
@@ -6438,7 +6455,7 @@ module.exports = [
       "category":"Kids' TV\n                  Spanish-Language TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80220541",
+      "id":"80220541",
       "date_released":"2019-02-22",
       "description":"Charismatic M\u00eda gets a scholarship to an elite performing arts school, where she makes close friends but clashes with the owner's popular daughter."
   },
@@ -6455,8 +6472,8 @@ module.exports = [
       "category":"TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80097141",
-      "date_released":"2017-11-22",
+      "id":"80097141",
+      "date_released":"2019-11-22",
       "description":"A ruthless outlaw terrorizes the West in search of a former member of his gang, who\u2019s found a new life in a quiet town populated only by women."
   },
   {
@@ -6472,7 +6489,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Anime Features\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"100 minutes",
-      "netflixid":"80180376",
+      "id":"80180376",
       "date_released":"2018-07-18",
       "description":"On Earth, Haruo and his companions make contact with the indigenous Houtua tribe. To defeat Godzilla, they set out for the old Mechagodzilla facility."
   },
@@ -6489,7 +6506,7 @@ module.exports = [
       "category":"TV Shows",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80180373",
+      "id":"80180373",
       "date_released":"2018-01-17",
       "description":"A desperate group of refugees attempts to recolonize Earth 20,000 years after Godzilla took over. But one young man wants revenge above all else."
   },
@@ -6506,7 +6523,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Anime Features\n                  International Movies",
       "imdb":"5.8\/10",
       "runtime":"90 minutes",
-      "netflixid":"80198623",
+      "id":"80198623",
       "date_released":"2019-01-09",
       "description":"With the earth alliance weakened, Haruo weighs siding with the Exif, whose death cult is summoning a monster that can destroy the world."
   },
@@ -6523,7 +6540,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80092878",
+      "id":"80092878",
       "date_released":"2016-07-08",
       "description":"A high school girl finally gets her own apartment, but she has to share it with the most popular boy in school. No one can know they're living together."
   },
@@ -6540,7 +6557,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80017537",
+      "id":"80017537",
       "date_released":"2015-05-08",
       "description":"They\u2019re not friends, but when their husbands leave them for each other, proper Grace and eccentric Frankie begin to bond in this Emmy-nominated series."
   },
@@ -6557,7 +6574,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.0\/10",
       "runtime":"97 minutes",
-      "netflixid":"80213712",
+      "id":"80213712",
       "date_released":"2019-04-20",
       "description":"It lit up jazz and hip-hop -- and ignited a war on drugs steeped in racial injustice. Experts explore America's complicated relationship with weed."
   },
@@ -6574,7 +6591,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81045888",
+      "id":"81045888",
       "date_released":"2019-03-16",
       "description":"A troubled psychologist returns from the U.S. and sets up a clinic in Taiwan, where mysterious patients and uncanny events shed light on his murky past."
   },
@@ -6591,8 +6608,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80095435",
-      "date_released":"2017-09-08",
+      "id":"80095435",
+      "date_released":"2019-09-08",
       "description":"When teen siblings Hayley and Alex enter an elite boarding school, they find rivalry, romance and a mystery related to the recent loss of their mom."
   },
   {
@@ -6608,7 +6625,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"66 minutes",
-      "netflixid":"80158875",
+      "id":"80158875",
       "date_released":"2018-04-10",
       "description":"British comedian Greg Davies revisits terrifying dates, manscaping disasters, his father's pranks and more in a savagely funny stand-up special."
   },
@@ -6625,8 +6642,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.1\/10",
       "runtime":"95 minutes",
-      "netflixid":"80141788",
-      "date_released":"2017-02-10",
+      "id":"80141788",
+      "date_released":"2019-02-10",
       "description":"Outspoken comedian Beppe Grillo reminisces about his long career, including the triumphs and controversies that fueled his rise in Italian politics."
   },
   {
@@ -6642,7 +6659,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.5\/10",
       "runtime":"126 minutes",
-      "netflixid":"80199806",
+      "id":"80199806",
       "date_released":"2018-10-31",
       "description":"In 1921 Barcelona, amid unrest between anarchists and the police, a cop plays both sides to learn who stole army weapons that could ignite a civil war."
   },
@@ -6659,8 +6676,8 @@ module.exports = [
       "category":"TV Dramas",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80095411",
-      "date_released":"2017-06-30",
+      "id":"80095411",
+      "date_released":"2019-06-30",
       "description":"Therapist Jean Holloway develops dangerous and intimate relationships with the people in her patients' lives in this simmering psychological thriller."
   },
   {
@@ -6676,7 +6693,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80025553",
+      "id":"80025553",
       "date_released":"2015-05-22",
       "description":"Three high school friends who turn into mermaids whenever they touch water have undersea adventures while keeping their new life a secret."
   },
@@ -6693,8 +6710,8 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.4\/10",
       "runtime":"81 minutes",
-      "netflixid":"80106793",
-      "date_released":"2017-05-05",
+      "id":"80106793",
+      "date_released":"2019-05-05",
       "description":"Homicide detective Gene Handsome sets out to solve a woman's murder while searching for clues about what's missing from his personal life."
   },
   {
@@ -6710,7 +6727,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.5\/10",
       "runtime":"69 minutes",
-      "netflixid":"80233611",
+      "id":"80233611",
       "date_released":"2018-06-19",
       "description":"Australian comic Hannah Gadsby reshapes standard stand-up by pairing punchlines with personal revelations on gender, sexuality and childhood turmoil."
   },
@@ -6727,7 +6744,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"67 minutes",
-      "netflixid":"80059410",
+      "id":"80059410",
       "date_released":"2016-02-05",
       "description":"In a special packed with stealthy humor, Hannibal Buress tackles zipper etiquette, the legacy of steroids and the fallout from his Bill Cosby routine."
   },
@@ -6744,7 +6761,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"5.9\/10",
       "runtime":"78 minutes",
-      "netflixid":"80143362",
+      "id":"80143362",
       "date_released":"2018-03-30",
       "description":"A quirky couple spends their three-year dating anniversary looking back at their relationship and contemplating whether they should break up."
   },
@@ -6761,7 +6778,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"7.5\/10",
       "runtime":"127 minutes",
-      "netflixid":"81004245",
+      "id":"81004245",
       "date_released":"2018-11-30",
       "description":"Purehearted teen Lazzaro is content living as a sharecropper in rural Italy, but an unlikely friendship with the marquise's son will change his world."
   },
@@ -6778,8 +6795,8 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80007225",
-      "date_released":"2014-08-20",
+      "id":"80007225",
+      "date_released":"2020-08-20",
       "description":"Yorkshire police sergeant Catherine Cawood pursues the man who assaulted her late daughter, unaware he is now part of a secret kidnapping plot."
   },
   {
@@ -6795,7 +6812,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"67 minutes",
-      "netflixid":"80213657",
+      "id":"80213657",
       "date_released":"2018-05-08",
       "description":"Hari Kondabolu breaks down identity politics, celebrity encounters, his mango obsession and more in an unpredictable stand-up comedy special."
   },
@@ -6812,7 +6829,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.7\/10",
       "runtime":"61 minutes",
-      "netflixid":"80195429",
+      "id":"80195429",
       "date_released":"2018-01-19",
       "description":"Malaysian stand-up comedy icon Harith Iskander takes the stage in Kuala Lumpur to talk about Singapore, a past girlfriend, Rick Astley and more."
   },
@@ -6829,7 +6846,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80178941",
+      "id":"80178941",
       "date_released":"2018-06-29",
       "description":"Kids rule in a place called Harvey Street, where a trio of girls right wrongs, ice cream is always an option, and every day feels like Saturday."
   },
@@ -6846,8 +6863,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.9\/10",
       "runtime":"72 minutes",
-      "netflixid":"80134781",
-      "date_released":"2017-05-23",
+      "id":"80134781",
+      "date_released":"2019-05-23",
       "description":"Comic Hasan Minhaj of \"The Daily Show\" shares personal stories about racism, immigrant parents, prom night horrors and more in this stand-up special."
   },
   {
@@ -6863,7 +6880,7 @@ module.exports = [
       "category":"TV Comedies\n                  Teen TV Shows",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80095900",
+      "id":"80095900",
       "date_released":"2016-10-14",
       "description":"Determined to make it big, the confident but clueless Miranda Sings embarks on an unlikely quest for fame in this offbeat comedy."
   },
@@ -6880,7 +6897,7 @@ module.exports = [
       "category":"Reality TV\n                  TV Horror\n                  TV Thrillers",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80195378",
+      "id":"80195378",
       "date_released":"2018-10-19",
       "description":"Real people sit down with friends and family to share terrifying true stories from their past, re-created through chilling re-enactments."
   },
@@ -6897,7 +6914,7 @@ module.exports = [
       "category":"TV Horror\n                  TV Mysteries\n                  TV Thrillers",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"70242310",
+      "id":"70242310",
       "date_released":"2013-04-19",
       "description":"Secrets are just a part of daily life in the small Pennsylvania town of Hemlock Grove, where the darkest evils hide in plain sight."
   },
@@ -6914,7 +6931,7 @@ module.exports = [
       "category":"Anime Series\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"80200027",
+      "id":"80200027",
       "date_released":"2018-12-03",
       "description":"After a rash of mysterious deaths, Crown prosecutor Sarah Sinclair and SSC agent James Blood discover a conspiracy surrounding uncanny new bio-masks."
   },
@@ -6931,8 +6948,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"39 minutes",
-      "netflixid":"80192445",
-      "date_released":"2017-09-12",
+      "id":"80192445",
+      "date_released":"2019-09-12",
       "description":"This Oscar-nominated film follows three women -- a fire chief, a judge and a street missionary -- battling West Virginia's devastating opioid epidemic."
   },
   {
@@ -6948,7 +6965,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80997338",
+      "id":"80997338",
       "date_released":"2018-12-24",
       "description":"A chronic gamer abysmally inept in academics and sports finally meets his match at his usual shady arcade -- and it\u2019s his rich classmate, Akira."
   },
@@ -6965,7 +6982,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80095626",
+      "id":"80095626",
       "date_released":"2016-06-02",
       "description":"A dramatic series about friendship and conflict between two comedians who search for meaning in life and comedy. Based on the prize-winning book."
   },
@@ -6982,7 +6999,7 @@ module.exports = [
       "category":"Dramas\n                  Sports Movies",
       "imdb":"6.8\/10",
       "runtime":"90 minutes",
-      "netflixid":"80991400",
+      "id":"80991400",
       "date_released":"2019-02-08",
       "description":"When an NBA lockout sidelines his big rookie client, an agent hatches a bold plan to save their careers -- and disrupt the league's power structure."
   },
@@ -6999,7 +7016,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"4.7\/10",
       "runtime":"137 minutes",
-      "netflixid":"81026705",
+      "id":"81026705",
       "date_released":"2019-01-29",
       "description":"A deputy curator of a chaebol-funded art gallery and her husband, a politically ambitious economics professor, will do anything to join the \u00fcber-elite."
   },
@@ -7016,7 +7033,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80115346",
+      "id":"80115346",
       "date_released":"2018-09-21",
       "description":"Fearless, free-spirited Hilda finds new friends, adventure and magical creatures when she leaves her enchanted forest home and journeys to the city."
   },
@@ -7033,7 +7050,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80141782",
+      "id":"80141782",
       "date_released":"2016-12-02",
       "description":"Interviews with influential MCs, DJs and moguls trace the genre's dynamic evolution from the 1970s through the 1990s in this documentary series."
   },
@@ -7050,8 +7067,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80125593",
-      "date_released":"2017-01-13",
+      "id":"80125593",
+      "date_released":"2019-01-13",
       "description":"This drama based on a true story follows the Puccios, a criminal family who kidnaps wealthy people and holds them hostage in their home."
   },
   {
@@ -7067,7 +7084,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas",
       "imdb":"5.1\/10",
       "runtime":"125 minutes",
-      "netflixid":"80157072",
+      "id":"80157072",
       "date_released":"2018-09-28",
       "description":"In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery."
   },
@@ -7084,7 +7101,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80089198",
+      "id":"80089198",
       "date_released":"2016-07-29",
       "description":"A misfit alien named Oh moves in with Tip and her family, in a series that picks up the dynamic duo's adventures where the hit film left off."
   },
@@ -7101,7 +7118,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.9\/10",
       "runtime":"137 minutes",
-      "netflixid":"81013626",
+      "id":"81013626",
       "date_released":"2019-04-17",
       "description":"This intimate, in-depth look at Beyonc\u00e9's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement."
   },
@@ -7118,7 +7135,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.0\/10",
       "runtime":"82 minutes",
-      "netflixid":"80038162",
+      "id":"80038162",
       "date_released":"2015-05-29",
       "description":"This 2015 Sundance Film Festival breakout documentary from producer Rashida Jones spotlights the \"amateur\" porn industry and the women it exploits."
   },
@@ -7135,8 +7152,8 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80115676",
-      "date_released":"2017-04-21",
+      "id":"80115676",
+      "date_released":"2019-04-21",
       "description":"Personal stories reveal how the intersection of sex, technology and intimate relationships is rewiring us in fundamental ways."
   },
   {
@@ -7152,8 +7169,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80114919",
-      "date_released":"2017-03-16",
+      "id":"80114919",
+      "date_released":"2019-03-16",
       "description":"Caught in an afterlife limbo, teenage Kato investigates her own mysterious death and unravels a web of secrets in her seemingly tranquil village."
   },
   {
@@ -7169,7 +7186,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Thrillers",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"70178217",
+      "id":"70178217",
       "date_released":"2013-02-01",
       "description":"With Frank out of the picture, Claire Underwood steps fully into her own as the first woman president, but faces formidable threats to her legacy."
   },
@@ -7186,7 +7203,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Sci-Fi & Fantasy",
       "imdb":"5.0\/10",
       "runtime":"113 minutes",
-      "netflixid":"80167481",
+      "id":"80167481",
       "date_released":"2018-07-13",
       "description":"When a mysterious disaster turns the country into a war zone, a young lawyer heads west with his future father-in-law to find his pregnant fianc\u00e9e."
   },
@@ -7203,7 +7220,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.3\/10",
       "runtime":"104 minutes",
-      "netflixid":"81020005",
+      "id":"81020005",
       "date_released":"2018-10-19",
       "description":"A heartbroken ad copywriter living in Lima, Peru, is inspired to write a blog about life as a single woman and is surprised by her website's success."
   },
@@ -7220,7 +7237,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80211621",
+      "id":"80211621",
       "date_released":"2019-04-12",
       "description":"Eager to reconnect with his son, French comedy star Gad Elmaleh moves to LA, only to discover that he's left all his fame and celebrity perks behind."
   },
@@ -7237,7 +7254,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"81042804",
+      "id":"81042804",
       "date_released":"2018-12-14",
       "description":"During the Japanese colonial period, married playwright Kim U-jin falls in love with soprano Yun Sim-deok, one of Korea\u2019s notable New Women."
   },
@@ -7254,7 +7271,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  Docuseries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80202283",
+      "id":"80202283",
       "date_released":"2018-08-03",
       "description":"Death row inmates convicted of capital murder give a firsthand account of their crimes in this documentary series."
   },
@@ -7271,7 +7288,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.3\/10",
       "runtime":"98 minutes",
-      "netflixid":"80175421",
+      "id":"80175421",
       "date_released":"2018-04-13",
       "description":"A shameless chauvinist gets a taste of his own medicine when he wakes up in a world dominated by women and locks horns with a powerful female author."
   },
@@ -7288,7 +7305,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies\n                  Thrillers",
       "imdb":"4.1\/10",
       "runtime":"89 minutes",
-      "netflixid":"80094648",
+      "id":"80094648",
       "date_released":"2016-10-28",
       "description":"A nervous nurse who scares easily finds herself caring for an ailing horror novelist while living in a house with hidden secrets."
   },
@@ -7305,8 +7322,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Thrillers",
       "imdb":"6.6\/10",
       "runtime":"96 minutes",
-      "netflixid":"80100937",
-      "date_released":"2017-02-24",
+      "id":"80100937",
+      "date_released":"2019-02-24",
       "description":"A timid nursing assistant gets a new lease on life when she and a neighborhood loner track down the degenerates who broke into her house."
   },
   {
@@ -7322,7 +7339,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80986854",
+      "id":"80986854",
       "date_released":"2019-04-23",
       "description":"There is no such thing as an ordinary interaction in this offbeat sketch comedy series that features a deep roster of guest stars."
   },
@@ -7339,7 +7356,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"6.9\/10",
       "runtime":"79 minutes",
-      "netflixid":"80118930",
+      "id":"80118930",
       "date_released":"2016-08-19",
       "description":"Superstar DJ Steve Aoki reflects on the driving force behind his career: his ambitious father, Benihana founder and perennial daredevil Rocky Aoki."
   },
@@ -7356,7 +7373,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.9\/10",
       "runtime":"67 minutes",
-      "netflixid":"80050006",
+      "id":"80050006",
       "date_released":"2015-12-01",
       "description":"In a witty solo show, Brent Morin serves up infectious laughs on the agony of puberty, hot guy problems and the time a girl dumped him for a magician."
   },
@@ -7373,7 +7390,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"5.9\/10",
       "runtime":"94 minutes",
-      "netflixid":"80195049",
+      "id":"80195049",
       "date_released":"2018-05-25",
       "description":"When Harper is sent to Spain for an important work meeting, her hard-partying friends tag along and convince her to pursue a fling with a famous DJ."
   },
@@ -7390,8 +7407,8 @@ module.exports = [
       "category":"International Movies\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"6.0\/10",
       "runtime":"90 minutes",
-      "netflixid":"80099016",
-      "date_released":"2017-01-27",
+      "id":"80099016",
+      "date_released":"2019-01-27",
       "description":"When shards of a cell phone get lodged in a teenager's brain, he discovers he can control electronic devices and uses his newfound power for revenge."
   },
   {
@@ -7407,8 +7424,8 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"7.8\/10",
       "runtime":"121 minutes",
-      "netflixid":"80168079",
-      "date_released":"2017-08-04",
+      "id":"80168079",
+      "date_released":"2019-08-04",
       "description":"In his Oscar-winning film, an American cyclist plunges into a vast doping scandal involving a Russian scientist -- Putin's most-wanted whistleblower."
   },
   {
@@ -7424,8 +7441,8 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80174918",
-      "date_released":"2017-10-06",
+      "id":"80174918",
+      "date_released":"2019-10-06",
       "description":"In the midst of a field exercise operating I-Machines, Alliance Academy student Maya Mikuri is thrown into an entirely different kind of adventure."
   },
   {
@@ -7441,7 +7458,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80988860",
+      "id":"80988860",
       "date_released":"2019-03-15",
       "description":"Eduard, a husband and father who loses his family in a tragic accident, travels to parallel universes to seek a better fate for his beloved wife."
   },
@@ -7458,7 +7475,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"77 minutes",
-      "netflixid":"80106966",
+      "id":"80106966",
       "date_released":"2016-09-23",
       "description":"The stand-up sensation tackles TV's \"Shark Tank,\" what it means to be a woman and how to deal with the lawless party goblin that lives in us all."
   },
@@ -7475,7 +7492,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"72 minutes",
-      "netflixid":"80213658",
+      "id":"80213658",
       "date_released":"2018-07-24",
       "description":"Newly engaged comic Iliza Shlesinger dives into\u00a0undeniable truths about life at age 35, the insanity of the road traveled and what's to come."
   },
@@ -7492,7 +7509,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.9\/10",
       "runtime":"71 minutes",
-      "netflixid":"70302480",
+      "id":"70302480",
       "date_released":"2015-01-23",
       "description":"Smart and brazen comedian Iliza Shlesinger applies her fresh, laugh-out-loud perspective to the universal struggles between men and women."
   },
@@ -7509,7 +7526,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"6.1\/10",
       "runtime":"139 minutes",
-      "netflixid":"80239666",
+      "id":"80239666",
       "date_released":"2018-10-19",
       "description":"In 2029, the elite police squad Illang combats a terrorist group opposing reunification of the two Koreas. But another enemy may be lurking nearby."
   },
@@ -7526,7 +7543,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Horror",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"81026095",
+      "id":"81026095",
       "date_released":"2019-03-08",
       "description":"Driven by revenge, human-turned-vampire Mia sets out to vanquish Dmitry, a ruthless vampire leader who seeks an artifact that grants immortality."
   },
@@ -7543,8 +7560,8 @@ module.exports = [
       "category":"Dramas",
       "imdb":"6.7\/10",
       "runtime":"86 minutes",
-      "netflixid":"70301279",
-      "date_released":"2017-02-03",
+      "id":"70301279",
+      "date_released":"2019-02-03",
       "description":"A young father returns home from jail eager to care for his son and become a writer, but crime, poverty and a flawed system threaten his plans."
   },
   {
@@ -7560,8 +7577,8 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.0\/10",
       "runtime":"98 minutes",
-      "netflixid":"80156857",
-      "date_released":"2017-05-01",
+      "id":"80156857",
+      "date_released":"2019-05-01",
       "description":"The sudden disappearance of a wealthy banker's wife cracks open a dizzying world of secret fetishes, desperate acts and elaborate deceptions."
   },
   {
@@ -7577,8 +7594,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80066429",
-      "date_released":"2017-03-24",
+      "id":"80066429",
+      "date_released":"2019-03-24",
       "description":"The first lady of Mexico is a woman of conviction and ideals. But when she loses faith in her husband, she'll need all her strength to uncover the truth."
   },
   {
@@ -7594,7 +7611,7 @@ module.exports = [
       "category":"Anime Series\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80992853",
+      "id":"80992853",
       "date_released":"2019-04-30",
       "description":"After scientists discover a mysterious substance that can influence human minds, two factions wage an all-out battle to control its awesome power."
   },
@@ -7611,7 +7628,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80179905",
+      "id":"80179905",
       "date_released":"2018-08-10",
       "description":"A bullied teenager turns to beauty pageants as a way to exact her revenge, with the help of a disgraced coach who soon realizes he's in over his head."
   },
@@ -7628,7 +7645,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80185065",
+      "id":"80185065",
       "date_released":"2018-08-31",
       "description":"Explore the psychological machinations and immoral behavior that define the most nefarious types of criminals."
   },
@@ -7645,7 +7662,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80240817",
+      "id":"80240817",
       "date_released":"2018-12-14",
       "description":"Exposing a rarely seen perspective on the drug wars, ex-Special Forces commando Jason Fox interviews dangerous traffickers and cartel members."
   },
@@ -7662,7 +7679,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Kids' TV\n                  TV Comedies",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80025273",
+      "id":"80025273",
       "date_released":"2015-03-27",
       "description":"Inspector Gadget is back and must face his old enemy, the evil Dr. Claw, who has reactivated MAD, his global crime syndicate."
   },
@@ -7679,7 +7696,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81023011",
+      "id":"81023011",
       "date_released":"2018-12-28",
       "description":"Teams of Australian homeowners compete for the title of best Instant Hotel by staying overnight in each other's rentals and rating their experience."
   },
@@ -7696,7 +7713,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.1\/10",
       "runtime":"107 minutes",
-      "netflixid":"80066073",
+      "id":"80066073",
       "date_released":"2016-10-28",
       "description":"With stunning views of eruptions and lava flows, Werner Herzog captures the raw power of volcanoes and their ties to indigenous spiritual practices."
   },
@@ -7713,7 +7730,7 @@ module.exports = [
       "category":"Dramas\n                  Sci-Fi & Fantasy",
       "imdb":"5.1\/10",
       "runtime":"96 minutes",
-      "netflixid":"80134721",
+      "id":"80134721",
       "date_released":"2019-01-18",
       "description":"As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who's racing to catch the last shuttle off the planet."
   },
@@ -7730,7 +7747,7 @@ module.exports = [
       "category":"Dramas\n                  Romantic Movies",
       "imdb":"7.2\/10",
       "runtime":"96 minutes",
-      "netflixid":"80184625",
+      "id":"80184625",
       "date_released":"2018-02-16",
       "description":"A stunning cancer diagnosis spurs Abbie to seek a future girlfriend for fianc\u00e9 and childhood sweetheart Sam, who's clueless when it comes to dating."
   },
@@ -7747,8 +7764,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.9\/10",
       "runtime":"67 minutes",
-      "netflixid":"80158919",
-      "date_released":"2017-10-24",
+      "id":"80158919",
+      "date_released":"2019-10-24",
       "description":"Comedian Jack Whitehall takes the stage to tell stories about drinking, drugs, a Google Maps van and his ongoing rivalry with Robert Pattinson."
   },
   {
@@ -7764,8 +7781,8 @@ module.exports = [
       "category":"British TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80186848",
-      "date_released":"2017-09-22",
+      "id":"80186848",
+      "date_released":"2019-09-22",
       "description":"Jovial comic Jack Whitehall and his stuffy father, Michael, take unusual and amusing trips to foreign lands in an attempt to strengthen their bond."
   },
   {
@@ -7781,7 +7798,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Stand-Up Comedy & Talk Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80213803",
+      "id":"80213803",
       "date_released":"2018-03-27",
       "description":"Offbeat comic James Acaster covers the strange, the mundane and everything in between in this collection of four wide-ranging stand-up specials."
   },
@@ -7798,7 +7815,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"94 minutes",
-      "netflixid":"80117401",
+      "id":"80117401",
       "date_released":"2016-09-09",
       "description":"Jandino Asporaat riffs on the challenges of raising kids and serenades the audience with a rousing rendition of \"Sex on Fire\" in his comedy show."
   },
@@ -7815,7 +7832,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"77 minutes",
-      "netflixid":"80191989",
+      "id":"80191989",
       "date_released":"2018-06-29",
       "description":"Chilean comedian and personality Jani Due\u00f1as pours out her feelings on issues that are all too universal, from aging to dieting to sex."
   },
@@ -7832,7 +7849,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"5.3\/10",
       "runtime":"89 minutes",
-      "netflixid":"80235268",
+      "id":"80235268",
       "date_released":"2018-10-26",
       "description":"A rude, self-centered businessman seems to be on the brink of losing everything until a night janitor at his office helps him find redemption."
   },
@@ -7849,8 +7866,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"70 minutes",
-      "netflixid":"80158670",
-      "date_released":"2017-09-12",
+      "id":"80158670",
+      "date_released":"2019-09-12",
       "description":"Ventriloquist Jeff Dunham brings his rude and slightly demented posse of puppets to Ireland for a gleeful skewering of family and politics."
   },
   {
@@ -7866,7 +7883,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"74 minutes",
-      "netflixid":"80097431",
+      "id":"80097431",
       "date_released":"2016-08-26",
       "description":"Grammy-nominated comedians Jeff Foxworthy and Larry the Cable Guy bring their distinctive brand of humor to a packed crowd in Minneapolis."
   },
@@ -7883,7 +7900,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"78 minutes",
-      "netflixid":"80038335",
+      "id":"80038335",
       "date_released":"2015-05-22",
       "description":"Jen Kirkman delivers some sharp, hilarious truths about divorce, kids, sex and turning 40 in this Netflix original comedy special."
   },
@@ -7900,8 +7917,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.7\/10",
       "runtime":"69 minutes",
-      "netflixid":"80134966",
-      "date_released":"2017-01-03",
+      "id":"80134966",
+      "date_released":"2019-01-03",
       "description":"Incisive comic Jen Kirkman gets real about women's bodies, the value of alone time and an Italian private tour guide who may have been a ghost."
   },
   {
@@ -7917,8 +7934,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"61 minutes",
-      "netflixid":"80163156",
-      "date_released":"2017-09-19",
+      "id":"80163156",
+      "date_released":"2019-09-19",
       "description":"Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy."
   },
   {
@@ -7934,8 +7951,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.7\/10",
       "runtime":"93 minutes",
-      "netflixid":"80209608",
-      "date_released":"2017-11-17",
+      "id":"80209608",
+      "date_released":"2019-11-17",
       "description":"Through the lens of his stunningly immersive performance as Andy Kaufman, Jim Carrey ponders the meaning of life, reality, identity and career."
   },
   {
@@ -7951,8 +7968,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"73 minutes",
-      "netflixid":"80117811",
-      "date_released":"2017-01-10",
+      "id":"80117811",
+      "date_released":"2019-01-10",
       "description":"America's king of clean comedy delivers wickedly funny jokes in his fifth hour-long special."
   },
   {
@@ -7968,8 +7985,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.6\/10",
       "runtime":"76 minutes",
-      "netflixid":"80002621",
-      "date_released":"2014-08-29",
+      "id":"80002621",
+      "date_released":"2020-08-29",
       "description":"Nothing is sacred in this show from Australian comic Jim Jefferies, whether it\u2019s the mother of his child, auditioning disabled actors, or gun control."
   },
   {
@@ -7985,7 +8002,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"86 minutes",
-      "netflixid":"80106979",
+      "id":"80106979",
       "date_released":"2016-07-01",
       "description":"Returning for a second Netflix comedy special, Jim Jefferies unleashes his famously ferocious black humor to a packed house in Nashville, Tennessee."
   },
@@ -8002,7 +8019,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"70 minutes",
-      "netflixid":"80214743",
+      "id":"80214743",
       "date_released":"2018-07-13",
       "description":"The gleefully irreverent Jefferies skewers \"grabby\" celebrities, political hypocrisy and his own ill-advised career moves in a brash stand-up special."
   },
@@ -8019,8 +8036,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.9\/10",
       "runtime":"61 minutes",
-      "netflixid":"80134967",
-      "date_released":"2017-03-14",
+      "id":"80134967",
+      "date_released":"2019-03-14",
       "description":"In this unrestricted jaunt through a gleefully filthy mind, comic Jim Norton offers a personal perspective on romance, desire and sexual proclivities."
   },
   {
@@ -8036,7 +8053,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"62 minutes",
-      "netflixid":"80076467",
+      "id":"80076467",
       "date_released":"2016-03-18",
       "description":"British comedian Jimmy Carr unleashes his deadpan delivery and wickedly funny one-liners to a sold-out audience at the UK's Hammersmith Apollo."
   },
@@ -8053,7 +8070,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"58 minutes",
-      "netflixid":"80214087",
+      "id":"80214087",
       "date_released":"2019-03-12",
       "description":"Nothing is off limits as Jimmy Carr serves up the most outrageous jokes from his stand-up career in a special that's not for the faint of heart."
   },
@@ -8070,7 +8087,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80138672",
+      "id":"80138672",
       "date_released":"2018-07-20",
       "description":"In the 1980s, a simple-minded fool named Hideaki meets comedy legend Sanma, changes his name to Jimmy and becomes a comedic superstar."
   },
@@ -8087,8 +8104,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"62 minutes",
-      "netflixid":"80134826",
-      "date_released":"2017-03-28",
+      "id":"80134826",
+      "date_released":"2019-03-28",
       "description":"Between raising a teenage boy and growing up with a Filipino mother, stand-up comic Jo Koy has been through a lot. He's here to tell you all about it."
   },
   {
@@ -8104,7 +8121,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"7.0\/10",
       "runtime":"127 minutes",
-      "netflixid":"80244640",
+      "id":"80244640",
       "date_released":"2019-05-03",
       "description":"On the run from a dogged internal affairs agent, a corrupt cop reluctantly teams up with a defiant teen to unravel a conspiracy -- before it's too late."
   },
@@ -8121,8 +8138,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.4\/10",
       "runtime":"98 minutes",
-      "netflixid":"80117454",
-      "date_released":"2017-10-27",
+      "id":"80117454",
+      "date_released":"2019-10-27",
       "description":"Literary icon Joan Didion reflects on her remarkable career and personal struggles in this intimate documentary directed by her nephew, Griffin Dunne."
   },
   {
@@ -8138,8 +8155,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"77 minutes",
-      "netflixid":"80169755",
-      "date_released":"2017-09-08",
+      "id":"80169755",
+      "date_released":"2019-09-08",
       "description":"Comedian and celebrity impersonator Joaqu\u00edn Reyes decides to be his zesty self for a night of stories about buses, bathroom habits, royalty and more."
   },
   {
@@ -8155,8 +8172,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"66 minutes",
-      "netflixid":"80185321",
-      "date_released":"2017-07-25",
+      "id":"80185321",
+      "date_released":"2019-07-25",
       "description":"Stand-up comic Joe Mande aims for critical adulation with this special that covers dating shows, \"Shark Tank,\" Jewish summer camp and much more."
   },
   {
@@ -8172,7 +8189,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.9\/10",
       "runtime":"63 minutes",
-      "netflixid":"80215419",
+      "id":"80215419",
       "date_released":"2018-10-02",
       "description":"Outspoken as ever, comedian Joe Rogan takes on current culture, pro wrestling, pot laws, cats, vegans and more in a stand-up special shot in Boston."
   },
@@ -8189,7 +8206,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.7\/10",
       "runtime":"63 minutes",
-      "netflixid":"80117443",
+      "id":"80117443",
       "date_released":"2016-10-21",
       "description":"Unleashing his inquisitive, intense comedic style, Rogan explores everything from raising kids and Santa Claus to pot gummies and talking to dolphins."
   },
@@ -8206,7 +8223,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.4\/10",
       "runtime":"90 minutes",
-      "netflixid":"80225421",
+      "id":"80225421",
       "date_released":"2018-11-05",
       "description":"In this one-man Broadway show, John Leguizamo finds humor and heartbreak as he traces 3,000 years of Latin history in an effort to help his bullied son."
   },
@@ -8223,7 +8240,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.4\/10",
       "runtime":"64 minutes",
-      "netflixid":"80238110",
+      "id":"80238110",
       "date_released":"2018-05-01",
       "description":"John Mulaney relays stories from his childhood and \u201cSNL,\u201d eviscerates the value of college and laments getting older in this electric comedy special."
   },
@@ -8240,7 +8257,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.8\/10",
       "runtime":"61 minutes",
-      "netflixid":"80058424",
+      "id":"80058424",
       "date_released":"2015-11-13",
       "description":"Armed with boyish charm and a sharp wit, the former \"SNL\" writer offers sly takes on marriage, his beef with babies and the time he met Bill Clinton."
   },
@@ -8257,8 +8274,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.8\/10",
       "runtime":"78 minutes",
-      "netflixid":"80169348",
-      "date_released":"2017-05-26",
+      "id":"80169348",
+      "date_released":"2019-05-26",
       "description":"Mobilized by teenage activist Joshua Wong, young citizens of Hong Kong take to the streets in a bid to preserve their history of autonomy from China."
   },
   {
@@ -8274,8 +8291,8 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"6.3\/10",
       "runtime":"98 minutes",
-      "netflixid":"80117940",
-      "date_released":"2017-01-29",
+      "id":"80117940",
+      "date_released":"2019-01-29",
       "description":"When they flee Paris for a remote village in Greenland, two part-time actors become immersed in the archaic Inuit culture and forge unexpected bonds."
   },
   {
@@ -8291,8 +8308,8 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Dramas",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80123792",
-      "date_released":"2017-01-27",
+      "id":"80123792",
+      "date_released":"2019-01-27",
       "description":"Juana In\u00e9s de la Cruz, a powerful feminist nun involved in a forbidden love affair with a woman, faces oppression in 17th-century Mexico."
   },
   {
@@ -8308,7 +8325,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Romantic Movies",
       "imdb":"5.5\/10",
       "runtime":"90 minutes",
-      "netflixid":"80184676",
+      "id":"80184676",
       "date_released":"2019-03-08",
       "description":"Burdened by troubles in life and love, a mother of three grown children searches for hope and healing on an impromptu trip to Paper Moon, Montana."
   },
@@ -8325,8 +8342,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.1\/10",
       "runtime":"84 minutes",
-      "netflixid":"80208273",
-      "date_released":"2017-10-31",
+      "id":"80208273",
+      "date_released":"2019-10-31",
       "description":"Deadpan comic and self-proclaimed world champion Judah Friedlander performs over several nights in New York, explaining why America is No. 1."
   },
   {
@@ -8342,8 +8359,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.2\/10",
       "runtime":"69 minutes",
-      "netflixid":"80158871",
-      "date_released":"2017-12-12",
+      "id":"80158871",
+      "date_released":"2019-12-12",
       "description":"Judd Apatow returns to stand-up comedy after 25 years, riffing on living with three women, amusing moments from his career and much more."
   },
   {
@@ -8359,8 +8376,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80113090",
-      "date_released":"2017-03-17",
+      "id":"80113090",
+      "date_released":"2019-03-17",
       "description":"Adorable puppets stage their own musical under the watchful eye of mentor Julie Andrews in this original kids' series from the Jim Henson Company."
   },
   {
@@ -8376,7 +8393,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"3.0\/10",
       "runtime":"",
-      "netflixid":"81026986",
+      "id":"81026986",
       "date_released":"2019-01-21",
       "description":"Defying pressure to join her father's firm, a determined young lawyer strikes out on her own and fights to maintain faith in Abu Dhabi's justice system."
   },
@@ -8393,7 +8410,7 @@ module.exports = [
       "category":"Music & Musicals",
       "imdb":"7.9\/10",
       "runtime":"90 minutes",
-      "netflixid":"80127559",
+      "id":"80127559",
       "date_released":"2016-10-12",
       "description":"On the final nights of a world tour, director Jonathan Demme captures what makes the show soar: gifted musicians, deft dancers and a magnetic star."
   },
@@ -8410,7 +8427,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80087548",
+      "id":"80087548",
       "date_released":"2016-06-24",
       "description":"A young boy's imagination takes him throughout the world and history, where he learns life lessons and has tons of fun with two make-believe friends."
   },
@@ -8427,7 +8444,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows\n                  TV Thrillers",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80175351",
+      "id":"80175351",
       "date_released":"2018-02-01",
       "description":"High roller Yumeko Jabami plans to clean house at Hyakkaou Private Academy, a school where students are evaluated solely on their gambling skills."
   },
@@ -8444,8 +8461,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80175348",
-      "date_released":"2017-12-01",
+      "id":"80175348",
+      "date_released":"2019-12-01",
       "description":"Elite publishing sales rep Kantaro wraps up his client visits in record time so he can secretly pursue his quest to indulge in the tastiest of sweets."
   },
   {
@@ -8461,8 +8478,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"63 minutes",
-      "netflixid":"80134968",
-      "date_released":"2017-02-14",
+      "id":"80134968",
+      "date_released":"2019-02-14",
       "description":"Stand-up comic Katherine Ryan reminisces about unusual relationships, life in the hometown she hates and the time she enraged an entire nation."
   },
   {
@@ -8478,7 +8495,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"60 minutes",
-      "netflixid":"80216224",
+      "id":"80216224",
       "date_released":"2018-01-16",
       "description":"The King of underground comedy delivers unflinching riffs\u00a0on the American political climate, racial tensions, sex and his disdain for roast beef."
   },
@@ -8495,7 +8512,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.5\/10",
       "runtime":"53 minutes",
-      "netflixid":"80217826",
+      "id":"80217826",
       "date_released":"2018-02-02",
       "description":"On a mission to defy stereotypes, Malaysian stand-up comedian Kavin Jay shares stories about growing up in the VHS era with his Singapore audience."
   },
@@ -8512,7 +8529,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80057609",
+      "id":"80057609",
       "date_released":"2016-09-02",
       "description":"Music meets imagination in this inventive animated series about thinking outside the box and having fun."
   },
@@ -8529,7 +8546,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"6.6\/10",
       "runtime":"82 minutes",
-      "netflixid":"80066798",
+      "id":"80066798",
       "date_released":"2015-09-18",
       "description":"In a documentary with unparalleled access, discover the people and sounds that inspired rock 'n' roll legend Keith Richards from childhood to today."
   },
@@ -8546,7 +8563,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.5\/10",
       "runtime":"62 minutes",
-      "netflixid":"80244853",
+      "id":"80244853",
       "date_released":"2019-02-14",
       "description":"In his first-ever stand-up special, Ken Jeong pays tribute to his wife and shares stories about Hollywood and how \"The Hangover\" saved his life."
   },
@@ -8563,7 +8580,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"6.3\/10",
       "runtime":"63 minutes",
-      "netflixid":"80231156",
+      "id":"80231156",
       "date_released":"2019-02-08",
       "description":"Kevin Hart highlights the fascinating contributions of black history\u2019s unsung heroes in this entertaining -- and educational -- comedy special."
   },
@@ -8580,7 +8597,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"80174687",
+      "id":"80174687",
       "date_released":"2019-04-02",
       "description":"As a father of three on his second marriage, Kevin Hart proves that being him is indeed a tall order in a fresh special inspired by his own mistakes."
   },
@@ -8597,7 +8614,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.5\/10",
       "runtime":"62 minutes",
-      "netflixid":"80158976",
+      "id":"80158976",
       "date_released":"2018-04-24",
       "description":"Kevin James makes his long-awaited return to stand-up in this family-friendly special, dishing on fatherhood, fans, his disdain for allergies and more."
   },
@@ -8614,7 +8631,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Action & Adventure",
       "imdb":"9.0\/10",
       "runtime":"",
-      "netflixid":"80180171",
+      "id":"80180171",
       "date_released":"2019-01-25",
       "description":"While strange rumors about their ill king grip a kingdom, the crown prince becomes their only hope against a mysterious plague overtaking the land."
   },
@@ -8631,8 +8648,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"109 minutes",
-      "netflixid":"80158844",
-      "date_released":"2017-10-13",
+      "id":"80158844",
+      "date_released":"2019-10-13",
       "description":"A father's suicide sends a family of eight on a journey through childhood memories and treacherous emotional waters in this poignant documentary."
   },
   {
@@ -8648,7 +8665,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"5.1\/10",
       "runtime":"",
-      "netflixid":"80097225",
+      "id":"80097225",
       "date_released":"2018-06-29",
       "description":"A lonely young woman hooked on a virtual reality game befriends a party girl who leads her into a world of new thrills and dark secrets."
   },
@@ -8665,8 +8682,8 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"70301578",
-      "date_released":"2014-07-04",
+      "id":"70301578",
+      "date_released":"2020-07-04",
       "description":"A hero rises to save a world that's also a spaceship under siege by an alien threat in this original anime series based on the popular manga comic."
   },
   {
@@ -8682,7 +8699,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"4.3\/10",
       "runtime":"87 minutes",
-      "netflixid":"81080637",
+      "id":"81080637",
       "date_released":"2019-05-01",
       "description":"Go behind the scenes as four determined women -- including Alexandria Ocasio-Cortez -- challenge big-money politicians in the 2018 race for Congress."
   },
@@ -8699,7 +8716,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"6.7\/10",
       "runtime":"105 minutes",
-      "netflixid":"80216834",
+      "id":"80216834",
       "date_released":"2018-04-20",
       "description":"A record company exec joins his estranged dad, a famous photographer who's dying, on a road trip to the last lab still developing Kodachrome film."
   },
@@ -8716,7 +8733,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"5.2\/10",
       "runtime":"",
-      "netflixid":"80023612",
+      "id":"80023612",
       "date_released":"2016-04-15",
       "description":"In 2050, an evil scientist is about to unleash an army of robotic dinosaurs. Now it's up to Kong and friends to fight back and save the day."
   },
@@ -8733,7 +8750,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80057610",
+      "id":"80057610",
       "date_released":"2016-09-02",
       "description":"In a tale of bravery and heroism, fearless frogs go to war against the sinister scorpions and spiders that have teamed up to conquer the amphibians."
   },
@@ -8750,7 +8767,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80180600",
+      "id":"80180600",
       "date_released":"2018-11-20",
       "description":"Now the Blue Sky King, Darel must lead a rescue mission to save a Dream Walker -- leaving the village under the protection of the Kulipari youth."
   },
@@ -8767,7 +8784,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"5.9\/10",
       "runtime":"105 minutes",
-      "netflixid":"81021082",
+      "id":"81021082",
       "date_released":"2018-10-12",
       "description":"Five youngsters discover that an antique mirror found in their orphanage is home to an evil ghost who kidnaps children and imprisons them inside it."
   },
@@ -8784,7 +8801,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80103318",
+      "id":"80103318",
       "date_released":"2016-07-04",
       "description":"When mecha attack a research center, its students, pilots, and researchers must fight back with the help of mysterious artifacts and a young samurai."
   },
@@ -8801,8 +8818,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80208337",
-      "date_released":"2017-12-29",
+      "id":"80208337",
+      "date_released":"2019-12-29",
       "description":"Decades after her capture, a serial killer offers to help solve a string of copycat murders -- but only if her son, now a cop, will work by her side."
   },
   {
@@ -8818,7 +8835,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.5\/10",
       "runtime":"",
-      "netflixid":"80120640",
+      "id":"80120640",
       "date_released":"2016-11-18",
       "description":"A former Colombian guerrilla fighter faces challenges as she reintegrates into society and tries to overcome her traumatic memories."
   },
@@ -8835,7 +8852,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies\n                  Sports Movies",
       "imdb":"8.4\/10",
       "runtime":"39 minutes",
-      "netflixid":"80219143",
+      "id":"80219143",
       "date_released":"2018-03-08",
       "description":"Born amid poverty and limited women's rights in the village of Ratu, India, Deepika Kumari rose to become the No.1 female archer in the world at 18."
   },
@@ -8852,7 +8869,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.8\/10",
       "runtime":"",
-      "netflixid":"80046193",
+      "id":"80046193",
       "date_released":"2016-05-20",
       "description":"Comedian Maria Bamford stars in a series inspired by her own life. It's the sometimes surreal story of a woman who loses -- and then finds -- her s**t."
   },
@@ -8869,7 +8886,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"110 minutes",
-      "netflixid":"81024044",
+      "id":"81024044",
       "date_released":"2019-03-08",
       "description":"When her romance with a lustful marquis takes an unwelcome turn, a wealthy widow concocts a scheme to get revenge -- with help from a younger woman."
   },
@@ -8886,8 +8903,8 @@ module.exports = [
       "category":"Documentaries\n                  International Movies\n                  LGBTQ Movies",
       "imdb":"8.0\/10",
       "runtime":"100 minutes",
-      "netflixid":"80142223",
-      "date_released":"2017-05-19",
+      "id":"80142223",
+      "date_released":"2019-05-19",
       "description":"After presenting as a man for nearly 60 years, Laerte Coutinho, one of Brazil's most brilliant cartoonists, introduces herself to the world as a woman."
   },
   {
@@ -8903,7 +8920,7 @@ module.exports = [
       "category":"Docuseries\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80188051",
+      "id":"80188051",
       "date_released":"2019-02-15",
       "description":"Legendary comedy writer and director Larry Charles travels the world in search of humor in the most unusual, unexpected and dangerous places."
   },
@@ -8920,7 +8937,7 @@ module.exports = [
       "category":"Kids' TV\n                  Korean TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80991329",
+      "id":"80991329",
       "date_released":"2018-10-19",
       "description":"Stranded on a tropical island, two silly larva buddies find slapstick fun in everything from discovering food to meeting new animal friends."
   },
@@ -8937,7 +8954,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80091742",
+      "id":"80091742",
       "date_released":"2016-07-29",
       "description":"Elite athletes with difficult pasts turn to junior college football for a last shot at turning their lives around and achieving their dreams."
   },
@@ -8954,7 +8971,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80221272",
+      "id":"80221272",
       "date_released":"2018-09-14",
       "description":"After causing the near extinction of mankind seven years ago, genius scientist Leon Lau must now fight the ecological disaster he unwittingly created."
   },
@@ -8971,7 +8988,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.7\/10",
       "runtime":"98 minutes",
-      "netflixid":"80144454",
+      "id":"80144454",
       "date_released":"2018-03-23",
       "description":"In response to the repeated bigotry she faces, a Muslim teen in Amsterdam tries to find a sense of belonging in the world of fundamentalist Islam."
   },
@@ -8988,8 +9005,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80081863",
-      "date_released":"2017-02-24",
+      "id":"80081863",
+      "date_released":"2019-02-24",
       "description":"When an evil force threatens his village, a gifted teen who can talk to ghosts puts his skills to good use, one legend at a time."
   },
   {
@@ -9005,7 +9022,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80062112",
+      "id":"80062112",
       "date_released":"2016-03-04",
       "description":"Six legendary heroes find themselves on an epic quest as they harness the power of nature's elements to defeat the forces of evil."
   },
@@ -9022,8 +9039,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80105933",
-      "date_released":"2017-09-01",
+      "id":"80105933",
+      "date_released":"2019-09-01",
       "description":"Armed with a powerful amulet, a teenage guardian is tasked with protecting her little sister -- and all of Elvendale. Based on the popular web series."
   },
   {
@@ -9039,7 +9056,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80058427",
+      "id":"80058427",
       "date_released":"2016-03-04",
       "description":"Five best friends face adventures side by side in their hometown. Zany antics, love and missteps are better with friends!"
   },
@@ -9056,7 +9073,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.0\/10",
       "runtime":"23 minutes",
-      "netflixid":"81001809",
+      "id":"81001809",
       "date_released":"2018-09-28",
       "description":"Two priests -- one from Dunblane, Scotland, the other from Newtown, Connecticut -- bond over school tragedies that occurred 16 years apart."
   },
@@ -9073,7 +9090,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Dramas",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"81011508",
+      "id":"81011508",
       "date_released":"2018-09-12",
       "description":"At Korea's top university medical center, ideals and interests collide between a patient-centered ER doctor and the hospital's newly-appointed CEO."
   },
@@ -9090,7 +9107,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"6.4\/10",
       "runtime":"103 minutes",
-      "netflixid":"80174897",
+      "id":"80174897",
       "date_released":"2018-08-03",
       "description":"After she's left at the altar, a workaholic advertising executive ends up on her Caribbean honeymoon cruise with her estranged father."
   },
@@ -9107,7 +9124,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"70221438",
+      "id":"70221438",
       "date_released":"2012-02-06",
       "description":"After testifying against the Mafia, ex-gangster Frank Tagliano enters witness protection and asks to be sent to Norway."
   },
@@ -9124,7 +9141,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"5.0\/10",
       "runtime":"94 minutes",
-      "netflixid":"81030789",
+      "id":"81030789",
       "date_released":"2019-01-04",
       "description":"When her father falls ill, Adaeze steps up to run the family business -- alongside her uncle -- and prove herself in a male-dominated world."
   },
@@ -9141,7 +9158,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"59 minutes",
-      "netflixid":"81026007",
+      "id":"81026007",
       "date_released":"2019-04-10",
       "description":"A pregnant Liss Pereira shares hilariously uncomfortable truths about sex, love, attraction and the lies we tell in modern relationships."
   },
@@ -9158,8 +9175,8 @@ module.exports = [
       "category":"Comedies\n                  Horror Movies",
       "imdb":"5.8\/10",
       "runtime":"94 minutes",
-      "netflixid":"80139506",
-      "date_released":"2017-09-01",
+      "id":"80139506",
+      "date_released":"2019-09-01",
       "description":"In this horror-comedy, a recently married man who wants to bond with his stepson begins to fear that the boy is a demon."
   },
   {
@@ -9175,7 +9192,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"81011159",
+      "id":"81011159",
       "date_released":"2018-10-05",
       "description":"A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Mumbai."
   },
@@ -9192,8 +9209,8 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80156387",
-      "date_released":"2017-06-30",
+      "id":"80156387",
+      "date_released":"2019-06-30",
       "description":"Akko enrolls at the Luna Nova Witchcraft Academy. She's not the best student, but her bright attitude is the key to her and her friends' success."
   },
   {
@@ -9209,7 +9226,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80214523",
+      "id":"80214523",
       "date_released":"2019-01-31",
       "description":"The police officers at South Korea's busiest patrol division toil day and night as keepers of law and peace -- but the reality is far from orderly."
   },
@@ -9226,7 +9243,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80115338",
+      "id":"80115338",
       "date_released":"2018-01-26",
       "description":"Beloved children's book character Llama Llama springs to life in this heartwarming series about family, friendship and learning new things."
   },
@@ -9243,8 +9260,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.1\/10",
       "runtime":"40 minutes",
-      "netflixid":"80182115",
-      "date_released":"2017-09-29",
+      "id":"80182115",
+      "date_released":"2019-09-29",
       "description":"When Juan Catalan is arrested for a murder he didn't commit, he builds his case for innocence around raw footage from a popular TV show. A documentary."
   },
   {
@@ -9260,7 +9277,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"70269479",
+      "id":"70269479",
       "date_released":"2013-05-14",
       "description":"This contemporary crime thriller focuses on a Wyoming sheriff who's rebuilding his life and career following the death of his wife."
   },
@@ -9277,7 +9294,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80198306",
+      "id":"80198306",
       "date_released":"2019-03-01",
       "description":"In a \"winning is everything\" society, how do we handle failure? This series profiles athletes who have turned the agony of defeat into human triumph."
   },
@@ -9294,7 +9311,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80063989",
+      "id":"80063989",
       "date_released":"2016-04-01",
       "description":"Teen singers-songwriters in an elite music program form bonds of friendship, creativity and romance while turning their passion into their profession."
   },
@@ -9311,7 +9328,7 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Dramas\n                  TV Sci-Fi & Fantasy",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80104198",
+      "id":"80104198",
       "date_released":"2018-04-13",
       "description":"After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers."
   },
@@ -9328,7 +9345,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"8.5\/10",
       "runtime":"",
-      "netflixid":"80191369",
+      "id":"80191369",
       "date_released":"2018-10-05",
       "description":"War looms over the kingdom of Neunatia, where two young women are both burdened and blessed by the power of song."
   },
@@ -9345,7 +9362,7 @@ module.exports = [
       "category":"Music & Musicals",
       "imdb":"7.0\/10",
       "runtime":"91 minutes",
-      "netflixid":"80244848",
+      "id":"80244848",
       "date_released":"2018-11-13",
       "description":"Grammy-winning singer Loudon Wainwright III reflects upon his unique relationship with his father in an evening of original songs and heartfelt stories."
   },
@@ -9362,7 +9379,7 @@ module.exports = [
       "category":"Romantic TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80026506",
+      "id":"80026506",
       "date_released":"2016-02-19",
       "description":"Rebellious Mickey and good-natured Gus navigate the thrills and agonies of modern relationships in this bold comedy co-created by Judd Apatow."
   },
@@ -9379,7 +9396,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.6\/10",
       "runtime":"133 minutes",
-      "netflixid":"80227304",
+      "id":"80227304",
       "date_released":"2018-02-14",
       "description":"Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience."
   },
@@ -9396,7 +9413,7 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Horror\n                  TV Sci-Fi & Fantasy",
       "imdb":"9.0\/10",
       "runtime":"",
-      "netflixid":"80174608",
+      "id":"80174608",
       "date_released":"2019-03-15",
       "description":"Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
   },
@@ -9413,7 +9430,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80041601",
+      "id":"80041601",
       "date_released":"2015-04-15",
       "description":"In his quest for true love, Dylan found chlamydia. Joined by friends Evie and Luke, he relives past encounters as he notifies all his former partners."
   },
@@ -9430,8 +9447,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.0\/10",
       "runtime":"49 minutes",
-      "netflixid":"80117484",
-      "date_released":"2017-04-18",
+      "id":"80117484",
+      "date_released":"2019-04-18",
       "description":"Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson."
   },
   {
@@ -9447,7 +9464,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.0\/10",
       "runtime":"66 minutes",
-      "netflixid":"80192064",
+      "id":"80192064",
       "date_released":"2018-07-06",
       "description":"Argentina's Luciano Mellera emphasizes the humorous and fantastical aspects of childhood through comedic impersonations and insights on daily life."
   },
@@ -9464,8 +9481,8 @@ module.exports = [
       "category":"International Movies\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"6.5\/10",
       "runtime":"101 minutes",
-      "netflixid":"80158750",
-      "date_released":"2017-06-02",
+      "id":"80158750",
+      "date_released":"2019-06-02",
       "description":"After searching for his abducted son for three years, a devastated father attempts to track down his missing child through lucid dreams."
   },
   {
@@ -9481,7 +9498,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80057171",
+      "id":"80057171",
       "date_released":"2016-12-09",
       "description":"With help from her magic toy chest, fun-loving Luna Petunia enters the fantastic land of Amazia, where adventures, friendship and learning await."
   },
@@ -9498,7 +9515,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80202146",
+      "id":"80202146",
       "date_released":"2018-02-02",
       "description":"Luna Petunia returns to magical Amazia, adding memories to her scrapbook with old friends -- and a new pal from the Animal Empire."
   },
@@ -9515,7 +9532,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80198950",
+      "id":"80198950",
       "date_released":"2019-04-19",
       "description":"This mockumentary series follows the peculiar lives of six eccentric -- and sometimes obscene -- misfits who march to their own beat."
   },
@@ -9532,7 +9549,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.6\/10",
       "runtime":"120 minutes",
-      "netflixid":"80991033",
+      "id":"80991033",
       "date_released":"2018-06-15",
       "description":"In the companion to 2013's \"Bombay Talkies,\" four short films by four of India's biggest directors explore love, sex and relationships in modern India."
   },
@@ -9549,8 +9566,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"51 minutes",
-      "netflixid":"80185322",
-      "date_released":"2017-08-22",
+      "id":"80185322",
+      "date_released":"2019-08-22",
       "description":"Unabashed comedian Lynne Koplitz offers a woman's take on being crazy, the benefits of childlessness and the three things all men really want."
   },
   {
@@ -9566,7 +9583,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV\n                  Spanish-Language TV Shows",
       "imdb":"4.0\/10",
       "runtime":"",
-      "netflixid":"80201933",
+      "id":"80201933",
       "date_released":"2018-09-28",
       "description":"These Mexico City socialites may lead opulent lives, but a peek behind the curtain reveals a tangled web of intrigue, envy and personal struggles."
   },
@@ -9583,7 +9600,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80103331",
+      "id":"80103331",
       "date_released":"2016-07-14",
       "description":"The Magi who became High King of the Seven Seas started as a boy determined to make the world a better place. He begins with a dangerous dungeon."
   },
@@ -9600,7 +9617,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"4.5\/10",
       "runtime":"",
-      "netflixid":"80190510",
+      "id":"80190510",
       "date_released":"2018-08-17",
       "description":"From baffling people on the street to orchestrating elaborate tricks, Justin Willman blends good-natured magic with grown-up laughs."
   },
@@ -9617,7 +9634,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80000770",
+      "id":"80000770",
       "date_released":"2015-12-18",
       "description":"Filmed over 13 years, this real-life thriller follows the unprecedented story of two men accused of a grisly crime they may not have committed."
   },
@@ -9634,7 +9651,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"70281343",
+      "id":"70281343",
       "date_released":"2013-07-26",
       "description":"This \"H2O\" sequel follows Zac, a boy who accidentally turns into a merman and threatens the existence of three young mermaids who guard Mako Island."
   },
@@ -9651,7 +9668,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"7.0\/10",
       "runtime":"105 minutes",
-      "netflixid":"80244547",
+      "id":"80244547",
       "date_released":"2018-06-15",
       "description":"After surviving a bomb attack, two low-level mobsters in Jerusalem change their ways and set about making strangers' Wailing Wall prayers come true."
   },
@@ -9668,7 +9685,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"50 minutes",
-      "netflixid":"80192139",
+      "id":"80192139",
       "date_released":"2018-03-02",
       "description":"An Argentine comedian espouses the values of feminism, speaking on topics like sex, language, abortion and why it's OK to let a man buy you dinner."
   },
@@ -9685,7 +9702,7 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"5.1\/10",
       "runtime":"88 minutes",
-      "netflixid":"80242081",
+      "id":"80242081",
       "date_released":"2018-10-05",
       "description":"A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real."
   },
@@ -9702,8 +9719,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80176866",
-      "date_released":"2017-06-10",
+      "id":"80176866",
+      "date_released":"2019-06-10",
       "description":"Disguised as a bodyguard, a special agent must complete his national secret tasks while pandering to the whims of his ill-tempered world star."
   },
   {
@@ -9719,7 +9736,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"5.3\/10",
       "runtime":"109 minutes",
-      "netflixid":"80209866",
+      "id":"80209866",
       "date_released":"2018-05-04",
       "description":"A Chinese pharmaceutical lawyer framed for a vile crime teams up with a sharp-witted Japanese detective to stop a dangerous corporate plot."
   },
@@ -9736,7 +9753,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80124522",
+      "id":"80124522",
       "date_released":"2018-09-21",
       "description":"Two struggling strangers connect during a mind-bending pharmaceutical trial involving a doctor with mother issues and an emotionally complex computer."
   },
@@ -9753,8 +9770,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.1\/10",
       "runtime":"70 minutes",
-      "netflixid":"80177405",
-      "date_released":"2017-09-05",
+      "id":"80177405",
+      "date_released":"2019-09-05",
       "description":"Battle-scarred stand-up comedian Marc Maron unleashes a storm of ideas about meditation, mortality, documentary films and our weird modern world."
   },
   {
@@ -9770,7 +9787,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80094728",
+      "id":"80094728",
       "date_released":"2016-07-01",
       "description":"Despite marriage woes, a tragic loss, memory blackouts and her struggles as a mom, a London detective excels at what she does best: catching killers."
   },
@@ -9787,7 +9804,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80988815",
+      "id":"80988815",
       "date_released":"2018-08-03",
       "description":"A top-ranked college marching band\u2019s members fight to keep their spots, memorize routines, tend to their social lives -- and slay the competition."
   },
@@ -9804,8 +9821,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.8\/10",
       "runtime":"73 minutes",
-      "netflixid":"80160726",
-      "date_released":"2017-06-15",
+      "id":"80160726",
+      "date_released":"2019-06-15",
       "description":"Eclectic character comedian Marco Luque plays himself in this stand-up special about relationships, regional differences and his own love of movies."
   },
   {
@@ -9821,8 +9838,8 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Dramas",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"70305883",
-      "date_released":"2014-12-12",
+      "id":"70305883",
+      "date_released":"2020-12-12",
       "description":"Set in a world of greed, betrayal, sexual intrigue and rivalry, \u201cMarco Polo\u201d is based on the famed explorer\u2019s adventures in Kublai Khan\u2019s court."
   },
   {
@@ -9838,7 +9855,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.2\/10",
       "runtime":"28 minutes",
-      "netflixid":"80083594",
+      "id":"80083594",
       "date_released":"2015-12-26",
       "description":"A defiant warrior-monk arrives at Kublai Khan's court in chains and soon earns his tragic nickname in this 30-minute origin story."
   },
@@ -9855,8 +9872,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.4\/10",
       "runtime":"64 minutes",
-      "netflixid":"80133663",
-      "date_released":"2017-05-02",
+      "id":"80133663",
+      "date_released":"2019-05-02",
       "description":"Maria Bamford performs a rapid-fire, playful stand-up set for crowds at park benches, bowling alleys and LA theaters in this roving comedy special."
   },
   {
@@ -9872,7 +9889,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"66 minutes",
-      "netflixid":"80134779",
+      "id":"80134779",
       "date_released":"2018-02-27",
       "description":"Rollicking, outrageous and audacious, Marlon Wayans gets raw on racism, age-appropriate rap rhymes, gay rights, raising kids and even the Kardashians."
   },
@@ -9889,7 +9906,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Thrillers",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80037278",
+      "id":"80037278",
       "date_released":"2016-05-04",
       "description":"The longtime mayor of Marseille is preparing to hand over the reins to his prot\u00e9g\u00e9 when a sudden and ruthless battle erupts for control of the city."
   },
@@ -9906,7 +9923,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80018294",
+      "id":"80018294",
       "date_released":"2015-04-10",
       "description":"Blinded as a young boy, Matt Murdock fights injustice by day as a lawyer and by night as the Super Hero Daredevil in Hell's Kitchen, New York City."
   },
@@ -9923,8 +9940,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80002612",
-      "date_released":"2017-03-17",
+      "id":"80002612",
+      "date_released":"2019-03-17",
       "description":"Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny."
   },
   {
@@ -9940,7 +9957,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80002311",
+      "id":"80002311",
       "date_released":"2015-11-20",
       "description":"Haunted by a traumatic past, Jessica Jones uses her gifts as a private eye to find her tormentor before he can harm anyone else in Hell's Kitchen."
   },
@@ -9957,7 +9974,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80002537",
+      "id":"80002537",
       "date_released":"2016-09-30",
       "description":"A hoodie-wearing, unbreakable ex-con fights to clear his name and save his neighborhood. He wasn't looking for a fight, but the people need a hero."
   },
@@ -9974,8 +9991,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80002566",
-      "date_released":"2017-08-18",
+      "id":"80002566",
+      "date_released":"2019-08-18",
       "description":"Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City."
   },
   {
@@ -9991,8 +10008,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Thrillers",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80117498",
-      "date_released":"2017-11-17",
+      "id":"80117498",
+      "date_released":"2019-11-17",
       "description":"A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy."
   },
   {
@@ -10008,7 +10025,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.6\/10",
       "runtime":"95 minutes",
-      "netflixid":"80075476",
+      "id":"80075476",
       "date_released":"2016-10-13",
       "description":"Eager contestants don big heads and furry suits to vie for the title of World's Best Mascot in this offbeat, comic romp from Christopher Guest."
   },
@@ -10025,7 +10042,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80049714",
+      "id":"80049714",
       "date_released":"2015-11-06",
       "description":"Dev tries to jump-start his acting career and elevate his dating game with help from his eclectic group of friends in this award-winning series."
   },
@@ -10042,7 +10059,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"57 minutes",
-      "netflixid":"80183089",
+      "id":"80183089",
       "date_released":"2018-01-26",
       "description":"Performing at a bar, Mexican stand-up comedian Mau Nieto dishes on his modest upbringing, his failed relationships and his attempts to stay sober."
   },
@@ -10059,7 +10076,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"6.8\/10",
       "runtime":"110 minutes",
-      "netflixid":"81030893",
+      "id":"81030893",
       "date_released":"2018-11-15",
       "description":"Hoping to find answers to her estranged father's mysterious illness, a young woman visits his old villa and uncovers a horrifying truth from the past."
   },
@@ -10076,8 +10093,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"67 minutes",
-      "netflixid":"80179433",
-      "date_released":"2017-08-01",
+      "id":"80179433",
+      "date_released":"2019-08-01",
       "description":"Iranian American comic Maz Jobrani lights up the Kennedy Center with riffs on immigrant life in the Trump era, modern parenting pitfalls and more."
   },
   {
@@ -10093,8 +10110,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.0\/10",
       "runtime":"54 minutes",
-      "netflixid":"80183088",
-      "date_released":"2017-11-10",
+      "id":"80183088",
+      "date_released":"2019-11-10",
       "description":"Raw and outspoken, comedian Alexis de Anda bares her soul about weddings, exercise, sex, gynecologists, drugs and much more in this stand-up special."
   },
   {
@@ -10110,7 +10127,7 @@ module.exports = [
       "category":"Docuseries\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80169786",
+      "id":"80169786",
       "date_released":"2018-11-09",
       "description":"Honoring service members whose courage merited the awarding of a Medal of Honor, this docudrama series re-creates their inspiring true stories."
   },
@@ -10127,7 +10144,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80152118",
+      "id":"80152118",
       "date_released":"2016-12-09",
       "description":"In 15th-century Renaissance Florence, the visionary Medici dynasty flexes its power in politics and the arts, risking its rivals' lethal opposition."
   },
@@ -10144,7 +10161,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"81004280",
+      "id":"81004280",
       "date_released":"2018-12-01",
       "description":"While looking for the cryptic creator of an innovative augmented-reality game, an investment firm executive meets a woman who runs a hostel in Spain."
   },
@@ -10161,7 +10178,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Sports Movies",
       "imdb":"6.7\/10",
       "runtime":"98 minutes",
-      "netflixid":"80117080",
+      "id":"80117080",
       "date_released":"2016-12-04",
       "description":"When he defies his cruel father and leaves New Caledonia to play rugby in France, young Soane learns hard lessons about life, love and success."
   },
@@ -10178,7 +10195,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.5\/10",
       "runtime":"79 minutes",
-      "netflixid":"80174436",
+      "id":"80174436",
       "date_released":"2018-04-20",
       "description":"After rigorous testing in 1961, a small group of skilled female pilots are asked to step aside when only men are selected for spaceflight."
   },
@@ -10195,7 +10212,7 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"4.3\/10",
       "runtime":"87 minutes",
-      "netflixid":"80077402",
+      "id":"80077402",
       "date_released":"2016-11-22",
       "description":"Two brothers clash with their half-siblings when a visit home to see their dying mother surfaces old secrets and becomes a fight for survival."
   },
@@ -10212,7 +10229,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"8.8\/10",
       "runtime":"",
-      "netflixid":"80134797",
+      "id":"80134797",
       "date_released":"2016-12-01",
       "description":"An unconventional high school philosophy teacher upsets a few parents and staff, romances others and inspires all his pupils, including his gay son."
   },
@@ -10229,8 +10246,8 @@ module.exports = [
       "category":"Independent Movies\n                  Thrillers",
       "imdb":"6.4\/10",
       "runtime":"103 minutes",
-      "netflixid":"80155475",
-      "date_released":"2017-08-04",
+      "id":"80155475",
+      "date_released":"2019-08-04",
       "description":"On a relentless quest to avenge his sister's murder, a man from Cape Town infiltrates a sprawling network of lowlifes and elites in Los Angeles."
   },
   {
@@ -10246,7 +10263,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"81005504",
+      "id":"81005504",
       "date_released":"2018-07-13",
       "description":"Dong Shancai is determined to excel at her dream university, where she encounters an elite clique of dashing, popular high-achievers -- and finds love."
   },
@@ -10263,8 +10280,8 @@ module.exports = [
       "category":"Comedies\n                  Music & Musicals\n                  Romantic Movies",
       "imdb":"7.2\/10",
       "runtime":"54 minutes",
-      "netflixid":"80151370",
-      "date_released":"2017-02-07",
+      "id":"80151370",
+      "date_released":"2019-02-07",
       "description":"After Santa tells him he needs 75,000 new babies by Christmas to meet toy supply, Michael Bolton hosts a telethon to inspire the world to make love."
   },
   {
@@ -10280,7 +10297,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"60 minutes",
-      "netflixid":"80049871",
+      "id":"80049871",
       "date_released":"2016-11-25",
       "description":"\"SNL\" star Michael Che takes on hot-button topics like inequality, homophobia and gentrification in this stand-up set filmed live in Brooklyn."
   },
@@ -10297,7 +10314,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80113037",
+      "id":"80113037",
       "date_released":"2016-10-20",
       "description":"Patrons of an otherwise mundane Japanese diner find simple yet profound connections with one another based on the shared love of a particular dish."
   },
@@ -10314,7 +10331,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80211492",
+      "id":"80211492",
       "date_released":"2019-04-12",
       "description":"An innocent toddler\u2019s boundless curiosity -- and extraordinary might -- lead to mischief and adventure in his small Indian town."
   },
@@ -10331,8 +10348,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.6\/10",
       "runtime":"70 minutes",
-      "netflixid":"80133550",
-      "date_released":"2017-02-28",
+      "id":"80133550",
+      "date_released":"2019-02-28",
       "description":"Comedian Mike Birbiglia takes the stage in Brooklyn and hits on hard truths about puppets, late people and the very real dangers of being funny."
   },
   {
@@ -10348,7 +10365,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.4\/10",
       "runtime":"59 minutes",
-      "netflixid":"80039655",
+      "id":"80039655",
       "date_released":"2015-12-18",
       "description":"Mike Epps tears up the stage at L.A.'s historic Orpheum Theatre in a special packed with blistering impressions and unapologetically raunchy swagger."
   },
@@ -10365,7 +10382,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Reality TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"81004322",
+      "id":"81004322",
       "date_released":"2018-08-10",
       "description":"Next-gen restaurateurs get the chance to open their own pop-up eateries to impress the paying public -- and a panel of discerning U.K. investors."
   },
@@ -10382,8 +10399,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80170687",
-      "date_released":"2017-08-15",
+      "id":"80170687",
+      "date_released":"2019-08-15",
       "description":"Five beautiful but mysterious women move in with unsuccessful novelist Shin, who manages their odd household in exchange for a tidy monthly sum."
   },
   {
@@ -10399,8 +10416,8 @@ module.exports = [
       "category":"Comedies\n                  Cult Movies\n                  Independent Movies",
       "imdb":"6.3\/10",
       "runtime":"88 minutes",
-      "netflixid":"80157866",
-      "date_released":"2017-05-12",
+      "id":"80157866",
+      "date_released":"2019-05-12",
       "description":"When a twisted killer tells the police he'll only speak to a fictional 1980s TV detective, the washed-up actor who played him takes the gig."
   },
   {
@@ -10416,8 +10433,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80114855",
-      "date_released":"2017-10-13",
+      "id":"80114855",
+      "date_released":"2019-10-13",
       "description":"In the late 1970s two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters."
   },
   {
@@ -10433,7 +10450,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80227995",
+      "id":"80227995",
       "date_released":"2018-11-27",
       "description":"Take control of an adventure set in the Minecraft universe. The future of the world is at stake, and your decisions shape the story -- so choose wisely!"
   },
@@ -10450,7 +10467,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"7.2\/10",
       "runtime":"129 minutes",
-      "netflixid":"80991158",
+      "id":"80991158",
       "date_released":"2019-03-22",
       "description":"A space-time continuum glitch allows Vera to save a boy's life 25 years earlier, but results in the loss of her daughter, whom she fights to get back."
   },
@@ -10467,8 +10484,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.6\/10",
       "runtime":"94 minutes",
-      "netflixid":"70308278",
-      "date_released":"2014-08-15",
+      "id":"70308278",
+      "date_released":"2020-08-15",
       "description":"This documentary follows oceanographer Sylvia Earle's campaign to save the world's oceans from threats such as overfishing and toxic waste."
   },
   {
@@ -10484,8 +10501,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.4\/10",
       "runtime":"93 minutes",
-      "netflixid":"70296733",
-      "date_released":"2014-01-24",
+      "id":"70296733",
+      "date_released":"2020-01-24",
       "description":"The real Mitt Romney is revealed in this documentary that goes beyond the sound bites with unprecedented access to his 2012 presidential campaign."
   },
   {
@@ -10501,7 +10518,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"56 minutes",
-      "netflixid":"80239503",
+      "id":"80239503",
       "date_released":"2018-10-08",
       "description":"Arab-American comedian Mo Amer recounts his life as a refugee comic, from traveling with the name Mohammed to his long path to citizenship."
   },
@@ -10518,7 +10535,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80213536",
+      "id":"80213536",
       "date_released":"2018-05-22",
       "description":"There's an organization gathering espers for a nefarious purpose. Powerful psychic Mob, however, is just trying to be the protagonist of his own life."
   },
@@ -10535,8 +10552,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80192098",
-      "date_released":"2017-12-20",
+      "id":"80192098",
+      "date_released":"2019-12-20",
       "description":"Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan."
   },
   {
@@ -10552,7 +10569,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.0\/10",
       "runtime":"121 minutes",
-      "netflixid":"81076251",
+      "id":"81076251",
       "date_released":"2019-04-26",
       "description":"When his daughter and son-in-law fall prey to a scam, Istanbul con man As\u0131m Noyan meets his match in a madcap kingpin of an underground gambling world."
   },
@@ -10569,7 +10586,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Action & Adventure",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80224294",
+      "id":"80224294",
       "date_released":"2018-09-01",
       "description":"Inspired by Khon dance drama and Thai martial arts, a fighter scarred by the past joins forces with a determined cop to battle an organized crime ring."
   },
@@ -10586,7 +10603,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80215322",
+      "id":"80215322",
       "date_released":"2018-01-18",
       "description":"In 1921, nurse trainees from Madrid's upper class open a hospital in Melilla for Rif War soldiers, finding friendship and romance while saving lives."
   },
@@ -10603,7 +10620,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80208298",
+      "id":"80208298",
       "date_released":"2019-03-22",
       "description":"A 1950s housewife goes to Rio de Janeiro to meet up with her husband, only to learn he's deserted her, but decides to stay and open a bossa nova club."
   },
@@ -10620,7 +10637,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"9.0\/10",
       "runtime":"",
-      "netflixid":"80134440",
+      "id":"80134440",
       "date_released":"2018-11-20",
       "description":"Imaginative boy Ben transforms his city by bringing colorful street art to life, armed with a magic paintbrush -- and the classic sounds of Motown."
   },
@@ -10637,7 +10654,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Children & Family Movies\n                  Dramas",
       "imdb":"6.6\/10",
       "runtime":"104 minutes",
-      "netflixid":"80993105",
+      "id":"80993105",
       "date_released":"2018-12-07",
       "description":"An orphaned boy raised by animals in the jungle seizes his destiny while confronting a dangerous enemy -- and his own human origins."
   },
@@ -10654,7 +10671,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80991107",
+      "id":"80991107",
       "date_released":"2018-07-07",
       "description":"A young boy who ends up in the U.S. after the 1871 Shinmiyangyo incident returns to Korea at a historical turning point and falls for a noblewoman."
   },
@@ -10671,8 +10688,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"7.7\/10",
       "runtime":"135 minutes",
-      "netflixid":"80175694",
-      "date_released":"2017-11-17",
+      "id":"80175694",
+      "date_released":"2019-11-17",
       "description":"Two Mississippi families -- one black, one white -- confront the brutal realities of prejudice, farming and friendship in a divided World War II era."
   },
   {
@@ -10688,7 +10705,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"5.8\/10",
       "runtime":"104 minutes",
-      "netflixid":"81049260",
+      "id":"81049260",
       "date_released":"2019-05-01",
       "description":"Haunted by terrifying visions, a Muslim healer finds his faith tested when he helps a woman locked in battle, body and soul, with a diabolical leader."
   },
@@ -10705,7 +10722,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"7.0\/10",
       "runtime":"101 minutes",
-      "netflixid":"81033430",
+      "id":"81033430",
       "date_released":"2019-04-19",
       "description":"A dejected small-town music teacher grapples with guilt and regret when his ex-pupil who once loved him returns home as the star he always wanted to be."
   },
@@ -10722,7 +10739,7 @@ module.exports = [
       "category":"Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"5.6\/10",
       "runtime":"126 minutes",
-      "netflixid":"80119233",
+      "id":"80119233",
       "date_released":"2018-02-23",
       "description":"When his girlfriend vanishes, a mute man ventures into a near-future Berlin's seamy underworld, where his actions speak louder than words."
   },
@@ -10739,7 +10756,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"7.3\/10",
       "runtime":"84 minutes",
-      "netflixid":"80049951",
+      "id":"80049951",
       "date_released":"2016-03-18",
       "description":"After suffering a stroke at age 34, a woman documents her struggles, setbacks and eventual breakthrough as she relearns to speak, read and write."
   },
@@ -10756,7 +10773,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81026700",
+      "id":"81026700",
       "date_released":"2019-04-18",
       "description":"Due to various personal reasons, a group of Yun Tae-o\u2019s friends move into his house, where they experience love, friendship, and everything in between."
   },
@@ -10773,8 +10790,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"7.3\/10",
       "runtime":"119 minutes",
-      "netflixid":"80171247",
-      "date_released":"2017-12-01",
+      "id":"80171247",
+      "date_released":"2019-12-01",
       "description":"A middle-aged wife and mother of two shocks her traditional, multigenerational Georgian household when she announces she's going to live by herself."
   },
   {
@@ -10790,7 +10807,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81002451",
+      "id":"81002451",
       "date_released":"2019-03-20",
       "description":"Kumiko and Kenichi meet in college and build a happy marriage together. But over time, an unusual problem threatens to destroy their relationship."
   },
@@ -10807,7 +10824,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80209096",
+      "id":"80209096",
       "date_released":"2018-01-12",
       "description":"TV legend David Letterman teams up with fascinating global figures for in-depth interviews and curiosity-fueled excursions in this talk show."
   },
@@ -10824,8 +10841,8 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80178564",
-      "date_released":"2017-06-09",
+      "id":"80178564",
+      "date_released":"2019-06-09",
       "description":"When things don't go her way during a shooting for her new show, a top actress runs away in an old van that guides her on a time-traveling journey."
   },
   {
@@ -10841,7 +10858,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.3\/10",
       "runtime":"82 minutes",
-      "netflixid":"80011848",
+      "id":"80011848",
       "date_released":"2015-03-06",
       "description":"When a man discovers he will be the father to a boy, his fear and insecurities send him on an emotional, humorous quest for his own manhood."
   },
@@ -10858,8 +10875,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Sci-Fi & Fantasy",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80128275",
-      "date_released":"2017-04-14",
+      "id":"80128275",
+      "date_released":"2019-04-14",
       "description":"The cult hit returns! Captured by mad scientists, new host Jonah survives a blitz of cheesy B movies by riffing on them with his funny robot pals."
   },
   {
@@ -10875,7 +10892,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80179138",
+      "id":"80179138",
       "date_released":"2018-03-09",
       "description":"Home bakers with a terrible track record take a crack at re-creating edible masterpieces for a $10,000 prize. It's part reality contest, part hot mess."
   },
@@ -10892,7 +10909,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81019894",
+      "id":"81019894",
       "date_released":"2018-12-07",
       "description":"It's the \"Nailed It!\" holiday special you've been waiting for, with missing ingredients, impossible asks and desserts that look delightfully sad."
   },
@@ -10909,7 +10926,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81002145",
+      "id":"81002145",
       "date_released":"2019-02-08",
       "description":"The fun, fondant and hilarious cake fails head to Mexico, where very amateur bakers compete to re-create elaborate sweet treats for a cash prize."
   },
@@ -10926,8 +10943,8 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"5.8\/10",
       "runtime":"96 minutes",
-      "netflixid":"80142058",
-      "date_released":"2017-08-11",
+      "id":"80142058",
+      "date_released":"2019-08-11",
       "description":"Rob's madly in love and about to be married. Unfortunately, he's also naked, stuck in an elevator and caught in a time loop."
   },
   {
@@ -10943,7 +10960,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Romantic Movies",
       "imdb":"7.4\/10",
       "runtime":"98 minutes",
-      "netflixid":"80189630",
+      "id":"80189630",
       "date_released":"2018-09-21",
       "description":"When a perfectionist ad exec experiences a romantic setback, she embarks on a journey of self-discovery that begins with a dramatic hair makeover."
   },
@@ -10960,7 +10977,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80025172",
+      "id":"80025172",
       "date_released":"2015-08-28",
       "description":"The true story of Colombia's infamously violent and powerful drug cartels fuels this gritty gangster drama series."
   },
@@ -10977,7 +10994,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80997085",
+      "id":"80997085",
       "date_released":"2018-11-16",
       "description":"Witness the birth of the Mexican drug war in the 1980s as a gritty new \"Narcos\" saga chronicles the true story of the Guadalajara cartel's ascent."
   },
@@ -10994,7 +11011,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.3\/10",
       "runtime":"68 minutes",
-      "netflixid":"80192063",
+      "id":"80192063",
       "date_released":"2018-03-02",
       "description":"A Chilean comedian fuses activism with irreverence for a stand-up set filled with jokes about misogyny, reproductive rights and respecting women."
   },
@@ -11011,7 +11028,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"60 minutes",
-      "netflixid":"81002880",
+      "id":"81002880",
       "date_released":"2019-03-26",
       "description":"Comic Nate Bargatze touches on air travel, cheap weddings, college football, chocolate milk and the perils of ordering coffee in this stand-up special."
   },
@@ -11028,8 +11045,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.4\/10",
       "runtime":"65 minutes",
-      "netflixid":"80117452",
-      "date_released":"2017-01-17",
+      "id":"80117452",
+      "date_released":"2019-01-17",
       "description":"Wicked one-liners and soul-baring confessions converge in this uniquely intimate stand-up special from \"Chappelle's Show\" co-creator Neal Brennan."
   },
   {
@@ -11045,8 +11062,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Sci-Fi & Fantasy\n                  Teen TV Shows",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80152350",
-      "date_released":"2017-09-22",
+      "id":"80152350",
+      "date_released":"2019-09-22",
       "description":"Joined by his faithful mecha-butler, Kaz Kaan pursues love, fashion and supernatural forces amid Neo Yokio's sinister high society."
   },
   {
@@ -11062,7 +11079,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80073289",
+      "id":"80073289",
       "date_released":"2016-03-11",
       "description":"We asked eight up-and-coming comedians for their wildest sketch and improv routines -- and got a new comedy series unlike anything else."
   },
@@ -11079,7 +11096,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies\n                  Sci-Fi & Fantasy",
       "imdb":"7.1\/10",
       "runtime":"105 minutes",
-      "netflixid":"80988892",
+      "id":"80988892",
       "date_released":"2018-09-07",
       "description":"When lonely Mai forms an unlikely bond with a top-secret robot, they embark on an intense, action-packed adventure to foil the plot of a vicious villain."
   },
@@ -11096,7 +11113,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies\n                  TV Dramas",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80231658",
+      "id":"80231658",
       "date_released":"2019-04-15",
       "description":"A family finds their lives turned upside down when a teenage con artist shows up on their doorstep, claiming she's a distant relative."
   },
@@ -11113,7 +11130,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Thrillers",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80131415",
+      "id":"80131415",
       "date_released":"2016-12-13",
       "description":"A series of incidents in Afghanistan set complicated political and personal events in motion for a returning Norwegian Special Forces officer."
   },
@@ -11130,8 +11147,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"5.9\/10",
       "runtime":"95 minutes",
-      "netflixid":"80168227",
-      "date_released":"2017-06-23",
+      "id":"80168227",
+      "date_released":"2019-06-23",
       "description":"Hulk Hogan's court case against Gawker Media sheds light on wealthy, powerful figures who challenge freedom of the press in order to silence critics."
   },
   {
@@ -11147,7 +11164,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"8.7\/10",
       "runtime":"",
-      "netflixid":"80225949",
+      "id":"80225949",
       "date_released":"2018-09-14",
       "description":"Comedian Norm Macdonald hosts his celebrity friends for casual conversations that range from silly to serious and take many unexpected turns."
   },
@@ -11164,8 +11181,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"61 minutes",
-      "netflixid":"80134780",
-      "date_released":"2017-05-09",
+      "id":"80134780",
+      "date_released":"2019-05-09",
       "description":"In this new stand-up special, Norm Macdonald delivers sly, deadpan observations from an older -- and perhaps even wiser -- point of view."
   },
   {
@@ -11181,7 +11198,7 @@ module.exports = [
       "category":"TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80202258",
+      "id":"80202258",
       "date_released":"2019-03-01",
       "description":"After the sudden death of his wife, search and rescue commander John West relocates with his three kids to his rural hometown of Turtle Island Bay."
   },
@@ -11198,7 +11215,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.6\/10",
       "runtime":"93 minutes",
-      "netflixid":"81004099",
+      "id":"81004099",
       "date_released":"2018-11-16",
       "description":"To spice up a dinner party, old friends agree to share every private message that pops up on their phones -- with disastrous results."
   },
@@ -11215,7 +11232,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80190097",
+      "id":"80190097",
       "date_released":"2018-06-01",
       "description":"Survivors and first responders share personal stories of anguish, kindness and bravery that unfolded amid the Paris terror attacks of Nov. 13, 2015."
   },
@@ -11232,7 +11249,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80104622",
+      "id":"80104622",
       "date_released":"2016-07-07",
       "description":"After German reunification, the neo-Nazi National Socialist Underground begins a killing spree while cops fight an uphill battle to catch them."
   },
@@ -11249,7 +11266,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80993625",
+      "id":"80993625",
       "date_released":"2018-11-21",
       "description":"When a skilled but timid chef is possessed by a sassy spirit, her newfound confidence catches the eye of her longtime crush, a culinary hotshot."
   },
@@ -11266,8 +11283,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"102 minutes",
-      "netflixid":"80168221",
-      "date_released":"2017-06-13",
+      "id":"80168221",
+      "date_released":"2019-06-13",
       "description":"Two delusional geriatrics reveal curious pasts, share a love of tuna and welcome a surprise guest in this filming of the popular Broadway comedy show."
   },
   {
@@ -11283,8 +11300,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies\n                  Dramas",
       "imdb":"7.5\/10",
       "runtime":"121 minutes",
-      "netflixid":"80091936",
-      "date_released":"2017-06-28",
+      "id":"80091936",
+      "date_released":"2019-06-28",
       "description":"A gentle giant and the girl who raised her are caught in the crossfire between animal activism, corporate greed and scientific ethics."
   },
   {
@@ -11300,7 +11317,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Romantic Movies",
       "imdb":"7.5\/10",
       "runtime":"115 minutes",
-      "netflixid":"80177414",
+      "id":"80177414",
       "date_released":"2018-02-02",
       "description":"Two shy and socially awkward co-workers in Budapest form a special bond through a mysterious mystic connection that manifests in a dream."
   },
@@ -11317,7 +11334,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"81000509",
+      "id":"81000509",
       "date_released":"2018-08-04",
       "description":"These uncanny tales reveal a world where individuals face the tragic consequences of social pressure, parental oppression and family dysfunction."
   },
@@ -11334,7 +11351,7 @@ module.exports = [
       "category":"Romantic TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80117809",
+      "id":"80117809",
       "date_released":"2018-03-16",
       "description":"In a rough inner-city Los Angeles neighborhood, four smart, funny and streetwise teens find their lifelong friendship tested as they begin high school."
   },
@@ -11351,7 +11368,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"8.3\/10",
       "runtime":"100 minutes",
-      "netflixid":"81001000",
+      "id":"81001000",
       "date_released":"2018-09-12",
       "description":"Arrested in Rome for a drug-related offense, Stefano Cucchi endures a harrowing week in custody that changes his family forever. Based on true events."
   },
@@ -11368,8 +11385,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.1\/10",
       "runtime":"",
-      "netflixid":"80095532",
-      "date_released":"2017-01-06",
+      "id":"80095532",
+      "date_released":"2019-01-06",
       "description":"In a reimagining of the TV classic, a newly single Latina mother raises her teen daughter and tween son with the \"help\" of her old-school mom."
   },
   {
@@ -11385,8 +11402,8 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80161700",
-      "date_released":"2017-03-10",
+      "id":"80161700",
+      "date_released":"2019-03-10",
       "description":"This fantasy drama follows an indie band singer who repeatedly undergoes unwanted time slips and the girlfriend he must save from an unlucky fate."
   },
   {
@@ -11402,8 +11419,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.2\/10",
       "runtime":"95 minutes",
-      "netflixid":"80118101",
-      "date_released":"2017-10-20",
+      "id":"80118101",
+      "date_released":"2019-10-20",
       "description":"In the wake of trauma and abuse, three Hasidic Jews face ostracism, anxiety and danger as they attempt to leave their ultra-Orthodox community."
   },
   {
@@ -11419,7 +11436,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"70242311",
+      "id":"70242311",
       "date_released":"2013-07-11",
       "description":"A privileged New Yorker ends up in a women's prison when a past crime catches up with her in this Emmy-winning series from the creator of \"Weeds.\""
   },
@@ -11436,7 +11453,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Sci-Fi & Fantasy",
       "imdb":"5.7\/10",
       "runtime":"94 minutes",
-      "netflixid":"80222823",
+      "id":"80222823",
       "date_released":"2018-04-06",
       "description":"A woman who's been alone on a spaceship her whole life becomes enamored with an engineer who suddenly enters her world and upends her universe."
   },
@@ -11453,7 +11470,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80189898",
+      "id":"80189898",
       "date_released":"2019-03-29",
       "description":"In near-future Paris, two brilliant siblings unveil a high-tech implant designed to pair up soul mates. But the beta test yields unwelcome surprises."
   },
@@ -11470,7 +11487,7 @@ module.exports = [
       "category":"Docuseries\n                  Science & Nature TV",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80049832",
+      "id":"80049832",
       "date_released":"2019-04-05",
       "description":"Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope."
   },
@@ -11487,8 +11504,8 @@ module.exports = [
       "category":"Dramas\n                  Romantic Movies",
       "imdb":"6.4\/10",
       "runtime":"103 minutes",
-      "netflixid":"80104068",
-      "date_released":"2017-09-29",
+      "id":"80104068",
+      "date_released":"2019-09-29",
       "description":"After widowed neighbors Addie and Louis begin sleeping in bed together platonically to alleviate their loneliness, a real romance begins to blossom."
   },
   {
@@ -11504,7 +11521,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"5.0\/10",
       "runtime":"34 minutes",
-      "netflixid":"81010212",
+      "id":"81010212",
       "date_released":"2018-12-12",
       "description":"In this documentary short, a diverse group of men and women discuss their personal journeys as they prepare for the U.S. citizenship test."
   },
@@ -11521,7 +11538,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas",
       "imdb":"7.1\/10",
       "runtime":"121 minutes",
-      "netflixid":"80190859",
+      "id":"80190859",
       "date_released":"2018-11-09",
       "description":"In 14th-century Scotland, Robert the Bruce claims the crown and leads a fierce uprising to win back the country's independence from English rule."
   },
@@ -11538,8 +11555,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas\n                  TV Thrillers",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80117552",
-      "date_released":"2017-07-21",
+      "id":"80117552",
+      "date_released":"2019-07-21",
       "description":"A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss."
   },
   {
@@ -11555,7 +11572,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Comedies",
       "imdb":"5.1\/10",
       "runtime":"",
-      "netflixid":"80106265",
+      "id":"80106265",
       "date_released":"2016-12-02",
       "description":"In this animated satire, a covert squad of operatives short on smarts but long on confidence tackles crime on the glitzy Gold Coast of Australia."
   },
@@ -11572,7 +11589,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"7.0\/10",
       "runtime":"89 minutes",
-      "netflixid":"80224060",
+      "id":"80224060",
       "date_released":"2019-02-22",
       "description":"After he's diagnosed with terminal cancer, middle-aged Michael asks his neighbor friend Andy to help him end his life before the disease does."
   },
@@ -11589,8 +11606,8 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.9\/10",
       "runtime":"136 minutes",
-      "netflixid":"80158577",
-      "date_released":"2017-03-17",
+      "id":"80158577",
+      "date_released":"2019-03-17",
       "description":"When an earthquake hits a Korean village housing a run-down nuclear power plant, a man risks his life to save the country from imminent disaster."
   },
   {
@@ -11606,7 +11623,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80191522",
+      "id":"80191522",
       "date_released":"2018-08-31",
       "description":"An eager young rookie joins the ragtag small-town police force led by his dad as they bumble, squabble and snort their way through a big drug case."
   },
@@ -11623,7 +11640,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"3.4\/10",
       "runtime":"73 minutes",
-      "netflixid":"80242378",
+      "id":"80242378",
       "date_released":"2018-03-23",
       "description":"Neil Young and his band of outlaws sow seeds of strange mischief and musical wonder under Western skies in this dreamlike film by Daryl Hannah."
   },
@@ -11640,7 +11657,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80123729",
+      "id":"80123729",
       "date_released":"2016-11-17",
       "description":"When a woman is brutally murdered on a playground, a group of detectives find themselves drawn into a dark conspiracy as they search for the killer."
   },
@@ -11657,7 +11674,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"5.9\/10",
       "runtime":"84 minutes",
-      "netflixid":"81027190",
+      "id":"81027190",
       "date_released":"2019-02-22",
       "description":"Amid a turbulent romance and rising tensions in Paris, a young woman finds herself caught in a dizzying spiral of dreams, memories and what-ifs."
   },
@@ -11674,7 +11691,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"7.6\/10",
       "runtime":"115 minutes",
-      "netflixid":"81031178",
+      "id":"81031178",
       "date_released":"2019-03-15",
       "description":"Naval unit PASKAL is among the most elite special forces in Malaysia. But all bets are off when one of its own stages a hijacking. Based on true events."
   },
@@ -11691,7 +11708,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80239931",
+      "id":"80239931",
       "date_released":"2018-10-28",
       "description":"Every Sunday, Hasan Minhaj brings an incisive and nuanced perspective to global news, politics and culture in his unique comedy series."
   },
@@ -11708,8 +11725,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"66 minutes",
-      "netflixid":"80177406",
-      "date_released":"2017-10-17",
+      "id":"80177406",
+      "date_released":"2019-10-17",
       "description":"By turns scathing and candid, Patton Oswalt reflects on the glut of comic material in the Trump era and the dark days following a personal tragedy."
   },
   {
@@ -11725,7 +11742,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"65 minutes",
-      "netflixid":"80082862",
+      "id":"80082862",
       "date_released":"2016-04-22",
       "description":"On stage in San Francisco, the comedian covers topics like old people getting drugs, his worst stand-up set, gay proms and a horrible birthday clown."
   },
@@ -11742,8 +11759,8 @@ module.exports = [
       "category":"British TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80199032",
-      "date_released":"2017-09-29",
+      "id":"80199032",
+      "date_released":"2019-09-29",
       "description":"Gear up for a fast-paced journey as celebrity chef and avid auto enthusiast Paul Hollywood takes in the cars and culture of France, Italy and Germany."
   },
   {
@@ -11759,8 +11776,8 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80002479",
-      "date_released":"2014-09-30",
+      "id":"80002479",
+      "date_released":"2020-09-30",
       "description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost."
   },
   {
@@ -11776,7 +11793,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies\n                  Cult Movies",
       "imdb":"6.1\/10",
       "runtime":"90 minutes",
-      "netflixid":"80031800",
+      "id":"80031800",
       "date_released":"2016-03-18",
       "description":"A chance encounter with a mysterious stranger (Joe Manganiello) points Pee-wee toward his destiny -- and his first-ever holiday!"
   },
@@ -11793,7 +11810,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.3\/10",
       "runtime":"103 minutes",
-      "netflixid":"80245357",
+      "id":"80245357",
       "date_released":"2018-08-09",
       "description":"A policewoman whose childhood friend disappeared in Patagonia years ago starts a new search to find answers, and soon finds her own life in danger."
   },
@@ -11810,7 +11827,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80200596",
+      "id":"80200596",
       "date_released":"2018-12-21",
       "description":"When a singer is found murdered, with her scent glands excised from her body, detectives probe a group of friends who attended boarding school with her."
   },
@@ -11827,7 +11844,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.0\/10",
       "runtime":"26 minutes",
-      "netflixid":"81074663",
+      "id":"81074663",
       "date_released":"2019-02-12",
       "description":"In rural India, where the stigma of menstruation persists, women make low-cost sanitary pads on a new machine and stride toward financial independence."
   },
@@ -11844,7 +11861,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"81044884",
+      "id":"81044884",
       "date_released":"2019-04-11",
       "description":"An exploration of different personas in an eclectic collection of four works by critically acclaimed Korean directors."
   },
@@ -11861,7 +11878,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"5.3\/10",
       "runtime":"108 minutes",
-      "netflixid":"80133153",
+      "id":"80133153",
       "date_released":"2018-04-12",
       "description":"Aspiring teen thieves learn what it takes to be successful pickpockets on the streets of Bogot\u00e1 from a master in the arts of trickery and deception."
   },
@@ -11878,7 +11895,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80195198",
+      "id":"80195198",
       "date_released":"2018-12-07",
       "description":"At top-secret U.S.-Australian joint defense facility Pine Gap, fissures appear in the critical alliance as spies work with, and against, each other."
   },
@@ -11895,7 +11912,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80175934",
+      "id":"80175934",
       "date_released":"2019-01-01",
       "description":"Pinky Malinky sees the bright side of everything, including being born a hot dog. With his BFFs in tow, this little wiener takes a bite out of life."
   },
@@ -11912,7 +11929,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"118 minutes",
-      "netflixid":"80223052",
+      "id":"80223052",
       "date_released":"2019-01-25",
       "description":"An assassin on the verge of retirement must put the good life on hold when his greedy boss sends a squad of young, ruthless killers to take him out."
   },
@@ -11929,7 +11946,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80245299",
+      "id":"80245299",
       "date_released":"2018-08-10",
       "description":"A young horse enthusiast teams up with her best friends to rescue and rehabilitate animals on her family's beloved ranch."
   },
@@ -11946,7 +11963,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80045811",
+      "id":"80045811",
       "date_released":"2015-10-30",
       "description":"The adorable Best Popple Pals love helping their friends and neighbors, but every time they do it seems to backfire in hilarious ways."
   },
@@ -11963,7 +11980,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Korean TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81087764",
+      "id":"81087764",
       "date_released":"2019-04-03",
       "description":"A reluctant clairvoyant joins forces with a brusque police detective hiding a soft heart to help him solve criminal cases using her psychic abilities."
   },
@@ -11980,7 +11997,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80223556",
+      "id":"80223556",
       "date_released":"2018-11-16",
       "description":"A prankster prince who wants to experience life as an ordinary teen leaves his kingdom to live incognito with a single mom and her studious son."
   },
@@ -11997,7 +12014,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"6.0\/10",
       "runtime":"29 minutes",
-      "netflixid":"81018634",
+      "id":"81018634",
       "date_released":"2018-12-17",
       "description":"Teddy's never missed the Festival of Lights, but the bowling alley\u2019s been snowed in! Not to worry -- Emil insists the Christmas moose will save the day."
   },
@@ -12014,8 +12031,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.2\/10",
       "runtime":"99 minutes",
-      "netflixid":"80005444",
-      "date_released":"2014-09-26",
+      "id":"80005444",
+      "date_released":"2020-09-26",
       "description":"This award-winning, original documentary chronicles the race for market leadership in 3D printing, the next wave of technological evolution."
   },
   {
@@ -12031,7 +12048,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Comedies",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80214406",
+      "id":"80214406",
       "date_released":"2018-01-24",
       "description":"With his major league baseball debut right around the corner, a star pitcher lands in prison and must learn to navigate his new world."
   },
@@ -12048,7 +12065,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"6.9\/10",
       "runtime":"124 minutes",
-      "netflixid":"80168222",
+      "id":"80168222",
       "date_released":"2018-10-05",
       "description":"Struggling to conceive, a couple in their 40s are almost out of options -- until a sliver of hope arrives in the form of their visiting step-niece."
   },
@@ -12065,7 +12082,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"4.7\/10",
       "runtime":"",
-      "netflixid":"80058852",
+      "id":"80058852",
       "date_released":"2015-08-07",
       "description":"Teenage spy McKeyla teams up with three other super-smart girls to become secret agents who use their science and tech skills to save the day."
   },
@@ -12082,7 +12099,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies\n                  International Movies",
       "imdb":"5.7\/10",
       "runtime":"101 minutes",
-      "netflixid":"80226424",
+      "id":"80226424",
       "date_released":"2018-04-25",
       "description":"Suddenly possessed with supernatural powers, a father sets out to help his estranged daughter, who's at risk of losing everything she's lived for."
   },
@@ -12099,7 +12116,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80044965",
+      "id":"80044965",
       "date_released":"2015-09-01",
       "description":"Life is sweet on beautiful Puffin Rock, where puffling Oona, her baby brother Baba and their pals learn about nature, friendship and family."
   },
@@ -12116,7 +12133,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"6.9\/10",
       "runtime":"118 minutes",
-      "netflixid":"81020161",
+      "id":"81020161",
       "date_released":"2018-10-08",
       "description":"Thom tells her grandson about his grandfather, a sailor who left 61 years ago to seek his fortune, and asks him to find out what happened to her spouse."
   },
@@ -12133,8 +12150,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"5.4\/10",
       "runtime":"23 minutes",
-      "netflixid":"80151644",
-      "date_released":"2017-06-20",
+      "id":"80151644",
+      "date_released":"2019-06-20",
       "description":"Puss in Boots has fallen into a magic book ruled by a sneaky Storyteller. Only you can help our hero find his way in this interactive story!"
   },
   {
@@ -12150,7 +12167,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80160037",
+      "id":"80160037",
       "date_released":"2018-02-07",
       "description":"Grab some tissues! An all-new \"Fab Five\" serve up hip tips, emotionally charged makeovers and heartfelt reveals that bring out all the feels."
   },
@@ -12167,7 +12184,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80211703",
+      "id":"80211703",
       "date_released":"2019-04-05",
       "description":"After a tragedy at a school sends shock waves through a wealthy Stockholm suburb, a seemingly well-adjusted teen finds herself on trial for murder."
   },
@@ -12184,7 +12201,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"8.1\/10",
       "runtime":"124 minutes",
-      "netflixid":"80102952",
+      "id":"80102952",
       "date_released":"2018-09-21",
       "description":"This documentary profiles music and culture icon Quincy Jones, offering unprecedented access to his private life and stories from his unparalleled career."
   },
@@ -12201,7 +12218,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.3\/10",
       "runtime":"62 minutes",
-      "netflixid":"80214464",
+      "id":"80214464",
       "date_released":"2018-09-21",
       "description":"An off-color joke nearly cost him everything. Brazilian comic Rafinha Bastos talks about that and much more, from his divorce to finding love again."
   },
@@ -12218,7 +12235,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"7.0\/10",
       "runtime":"118 minutes",
-      "netflixid":"81018377",
+      "id":"81018377",
       "date_released":"2018-11-30",
       "description":"Hoping to revive his relationship with his resentful millennial son, an internet-rookie widower assumes the online persona of a young woman."
   },
@@ -12235,7 +12252,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"3.2\/10",
       "runtime":"83 minutes",
-      "netflixid":"80013282",
+      "id":"80013282",
       "date_released":"2015-02-27",
       "description":"Filmed in front of a raucous crowd, comedian Ralphie May unleashes his hilariously raunchy perspective in his first Netflix original stand-up special."
   },
@@ -12252,7 +12269,7 @@ module.exports = [
       "category":"Documentaries\n                  Faith & Spirituality",
       "imdb":"6.6\/10",
       "runtime":"31 minutes",
-      "netflixid":"80209895",
+      "id":"80209895",
       "date_released":"2018-04-06",
       "description":"From his home on Maui, pioneering researcher, author and spiritual teacher Ram Dass reflects on love, life and death as his own days draw to a close."
   },
@@ -12269,7 +12286,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80145087",
+      "id":"80145087",
       "date_released":"2018-03-30",
       "description":"Groundbreaking artists share their life stories in this vibrant documentary series that captures hip-hop's impact on global culture."
   },
@@ -12286,7 +12303,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"5.5\/10",
       "runtime":"103 minutes",
-      "netflixid":"80218656",
+      "id":"80218656",
       "date_released":"2018-03-02",
       "description":"As a zombie plague ravages their rural Quebec town, a scrappy band of survivors join forces to flee the infected hordes in this quiet thriller."
   },
@@ -12303,7 +12320,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"58 minutes",
-      "netflixid":"80216779",
+      "id":"80216779",
       "date_released":"2019-02-05",
       "description":"Ray Romano cut his stand-up teeth at the Comedy Cellar in New York. Now, in his first comedy special in 23 years, he returns to where it all began."
   },
@@ -12320,7 +12337,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80198794",
+      "id":"80198794",
       "date_released":"2018-02-15",
       "description":"Eleven high school classmates awaken, restrained to a large dining room. While fearing for their lives, they question a motive to this bizarre act."
   },
@@ -12337,7 +12354,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"5.4\/10",
       "runtime":"",
-      "netflixid":"80074503",
+      "id":"80074503",
       "date_released":"2015-12-01",
       "description":"Go inside the world of comedian and actor Rob Schneider in this comedy series that follows the ups and downs of his career and family life."
   },
@@ -12354,7 +12371,7 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"5.0\/10",
       "runtime":"100 minutes",
-      "netflixid":"80064459",
+      "id":"80064459",
       "date_released":"2016-07-15",
       "description":"Long-lost buddy Zack gets suburban dad Kyle on a bus to a Rebirth seminar, sending him down a rabbit hole of psychodrama, seduction and violence."
   },
@@ -12371,7 +12388,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"3.5\/10",
       "runtime":"",
-      "netflixid":"80217957",
+      "id":"80217957",
       "date_released":"2018-03-30",
       "description":"Four tech-savvy teens hone their skills as cyber-superheroes in a series of secret missions to save the world."
   },
@@ -12388,7 +12405,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.4\/10",
       "runtime":"89 minutes",
-      "netflixid":"80177782",
+      "id":"80177782",
       "date_released":"2018-06-29",
       "description":"In a region ravaged by opioid abuse, four young men in a farming-based rehab forge a bond as they try to reinvent their lives after years of addiction."
   },
@@ -12405,7 +12422,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.7\/10",
       "runtime":"61 minutes",
-      "netflixid":"80115673",
+      "id":"80115673",
       "date_released":"2016-12-06",
       "description":"The comic innovator delivers a surreal set blending experimental songs, jokes about grits, guns and drugs, and other improvised comedy adventures."
   },
@@ -12422,7 +12439,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.3\/10",
       "runtime":"48 minutes",
-      "netflixid":"80191049",
+      "id":"80191049",
       "date_released":"2019-04-26",
       "description":"Cloaked in mystery, bluesman Robert Johnson left his mark on American music. Now family, critics and famous fans look for the real man behind the music."
   },
@@ -12439,7 +12456,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.0\/10",
       "runtime":"64 minutes",
-      "netflixid":"80191048",
+      "id":"80191048",
       "date_released":"2019-01-11",
       "description":"The shocking murder of singer Victor Jara in 1973 turned him into a powerful symbol of Chile's struggle. Decades later, a quest for justice unfolds."
   },
@@ -12456,7 +12473,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.0\/10",
       "runtime":"70 minutes",
-      "netflixid":"80191046",
+      "id":"80191046",
       "date_released":"2019-03-22",
       "description":"The killing of three members of the Miami Showband sent shock waves across Ireland in 1975. Now one survivor doggedly pursues the truth."
   },
@@ -12473,7 +12490,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.0\/10",
       "runtime":"74 minutes",
-      "netflixid":"80191045",
+      "id":"80191045",
       "date_released":"2019-02-08",
       "description":"While Sam Cooke rose to stardom as a soul singer, his outspoken views on civil rights drew attention that may have contributed to his death at age 33."
   },
@@ -12490,7 +12507,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.0\/10",
       "runtime":"58 minutes",
-      "netflixid":"80191051",
+      "id":"80191051",
       "date_released":"2018-11-02",
       "description":"This documentary chronicles Johnny Cash's 1970 visit to the White House, where Cash's emerging ideals clashed with Richard Nixon's policies."
   },
@@ -12507,7 +12524,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"6.4\/10",
       "runtime":"58 minutes",
-      "netflixid":"80191044",
+      "id":"80191044",
       "date_released":"2018-12-07",
       "description":"Run-DMC DJ Jam Master Jay made a huge impact in music and his community. But friends and family still seek closure years after his unsolved murder."
   },
@@ -12524,7 +12541,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"6.7\/10",
       "runtime":"57 minutes",
-      "netflixid":"80191047",
+      "id":"80191047",
       "date_released":"2018-10-12",
       "description":"In 1976, reggae icon Bob Marley survived an assassination attempt as rival political groups battled in Jamaica. But who exactly was responsible?"
   },
@@ -12541,7 +12558,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80184068",
+      "id":"80184068",
       "date_released":"2018-03-23",
       "description":"In the wake of a sudden tragedy, a London cellist unearths secrets that link her mother to the disappearance of a young girl in a small Welsh town."
   },
@@ -12558,8 +12575,8 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"7.2\/10",
       "runtime":"27 minutes",
-      "netflixid":"80184055",
-      "date_released":"2017-09-01",
+      "id":"80184055",
+      "date_released":"2019-09-01",
       "description":"A suicidal war veteran finds like-minded souls in a surf therapy program that helps traumatized soldiers heal while riding the waves."
   },
   {
@@ -12575,7 +12592,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80141960",
+      "id":"80141960",
       "date_released":"2018-01-30",
       "description":"A dark web of secrets and lies emerges when a newlywed couple is killed and detectives question their feuding families."
   },
@@ -12592,7 +12609,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.1\/10",
       "runtime":"101 minutes",
-      "netflixid":"81000511",
+      "id":"81000511",
       "date_released":"2019-01-15",
       "description":"Hell-bent on avenging the murder of his family, a former detective infiltrates a remote island that serves as a prison for vicious death row criminals."
   },
@@ -12609,7 +12626,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.3\/10",
       "runtime":"99 minutes",
-      "netflixid":"80192834",
+      "id":"80192834",
       "date_released":"2018-09-13",
       "description":"Through interviews with abortion rights supporters and opponents, this film lifts the lid on a decades-long political campaign to overturn Roe v. Wade."
   },
@@ -12626,7 +12643,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.0\/10",
       "runtime":"92 minutes",
-      "netflixid":"80079427",
+      "id":"80079427",
       "date_released":"2016-01-22",
       "description":"Ricardo O'Farrill brings his sharp, observational humor to the stage with a relentless sarcasm and specific Mexican sensibility. Prepare for mockery."
   },
@@ -12643,7 +12660,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"31 minutes",
-      "netflixid":"80124728",
+      "id":"80124728",
       "date_released":"2016-12-12",
       "description":"The expressive Ricardo O'Farrill uses his astute comedic sensibilities to tease Christmas traditions, and not even Santa Claus escapes unscathed."
   },
@@ -12660,7 +12677,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"58 minutes",
-      "netflixid":"80192062",
+      "id":"80192062",
       "date_released":"2018-01-24",
       "description":"Droll comic Ricardo Quevedo hits Bogot\u00e1 with a set that touches on embarrassing misunderstandings, sex talk, the thrill of being scared and more."
   },
@@ -12677,7 +12694,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"58 minutes",
-      "netflixid":"81026008",
+      "id":"81026008",
       "date_released":"2019-04-03",
       "description":"From how social media can ruin relationships to the perils of buying a gift for a woman, comic Ricardo Quevedo dissects life's trials and tribulations."
   },
@@ -12694,7 +12711,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"3.0\/10",
       "runtime":"",
-      "netflixid":"80020540",
+      "id":"80020540",
       "date_released":"2015-02-20",
       "description":"After turning his veggies into green energy, Richie Rich earns a trillion dollars overnight and a new life filled with nonstop fun and adventure."
   },
@@ -12711,7 +12728,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.1\/10",
       "runtime":"78 minutes",
-      "netflixid":"80189653",
+      "id":"80189653",
       "date_released":"2018-03-13",
       "description":"In his first special in seven years, Ricky Gervais slings his trademark snark at celebrity, mortality and a society that takes everything personally."
   },
@@ -12728,7 +12745,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"3.3\/10",
       "runtime":"",
-      "netflixid":"80196883",
+      "id":"80196883",
       "date_released":"2019-04-19",
       "description":"Her life might be a little mundane, but Kaoru gets to go home to Rilakkuma, her endearingly lazy roommate who happens to be a fuzzy toy bear."
   },
@@ -12745,7 +12762,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"70260350",
+      "id":"70260350",
       "date_released":"2015-11-18",
       "description":"John River is a brilliant detective whose fractured mind traps him between the living and the dead."
   },
@@ -12762,7 +12779,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"7.3\/10",
       "runtime":"117 minutes",
-      "netflixid":"81033516",
+      "id":"81033516",
       "date_released":"2019-03-01",
       "description":"High schooler Haruna befriends loner Yamada, then is drawn into the tangled relationship between him, a model and the girl who loves him unreasonably."
   },
@@ -12779,7 +12796,7 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80147920",
+      "id":"80147920",
       "date_released":"2018-10-25",
       "description":"A boy and his homemade robot enter the toughest competition in the universe while attempting to free their oppressed home from an evil empire."
   },
@@ -12796,8 +12813,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.8\/10",
       "runtime":"66 minutes",
-      "netflixid":"80191665",
-      "date_released":"2017-10-03",
+      "id":"80191665",
+      "date_released":"2019-10-03",
       "description":"Raunchy country comic and musician Rodney Carrington jokes and sings about life in his 40s, poking fun at sex, relationships and gaining weight."
   },
   {
@@ -12813,8 +12830,8 @@ module.exports = [
       "category":"Dramas",
       "imdb":"6.0\/10",
       "runtime":"52 minutes",
-      "netflixid":"80128715",
-      "date_released":"2017-04-28",
+      "id":"80128715",
+      "date_released":"2019-04-28",
       "description":"Roger Guenveur Smith gives voice to the man at the center of the brutal police beating that helped fuel the 1992 LA riots. Spike Lee directs."
   },
   {
@@ -12830,7 +12847,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"8.1\/10",
       "runtime":"134 minutes",
-      "netflixid":"80240715",
+      "id":"80240715",
       "date_released":"2018-12-14",
       "description":"Oscar winner Alfonso Cuar\u00f3n delivers a vivid, emotional portrait of a domestic worker's journey set against domestic and political turmoil in 1970s Mexico."
   },
@@ -12847,7 +12864,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80096545",
+      "id":"80096545",
       "date_released":"2016-11-11",
       "description":"This stylish mix of documentary and lavish historical epic chronicles the turbulent, violent reigns of Commodus and Julius Caesar."
   },
@@ -12864,7 +12881,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  Romantic TV Shows",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"81045349",
+      "id":"81045349",
       "date_released":"2019-02-02",
       "description":"A gifted writer who's the youngest editor-in-chief ever at his publishing company gets enmeshed in the life of a former copywriter desperate for a job."
   },
@@ -12881,7 +12898,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"63 minutes",
-      "netflixid":"80244900",
+      "id":"80244900",
       "date_released":"2018-10-16",
       "description":"Ron \u201cTater Salad\u201d White dishes out his signature brand of cynicism, riffing on sex, celebrity and the sinister habits of wild geese."
   },
@@ -12898,8 +12915,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.7\/10",
       "runtime":"66 minutes",
-      "netflixid":"80185223",
-      "date_released":"2017-06-20",
+      "id":"80185223",
+      "date_released":"2019-06-20",
       "description":"Comedian Rory Scovel storms the stage in Atlanta, where he shares unfocused thoughts about things that mystify him, relationships and the \"Thong Song.\""
   },
   {
@@ -12915,7 +12932,7 @@ module.exports = [
       "category":"Docuseries\n                  Science & Nature TV",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80146284",
+      "id":"80146284",
       "date_released":"2018-01-05",
       "description":"This docuseries travels deep into the heart of the food supply chain to reveal unsavory truths and expose hidden forces that shape what we eat."
   },
@@ -12932,7 +12949,7 @@ module.exports = [
       "category":"Dramas",
       "imdb":"6.3\/10",
       "runtime":"100 minutes",
-      "netflixid":"80171733",
+      "id":"80171733",
       "date_released":"2018-03-23",
       "description":"She grew up in a tough New York neighborhood in the '80s and made history with \"Roxanne's Revenge.\" The story of teen battle rap champ Roxanne Shant\u00e9."
   },
@@ -12949,7 +12966,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"63 minutes",
-      "netflixid":"80187306",
+      "id":"80187306",
       "date_released":"2018-12-04",
       "description":"Russell Brand gets loquacious in London as he ruminates on the state of the world and marvels over how his life changed the moment he became a father."
   },
@@ -12966,8 +12983,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"69 minutes",
-      "netflixid":"80189806",
-      "date_released":"2017-12-19",
+      "id":"80189806",
+      "date_released":"2019-12-19",
       "description":"Self-deprecating comic Russell Howard plows ahead through politics, porn, social media and his own shortcomings. Yet he somehow keeps it positive."
   },
   {
@@ -12983,7 +13000,7 @@ module.exports = [
       "category":"Docuseries\n                  Stand-Up Comedy & Talk Shows",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"70293417",
+      "id":"70293417",
       "date_released":"2013-10-14",
       "description":"A four-part docu-series that's an exclusive, backstage pass to global comedy superstar Russell Peters' record-breaking \"Notorious\" world tour."
   },
@@ -13000,7 +13017,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"73 minutes",
-      "netflixid":"80115464",
+      "id":"80115464",
       "date_released":"2016-10-07",
       "description":"The comic comes home to Toronto to sound off on cultural quirks, kids' furniture and bathroom visits, reveling in all things ridiculously human."
   },
@@ -13017,7 +13034,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.4\/10",
       "runtime":"71 minutes",
-      "netflixid":"70280748",
+      "id":"70280748",
       "date_released":"2013-10-14",
       "description":"Global comedy star Russell Peters leaves no ethnic or cultural stereotype unsatirized in this outrageous standup appearance in Sydney, Australia."
   },
@@ -13034,7 +13051,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80211627",
+      "id":"80211627",
       "date_released":"2019-02-01",
       "description":"Nadia keeps dying and reliving her 36th birthday party. She's trapped in a surreal time loop -- and staring down the barrel of her own mortality."
   },
@@ -13051,8 +13068,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"56 minutes",
-      "netflixid":"80184834",
-      "date_released":"2017-08-29",
+      "id":"80184834",
+      "date_released":"2019-08-29",
       "description":"Small-town import Ryan Hamilton charms New York with folksy comic observations on big-city life, hot-air ballooning and going to Disney World alone."
   },
   {
@@ -13068,7 +13085,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"4.5\/10",
       "runtime":"113 minutes",
-      "netflixid":"81021831",
+      "id":"81021831",
       "date_released":"2018-11-20",
       "description":"A toy manufacturer and his wife are terrorized by a demon after their orphaned niece tries to call her late mother's spirit. Third in the \"Doll\" films."
   },
@@ -13085,7 +13102,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80115328",
+      "id":"80115328",
       "date_released":"2018-07-06",
       "description":"A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
   },
@@ -13102,7 +13119,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80201500",
+      "id":"80201500",
       "date_released":"2019-01-31",
       "description":"After his teenage daughter goes missing, a widowed surgeon in an affluent neighborhood begins unearthing dark secrets about the people closest to him."
   },
@@ -13119,8 +13136,8 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"5.6\/10",
       "runtime":"85 minutes",
-      "netflixid":"80161029",
-      "date_released":"2017-05-12",
+      "id":"80161029",
+      "date_released":"2019-05-12",
       "description":"When his new love is captured by an evil snake charmer, a young cobra and his scorpion best friend set out across the desert on a wild rescue mission."
   },
   {
@@ -13136,7 +13153,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80198288",
+      "id":"80198288",
       "date_released":"2018-10-11",
       "description":"Chef and food writer Samin Nosrat travels the world to explore four basic keys to wonderful cooking, serving up feasts and helpful tips along the way."
   },
@@ -13153,7 +13170,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"65 minutes",
-      "netflixid":"80124890",
+      "id":"80124890",
       "date_released":"2016-10-07",
       "description":"Comedian Salvador Martinha talks technology, trends, relationships and more in a stand-up special that doesn't take itself too seriously."
   },
@@ -13170,7 +13187,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"4.7\/10",
       "runtime":"",
-      "netflixid":"80173174",
+      "id":"80173174",
       "date_released":"2018-07-06",
       "description":"A child star in the '80s, Samantha clings to the fringes of celebrity with hilarious harebrained schemes to launch herself back into the spotlight."
   },
@@ -13187,8 +13204,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80132738",
-      "date_released":"2017-03-17",
+      "id":"80132738",
+      "date_released":"2019-03-17",
       "description":"Recent retiree Takeshi rediscovers his passion for food and life by getting in touch with his inner warrior and eating what he truly desires."
   },
   {
@@ -13204,8 +13221,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  Independent Movies",
       "imdb":"6.4\/10",
       "runtime":"113 minutes",
-      "netflixid":"80118916",
-      "date_released":"2017-04-21",
+      "id":"80118916",
+      "date_released":"2019-04-21",
       "description":"After the invasion of Iraq in 2003, a reluctant soldier's platoon is dispatched on a dangerous mission to repair a hostile village's water system."
   },
   {
@@ -13221,7 +13238,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"5.9\/10",
       "runtime":"88 minutes",
-      "netflixid":"80098810",
+      "id":"80098810",
       "date_released":"2016-12-15",
       "description":"When a Bedouin patriarch takes a second bride, his first wife chafes against her changing status while his daughter chases her own dreams of autonomy."
   },
@@ -13238,8 +13255,8 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.2\/10",
       "runtime":"131 minutes",
-      "netflixid":"80126569",
-      "date_released":"2017-04-14",
+      "id":"80126569",
+      "date_released":"2019-04-14",
       "description":"When a hapless but dedicated talent manager signs his first client who actually has talent, his career finally starts to take off."
   },
   {
@@ -13255,8 +13272,8 @@ module.exports = [
       "category":"TV Comedies\n                  TV Horror\n                  TV Thrillers",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80095815",
-      "date_released":"2017-02-03",
+      "id":"80095815",
+      "date_released":"2019-02-03",
       "description":"They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way."
   },
   {
@@ -13272,7 +13289,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.1\/10",
       "runtime":"116 minutes",
-      "netflixid":"80202903",
+      "id":"80202903",
       "date_released":"2018-05-26",
       "description":"A naive Madrid lawyer travels to Africa to search for her younger sister, who has gone missing in a part of Congo plagued by violence and strife."
   },
@@ -13289,8 +13306,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.1\/10",
       "runtime":"71 minutes",
-      "netflixid":"80133554",
-      "date_released":"2017-05-30",
+      "id":"80133554",
+      "date_released":"2019-05-30",
       "description":"In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments."
   },
   {
@@ -13306,8 +13323,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.1\/10",
       "runtime":"73 minutes",
-      "netflixid":"80127558",
-      "date_released":"2017-11-21",
+      "id":"80127558",
+      "date_released":"2019-11-21",
       "description":"Former Secretary of Labor Robert Reich meets with Americans from all walks of life as he chronicles a seismic shift in the nation's economy."
   },
   {
@@ -13323,7 +13340,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"65 minutes",
-      "netflixid":"80218104",
+      "id":"80218104",
       "date_released":"2019-01-15",
       "description":"Sebastian Maniscalco brings an acerbically unique approach to peacocks on planes, life hacks, rich in-laws and life's annoyances in this comedy special."
   },
@@ -13340,7 +13357,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"49 minutes",
-      "netflixid":"80192138",
+      "id":"80192138",
       "date_released":"2018-01-26",
       "description":"Argentine comedian Sebasti\u00e1n Wainraich highlights the comedy in everyday life, from minibars to reasons why funerals are better than weddings."
   },
@@ -13357,7 +13374,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80211136",
+      "id":"80211136",
       "date_released":"2018-06-26",
       "description":"A relentless muckraker pushes for truth and transparency in Australia\u2019s corridors of political power, despite threats to her life and career."
   },
@@ -13374,7 +13391,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.2\/10",
       "runtime":"95 minutes",
-      "netflixid":"80174367",
+      "id":"80174367",
       "date_released":"2018-02-09",
       "description":"Explore the public and private sides of feminist firebrand attorney Gloria Allred, who's battled some of the biggest names in politics and business."
   },
@@ -13391,7 +13408,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  Teen TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80194558",
+      "id":"80194558",
       "date_released":"2018-12-28",
       "description":"Two teen cricket prodigies struggle against their overbearing father and a system stacked against them to realize their own ambitions and identities."
   },
@@ -13408,7 +13425,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80223108",
+      "id":"80223108",
       "date_released":"2019-03-22",
       "description":"The elite real estate brokers at The Oppenheim Group sell the luxe life to affluent buyers in LA. The drama ramps up when a new agent joins the team."
   },
@@ -13425,7 +13442,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80025744",
+      "id":"80025744",
       "date_released":"2015-06-05",
       "description":"From the creators of \"The Matrix\" and \"Babylon 5\" comes this tense series in which eight people can telepathically experience each other's lives."
   },
@@ -13442,7 +13459,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"7.0\/10",
       "runtime":"105 minutes",
-      "netflixid":"80184100",
+      "id":"80184100",
       "date_released":"2018-06-15",
       "description":"In desperate need of a break from the office, two beleaguered assistants team up to trick their workaholic bosses into falling in love."
   },
@@ -13459,7 +13476,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.9\/10",
       "runtime":"70 minutes",
-      "netflixid":"80189646",
+      "id":"80189646",
       "date_released":"2018-04-06",
       "description":"Seth Rogen and friends combine stand-up, sketches and music for an outrageous comedy special that could only come from the mind of Seth."
   },
@@ -13476,7 +13493,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80117555",
+      "id":"80117555",
       "date_released":"2018-02-23",
       "description":"The death of a 15-year-old African American boy in Jersey City sets off a police cover-up and a search for the truth."
   },
@@ -13493,7 +13510,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80197526",
+      "id":"80197526",
       "date_released":"2019-01-11",
       "description":"Insecure Otis has all the answers when it comes to sex advice, thanks to his therapist mom. So rebel Maeve proposes a school sex-therapy clinic."
   },
@@ -13510,7 +13527,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Action & Adventure",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"81033727",
+      "id":"81033727",
       "date_released":"2019-03-08",
       "description":"Haunted by a tragic loss, an ex-cop with a rare inability to feel pain strikes out on his own to catch offenders who've eluded Johannesburg police."
   },
@@ -13527,8 +13544,8 @@ module.exports = [
       "category":"Romantic TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80117554",
-      "date_released":"2017-11-23",
+      "id":"80117554",
+      "date_released":"2019-11-23",
       "description":"Nola Darling struggles to stay true to herself and her dreams while juggling three lovers in this Spike Lee series based on his breakout film."
   },
   {
@@ -13544,7 +13561,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80179762",
+      "id":"80179762",
       "date_released":"2018-11-13",
       "description":"Soldier Adora finds a magic sword -- and her identity as legendary hero She-Ra. She joins the Rebellion, but her best friend stays with the evil Horde."
   },
@@ -13561,8 +13578,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Thrillers",
       "imdb":"6.0\/10",
       "runtime":"86 minutes",
-      "netflixid":"80103734",
-      "date_released":"2017-06-09",
+      "id":"80103734",
+      "date_released":"2019-06-09",
       "description":"Unfolding in reverse time, this darkly comic crime thriller follows a local sheriff hunting three bank robbery suspects, one of whom is his brother."
   },
   {
@@ -13578,7 +13595,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.0\/10",
       "runtime":"97 minutes",
-      "netflixid":"80241061",
+      "id":"80241061",
       "date_released":"2018-10-26",
       "description":"In 1992, Sandi Tan and her friends shot a quirky film on the streets of Singapore. Then the footage disappeared, sending her on a hunt for answers."
   },
@@ -13595,8 +13612,8 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80171561",
-      "date_released":"2017-11-17",
+      "id":"80171561",
+      "date_released":"2019-11-17",
       "description":"Three rival freelance stringers scour the streets at night to film crime scenes, fires, accidents -- and anything else they can sell to news outlets."
   },
   {
@@ -13612,7 +13629,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80998905",
+      "id":"80998905",
       "date_released":"2018-11-23",
       "description":"After slacker Daniel Glass is misdiagnosed with cancer, his lies lead him into an absurd web of fraud, blackmail, suspicion and misadventure."
   },
@@ -13629,7 +13646,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"6.7\/10",
       "runtime":"105 minutes",
-      "netflixid":"80239639",
+      "id":"80239639",
       "date_released":"2018-09-07",
       "description":"A wrong-number text sparks a virtual romance between a smart but unpopular teen and a sweet jock who thinks he's talking to a gorgeous cheerleader."
   },
@@ -13646,8 +13663,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.7\/10",
       "runtime":"71 minutes",
-      "netflixid":"80124727",
-      "date_released":"2017-05-05",
+      "id":"80124727",
+      "date_released":"2019-05-05",
       "description":"Eclectic stand-up comic Manu NNa relays everyday tales about the struggles of being gay in Mexico and shares his love of telenovelas and mezcal."
   },
   {
@@ -13663,7 +13680,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows\n                  TV Thrillers",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80997339",
+      "id":"80997339",
       "date_released":"2018-12-21",
       "description":"In imperial Tokyo, a group calling themselves \"Jaegers\" secretly hunt the vampires seeking the Ark of Sirius. Among them is young werewolf, Yuliy."
   },
@@ -13680,7 +13697,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80994108",
+      "id":"80994108",
       "date_released":"2018-09-01",
       "description":"Her dad's deathbed confession leads Julia to discover she has more than 100 brothers and two sisters: troubled TV star Roxy and uptight lawyer Edie."
   },
@@ -13697,7 +13714,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.0\/10",
       "runtime":"79 minutes",
-      "netflixid":"80097472",
+      "id":"80097472",
       "date_released":"2016-10-14",
       "description":"Known for his spectacular pyrotechnic displays, Chinese artist Cai Guo-Qiang creates his most ambitious project yet in this breathtaking documentary."
   },
@@ -13714,7 +13731,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80113201",
+      "id":"80113201",
       "date_released":"2016-10-28",
       "description":"Travel the vast Skylander universe in this animated series as a ragtag group of academy graduates build trust and heart in their fight against evil."
   },
@@ -13731,8 +13748,8 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.0\/10",
       "runtime":"98 minutes",
-      "netflixid":"80160081",
-      "date_released":"2017-04-15",
+      "id":"80160081",
+      "date_released":"2019-04-15",
       "description":"Teen father-to-be Sam imagines his future as a young parent and finds a surprising mentor while reading about his idol, pro skateboarder Tony Hawk."
   },
   {
@@ -13748,7 +13765,7 @@ module.exports = [
       "category":"TV Horror\n                  TV Mysteries\n                  TV Thrillers",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80105452",
+      "id":"80105452",
       "date_released":"2016-05-17",
       "description":"Rampaging serial killers leave carnage in their wake as their next victims fight to stay alive in this horror anthology series."
   },
@@ -13765,8 +13782,8 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"5.5\/10",
       "runtime":"95 minutes",
-      "netflixid":"80164212",
-      "date_released":"2017-04-28",
+      "id":"80164212",
+      "date_released":"2019-04-28",
       "description":"After serving a six-year prison sentence, an ex-cop tries to rebuild his life in his hometown, but gets caught up in the fallout from his past."
   },
   {
@@ -13782,7 +13799,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.5\/10",
       "runtime":"80 minutes",
-      "netflixid":"80097641",
+      "id":"80097641",
       "date_released":"2016-06-24",
       "description":"Self-deprecating comic Sof\u00eda Ni\u00f1o de Rivera puts her sarcasm on full display in this stand-up special filmed live at Guadalajara's Degollado Theater."
   },
@@ -13799,7 +13816,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.0\/10",
       "runtime":"61 minutes",
-      "netflixid":"80183197",
+      "id":"80183197",
       "date_released":"2018-03-30",
       "description":"Mexico's Sof\u00eda Ni\u00f1o de Rivera brings her dark humor to the stage with jokes about marriage traps, sexually attractive leopards and funny funerals."
   },
@@ -13816,7 +13833,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"4.8\/10",
       "runtime":"90 minutes",
-      "netflixid":"80245041",
+      "id":"80245041",
       "date_released":"2019-01-11",
       "description":"In a remote area of the Canary Islands, a surfer falls off a cliff. Fighting to survive, he reflects on his life and past romance. Based on true events."
   },
@@ -13833,7 +13850,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80042307",
+      "id":"80042307",
       "date_released":"2015-06-19",
       "description":"A 14-year-old takes ownership of a toy company and hires a group of his friends to help him create amazing new toys."
   },
@@ -13850,7 +13867,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80146601",
+      "id":"80146601",
       "date_released":"2018-01-12",
       "description":"\"Everybody Loves Raymond\" creator Phil Rosenthal travels the globe to take in the local cuisine and culture of Bangkok, Lisbon, Mexico City and more."
   },
@@ -13867,7 +13884,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"7.8\/10",
       "runtime":"92 minutes",
-      "netflixid":"80202920",
+      "id":"80202920",
       "date_released":"2019-04-19",
       "description":"On the heels of a blindsiding breakup, music journalist Jenny braces for a new beginning -- and one last adventure with her closest friends."
   },
@@ -13884,7 +13901,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"8.4\/10",
       "runtime":"101 minutes",
-      "netflixid":"80228322",
+      "id":"80228322",
       "date_released":"2018-05-01",
       "description":"Seven strangers anxiously waiting for their HIV test results decide to bribe the clinic receptionist to get them early, learning one is positive."
   },
@@ -13901,7 +13918,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"5.0\/10",
       "runtime":"97 minutes",
-      "netflixid":"81023713",
+      "id":"81023713",
       "date_released":"2019-01-18",
       "description":"While fighting crimes against women in Delhi, a short-fused policewoman and her level-headed female boss grapple with gender issues in their own lives."
   },
@@ -13918,7 +13935,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80987458",
+      "id":"80987458",
       "date_released":"2019-04-12",
       "description":"A young gay man with cerebral palsy branches out from his insular existence in hopes of finally going after the life he wants."
   },
@@ -13935,7 +13952,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.6\/10",
       "runtime":"101 minutes",
-      "netflixid":"80048940",
+      "id":"80048940",
       "date_released":"2016-04-29",
       "description":"When they lose their passports, a bickering radio team invents phony reports from a combat zone in a ruse that becomes increasingly complicated."
   },
@@ -13952,7 +13969,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Sci-Fi & Fantasy",
       "imdb":"6.3\/10",
       "runtime":"108 minutes",
-      "netflixid":"80098200",
+      "id":"80098200",
       "date_released":"2016-12-09",
       "description":"When an otherworldly force wreaks havoc on a war-torn European city, an engineer teams up with an elite Special Ops unit to stop it."
   },
@@ -13969,8 +13986,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"5.3\/10",
       "runtime":"",
-      "netflixid":"80115432",
-      "date_released":"2017-05-05",
+      "id":"80115432",
+      "date_released":"2019-05-05",
       "description":"In a small Western town, spunky ex-city girl Lucky forms a tight bond with wild horse Spirit while having adventures with best pals Pru and Abigail."
   },
   {
@@ -13986,7 +14003,7 @@ module.exports = [
       "category":"Music & Musicals",
       "imdb":"8.7\/10",
       "runtime":"153 minutes",
-      "netflixid":"80232329",
+      "id":"80232329",
       "date_released":"2018-12-16",
       "description":"Bruce Springsteen shares personal stories from his life and acoustic versions of some of his best-known songs in an intimate one-man show."
   },
@@ -14003,7 +14020,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80115341",
+      "id":"80115341",
       "date_released":"2018-04-20",
       "description":"In this animated spinoff series, Juni and Carmen Cortez must battle the evil organization S.W.A.M.P. -- without the help of their super-spy parents."
   },
@@ -14020,7 +14037,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80210736",
+      "id":"80210736",
       "date_released":"2018-12-24",
       "description":"Brian Regan blends his trademark observational stand-up with short sketches and a bit of audience interaction in this hybrid comedy series."
   },
@@ -14037,7 +14054,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80201870",
+      "id":"80201870",
       "date_released":"2018-08-17",
       "description":"Designer Genevieve Gorder and real estate expert Peter Lorimer show property owners how to turn their short-term rentals into moneymaking showstoppers."
   },
@@ -14054,7 +14071,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"7.1\/10",
       "runtime":"139 minutes",
-      "netflixid":"80226234",
+      "id":"80226234",
       "date_released":"2018-03-14",
       "description":"Amid a coup, a North Korean agent escapes south with the country's injured leader in an attempt to keep him alive and prevent a Korean war."
   },
@@ -14071,7 +14088,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"6.4\/10",
       "runtime":"108 minutes",
-      "netflixid":"80158485",
+      "id":"80158485",
       "date_released":"2018-01-19",
       "description":"With her Harvard Law dreams on the line, a black sorority leader agrees to help a rhythmically challenged sisterhood win a step dance championship."
   },
@@ -14088,7 +14105,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.8\/10",
       "runtime":"73 minutes",
-      "netflixid":"80186850",
+      "id":"80186850",
       "date_released":"2018-05-25",
       "description":"Longtime pals and showbiz icons Steve Martin and Martin Short share countless quips, catchy tunes and hilarious stories about their lives in comedy."
   },
@@ -14105,7 +14122,7 @@ module.exports = [
       "category":"TV Horror\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80057281",
+      "id":"80057281",
       "date_released":"2016-07-15",
       "description":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
   },
@@ -14122,7 +14139,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80244996",
+      "id":"80244996",
       "date_released":"2019-04-26",
       "description":"Embark on a global cultural journey into street food and discover the stories of the people who create the flavorful dishes."
   },
@@ -14139,8 +14156,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80095988",
-      "date_released":"2017-11-17",
+      "id":"80095988",
+      "date_released":"2019-11-17",
       "description":"Jake Armstrong and his best friends are unexpectedly transformed into superheroes who learn to reach far beyond the limits of any ordinary teenager."
   },
   {
@@ -14156,7 +14173,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"6.0\/10",
       "runtime":"45 minutes",
-      "netflixid":"80135585",
+      "id":"80135585",
       "date_released":"2018-03-13",
       "description":"Villains are rampaging through Charter City and the Flex Fighters -- Jake, Ricardo and Nathan -- need your help to halt the chaos."
   },
@@ -14173,8 +14190,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.6\/10",
       "runtime":"107 minutes",
-      "netflixid":"80168230",
-      "date_released":"2017-09-15",
+      "id":"80168230",
+      "date_released":"2019-09-15",
       "description":"The forces of family, grief and racial injustice converge in this Oscar-nominated documentary exploring the murder of filmmaker Yance Ford's brother."
   },
   {
@@ -14190,7 +14207,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"8.4\/10",
       "runtime":"105 minutes",
-      "netflixid":"80109551",
+      "id":"80109551",
       "date_released":"2018-12-21",
       "description":"Artists in LA discover the work of forgotten Polish sculptor Stanislav Szukalski, a mad genius whose true story unfolds chapter by astounding chapter."
   },
@@ -14207,8 +14224,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80081537",
-      "date_released":"2017-10-06",
+      "id":"80081537",
+      "date_released":"2019-10-06",
       "description":"In 2008, a fight over land in a seaside town near Rome spirals into a deadly battle between organized crime, corrupt politicians and the Vatican."
   },
   {
@@ -14224,7 +14241,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80201328",
+      "id":"80201328",
       "date_released":"2018-07-13",
       "description":"Time's the most important ingredient as teams race against the clock -- and each other -- to bake up the best-tasting sweets."
   },
@@ -14241,7 +14258,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"6.9\/10",
       "runtime":"113 minutes",
-      "netflixid":"80131280",
+      "id":"80131280",
       "date_released":"2018-06-15",
       "description":"Decades after being abandoned as a young child, Chiara finds her mother and asks her to spend 10 days together in a remote location."
   },
@@ -14258,9 +14275,9 @@ module.exports = [
       "category":"British TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80207046",
+      "id":"80207046",
       "date_released":"2018-12-14",
-      "description":"This docuseries follows English soccer club Sunderland through the 2017-18 season as they try to bounce back after relegation from the Premier League."
+      "description":"This docuseries follows English soccer club Sunderland through the 2019-18 season as they try to bounce back after relegation from the Premier League."
   },
   {
       "title":"Super Drags",
@@ -14275,7 +14292,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80218634",
+      "id":"80218634",
       "date_released":"2018-11-09",
       "description":"In this adult animated series, three gay co-workers lead double lives as drag queen superheroes, saving the LGBTQ community from evil nemeses."
   },
@@ -14292,8 +14309,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80124711",
-      "date_released":"2017-10-13",
+      "id":"80124711",
+      "date_released":"2019-10-13",
       "description":"Preschool kids whose parents are the world's most famous monsters try to master their special powers while preparing for kindergarten."
   },
   {
@@ -14309,7 +14326,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"8.0\/10",
       "runtime":"27 minutes",
-      "netflixid":"80999067",
+      "id":"80999067",
       "date_released":"2018-12-07",
       "description":"Christmas wishes come true for Lobo, whose favorite cousin arrives for a surprise visit, and for Glorb, who wishes he could be everywhere at once!"
   },
@@ -14326,7 +14343,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"",
       "runtime":"58 minutes",
-      "netflixid":"80999069",
+      "id":"80999069",
       "date_released":"2019-04-16",
       "description":"On the first night of spring, the Super Monsters gather for food, fun and games in the park -- and get to meet their adorable new pets!"
   },
@@ -14343,7 +14360,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81002336",
+      "id":"81002336",
       "date_released":"2018-09-14",
       "description":"Sing along and move to this groovy collection of music videos featuring monster friends Katya, Lobo, Zoe, Drac, Cleo and Frankie!"
   },
@@ -14360,7 +14377,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"6.0\/10",
       "runtime":"24 minutes",
-      "netflixid":"80999063",
+      "id":"80999063",
       "date_released":"2018-10-05",
       "description":"The Super Monsters use their powers to get their neighbors in the Halloween spirit, then help a nervous friend see there's nothing to be afraid of."
   },
@@ -14377,8 +14394,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80141259",
-      "date_released":"2017-08-01",
+      "id":"80141259",
+      "date_released":"2019-08-01",
       "description":"As the Medell\u00edn Cartel crumbles, Pablo Escobar's No. 1 hit man struggles to stay alive and gain respect in the prison hierarchy."
   },
   {
@@ -14394,7 +14411,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"7.0\/10",
       "runtime":"125 minutes",
-      "netflixid":"81062674",
+      "id":"81062674",
       "date_released":"2019-04-03",
       "description":"After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good."
   },
@@ -14411,8 +14428,8 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"5.4\/10",
       "runtime":"75 minutes",
-      "netflixid":"70304187",
-      "date_released":"2014-10-01",
+      "id":"70304187",
+      "date_released":"2020-10-01",
       "description":"\"Trailer Park Boys\" John Paul Tremblay, Robb Wells and Mike Smith host this foulmouthed live kickoff of their web-based Swearnet network."
   },
   {
@@ -14428,7 +14445,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80230018",
+      "id":"80230018",
       "date_released":"2018-08-01",
       "description":"High schooler Ayumi's perfect world evaporates when her envious classmate Zenko somehow steals her body, her boyfriend and her life."
   },
@@ -14445,7 +14462,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80175350",
+      "id":"80175350",
       "date_released":"2018-03-23",
       "description":"A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies."
   },
@@ -14462,7 +14479,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80206360",
+      "id":"80206360",
       "date_released":"2018-03-15",
       "description":"When a young woman with amnesia becomes a key figure in a missing persons case, she must reconstruct her memories to clear her name."
   },
@@ -14479,7 +14496,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"8.5\/10",
       "runtime":"",
-      "netflixid":"81012978",
+      "id":"81012978",
       "date_released":"2018-08-24",
       "description":"Bickering siblings Shi Miao and Shi Fen tackle friendship matters, school drama and the pitfalls of growing up with little parental supervision."
   },
@@ -14496,8 +14513,8 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.2\/10",
       "runtime":"80 minutes",
-      "netflixid":"80100936",
-      "date_released":"2017-01-20",
+      "id":"80100936",
+      "date_released":"2019-01-20",
       "description":"Two buddies working dead-end cashier jobs endure a mind-blowing series of events on their quest to get to the hip-hop show of their lives."
   },
   {
@@ -14513,7 +14530,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.9\/10",
       "runtime":"87 minutes",
-      "netflixid":"80117831",
+      "id":"80117831",
       "date_released":"2018-03-16",
       "description":"In a hypercompetitive world, drugs like Adderall offer students, athletes, coders and others a way to do more -- faster and better. But at what cost?"
   },
@@ -14530,7 +14547,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Science & Nature TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80133187",
+      "id":"80133187",
       "date_released":"2016-11-11",
       "description":"Photographers and filmmakers travel the world capturing indelible images of people, places, creatures and cultures from new, previously unseen angles."
   },
@@ -14547,7 +14564,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"6.9\/10",
       "runtime":"111 minutes",
-      "netflixid":"80093198",
+      "id":"80093198",
       "date_released":"2016-07-29",
       "description":"While searching for her ex-boyfriend, a young drifter impulsively kidnaps a baby from a neglectful mother and pretends the child is her own."
   },
@@ -14564,7 +14581,7 @@ module.exports = [
       "category":"Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"6.3\/10",
       "runtime":"97 minutes",
-      "netflixid":"80217569",
+      "id":"80217569",
       "date_released":"2018-06-29",
       "description":"Kidnapped by an inventor who uses her as a test subject to perfect his robotic AI, a street-smart young woman tries to escape her high-tech prison."
   },
@@ -14581,7 +14598,7 @@ module.exports = [
       "category":"Music & Musicals",
       "imdb":"8.8\/10",
       "runtime":"125 minutes",
-      "netflixid":"81026251",
+      "id":"81026251",
       "date_released":"2018-12-31",
       "description":"Taylor Swift takes the stage in Dallas for the reputation Stadium Tour and celebrates a monumental night of music, memories and visual magic."
   },
@@ -14598,7 +14615,7 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"7.3\/10",
       "runtime":"91 minutes",
-      "netflixid":"80044093",
+      "id":"80044093",
       "date_released":"2016-04-29",
       "description":"With never-before seen home video, this film recounts the paranoid downward spiral of John E. du Pont and the murder of Olympic wrestler Dave Schultz."
   },
@@ -14615,8 +14632,8 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"8.7\/10",
       "runtime":"",
-      "netflixid":"80131479",
-      "date_released":"2017-01-24",
+      "id":"80131479",
+      "date_released":"2019-01-24",
       "description":"The beautiful island of Oahu is host to a new batch of six strangers who share a single roof, multiple conflicts and no script in this reality series."
   },
   {
@@ -14632,7 +14649,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"8.3\/10",
       "runtime":"",
-      "netflixid":"80067942",
+      "id":"80067942",
       "date_released":"2016-04-01",
       "description":"A new set of six men and women start their lives together under one roof. All they get is a fabulous home and a car. As always, there is no script."
   },
@@ -14649,7 +14666,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80212301",
+      "id":"80212301",
       "date_released":"2018-03-13",
       "description":"A group of young people -- including a chef, a snowboarder and an ice hockey player -- gather in the Karuizawa woods while pursuing their dreams."
   },
@@ -14666,7 +14683,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80185048",
+      "id":"80185048",
       "date_released":"2018-10-26",
       "description":"Law enforcement officials look back on attempted terrorist attacks that were thwarted in the nick of time."
   },
@@ -14683,8 +14700,8 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"108 minutes",
-      "netflixid":"80106337",
-      "date_released":"2017-04-25",
+      "id":"80106337",
+      "date_released":"2019-04-25",
       "description":"In need of money, an eccentric ex-spy and his younger octogenarian partner embark on an international quest for a valuable Soviet soda formula."
   },
   {
@@ -14700,7 +14717,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies",
       "imdb":"6.6\/10",
       "runtime":"107 minutes",
-      "netflixid":"81016750",
+      "id":"81016750",
       "date_released":"2018-09-28",
       "description":"When her little sister claims she sees the dead, Alia consults a psychic, who opens her own eyes to the vengeful ghosts haunting their childhood home."
   },
@@ -14717,7 +14734,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"7.0\/10",
       "runtime":"116 minutes",
-      "netflixid":"80161104",
+      "id":"80161104",
       "date_released":"2018-04-06",
       "description":"In a violent prison in 1970s Mexico, a young inmate lands a spot on a football team that doubles as an enforcer squad for a corrupt administration."
   },
@@ -14734,7 +14751,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80018988",
+      "id":"80018988",
       "date_released":"2015-01-16",
       "description":"The world's greatest feline fighter, lover and milk connoisseur takes on daring adventures in exotic locations in this family-friendly comedy series."
   },
@@ -14751,7 +14768,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"6.3\/10",
       "runtime":"89 minutes",
-      "netflixid":"80144145",
+      "id":"80144145",
       "date_released":"2018-08-24",
       "description":"An aspiring rapper and his best friend\/manager have one night to bounce back from embarrassment and make their dreams of hip-hop stardom come true."
   },
@@ -14768,7 +14785,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.9\/10",
       "runtime":"98 minutes",
-      "netflixid":"81003741",
+      "id":"81003741",
       "date_released":"2018-12-07",
       "description":"Social media stars Paris Hilton, Josh Ostrovsky, Brittany Furlan and Kirill Bichutsky hustle to build online empires -- and face the pitfalls of fame."
   },
@@ -14785,7 +14802,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"7.3\/10",
       "runtime":"114 minutes",
-      "netflixid":"80188120",
+      "id":"80188120",
       "date_released":"2018-09-14",
       "description":"As his country prepares for war, top Egyptian official Ashraf Marwan makes contact with Israel and wades into a shadowy game of high-stakes espionage."
   },
@@ -14802,8 +14819,8 @@ module.exports = [
       "category":"Comedies\n                  Horror Movies",
       "imdb":"6.0\/10",
       "runtime":"85 minutes",
-      "netflixid":"80164456",
-      "date_released":"2017-10-13",
+      "id":"80164456",
+      "date_released":"2019-10-13",
       "description":"When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a satanic cult that will stop at nothing to keep him quiet."
   },
   {
@@ -14819,7 +14836,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"7.3\/10",
       "runtime":"133 minutes",
-      "netflixid":"80200267",
+      "id":"80200267",
       "date_released":"2018-11-16",
       "description":"Ranging from absurd to profound, these Western vignettes from the Coen brothers follow the adventures of outlaws and settlers on the American frontier."
   },
@@ -14836,8 +14853,8 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"7.7\/10",
       "runtime":"80 minutes",
-      "netflixid":"70299904",
-      "date_released":"2014-07-11",
+      "id":"70299904",
+      "date_released":"2020-07-11",
       "description":"The colorful true story of the Portland Mavericks, a scrappy, independent baseball team of underdogs started by actor Bing Russell in the 1970s."
   },
   {
@@ -14853,8 +14870,8 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Reality TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80186090",
-      "date_released":"2017-11-03",
+      "id":"80186090",
+      "date_released":"2019-11-03",
       "description":"In this unscripted series, families passionate about food serve up their most delicious dishes for the chance to be crowned Britain's best home cooks."
   },
   {
@@ -14870,7 +14887,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.8\/10",
       "runtime":"100 minutes",
-      "netflixid":"80170862",
+      "id":"80170862",
       "date_released":"2018-07-27",
       "description":"This eye-opening look at the fast-growing medical device industry reveals how the rush to innovate can lead to devastating consequences for patients."
   },
@@ -14887,7 +14904,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.1\/10",
       "runtime":"",
-      "netflixid":"80178943",
+      "id":"80178943",
       "date_released":"2018-04-06",
       "description":"The Boss Baby brings his big brother Tim to the office to teach him the art of business in this animated series sprung from the hit film."
   },
@@ -14904,7 +14921,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas\n                  Independent Movies",
       "imdb":"6.8\/10",
       "runtime":"113 minutes",
-      "netflixid":"80200047",
+      "id":"80200047",
       "date_released":"2019-03-01",
       "description":"Inspired by a science book, 13-year-old William Kamkwamba builds a wind turbine to save his Malawian village from famine. Based on a true story."
   },
@@ -14921,7 +14938,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80142550",
+      "id":"80142550",
       "date_released":"2016-12-20",
       "description":"A police detective mourning a painful loss moves back to his peaceful hometown, only to be drawn into a murder case that dredges up dark secrets."
   },
@@ -14938,7 +14955,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"4.2\/10",
       "runtime":"",
-      "netflixid":"80239459",
+      "id":"80239459",
       "date_released":"2018-05-27",
       "description":"Nobody's safe as Michelle Wolf unapologetically takes aim in this weekly topical show that blends sketches with live comedy and in-studio guests."
   },
@@ -14955,7 +14972,7 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"82 minutes",
-      "netflixid":"80992672",
+      "id":"80992672",
       "date_released":"2019-02-15",
       "description":"For the right price, BFFs Jen and Mel will ruthlessly end any romance. But when one of them grows a conscience, their friendship begins to unravel."
   },
@@ -14972,7 +14989,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"4.0\/10",
       "runtime":"",
-      "netflixid":"81023023",
+      "id":"81023023",
       "date_released":"2018-12-21",
       "description":"M\u0101ori funeral directors Francis and Kaiora Tipene and staff temper good humor with care and respect as they help Polynesian families cope with loss."
   },
@@ -14989,7 +15006,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80232914",
+      "id":"80232914",
       "date_released":"2018-04-17",
       "description":"Friends gathered at a remote chalet in the French Alps for a summer getaway are caught in a deadly trap as a dark secret from the past comes to light."
   },
@@ -15006,7 +15023,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Comedies",
       "imdb":"7.1\/10",
       "runtime":"104 minutes",
-      "netflixid":"80199682",
+      "id":"80199682",
       "date_released":"2018-11-22",
       "description":"After accidentally crashing Santa's sleigh, a brother and sister pull an all-nighter to save Christmas with a savvy, straight-talking St. Nick."
   },
@@ -15023,8 +15040,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies\n                  Dramas",
       "imdb":"6.8\/10",
       "runtime":"105 minutes",
-      "netflixid":"80194671",
-      "date_released":"2017-12-29",
+      "id":"80194671",
+      "date_released":"2019-12-29",
       "description":"A young Senegalese-French man from humble roots sets out to climb Mount Everest to impress the woman he loves -- and slowly becomes a media sensation."
   },
   {
@@ -15040,7 +15057,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Sci-Fi & Fantasy",
       "imdb":"5.6\/10",
       "runtime":"102 minutes",
-      "netflixid":"80134431",
+      "id":"80134431",
       "date_released":"2018-02-05",
       "description":"Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality."
   },
@@ -15057,7 +15074,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80223138",
+      "id":"80223138",
       "date_released":"2018-07-03",
       "description":"A diverse group of up-and-coming comedians perform 15-minute sets in this stand-up comedy showcase series."
   },
@@ -15074,8 +15091,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80161702",
-      "date_released":"2017-09-08",
+      "id":"80161702",
+      "date_released":"2019-09-08",
       "description":"This true crime documentary series investigates cases where people convicted of murder claim their confessions were coerced, involuntary or false."
   },
   {
@@ -15091,7 +15108,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"81 minutes",
-      "netflixid":"80196044",
+      "id":"80196044",
       "date_released":"2018-11-15",
       "description":"After an unexpected misstep, a crew of skilled Parisian robbers find themselves forced to carry out a daring heist for a powerful crime organization."
   },
@@ -15108,7 +15125,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80025678",
+      "id":"80025678",
       "date_released":"2016-11-04",
       "description":"This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
   },
@@ -15125,7 +15142,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80109535",
+      "id":"80109535",
       "date_released":"2016-12-08",
       "description":"This documentary series recounts the tumultuous history of Cuba, a nation of foreign conquest, freedom fighters and Cold War political machinations."
   },
@@ -15142,7 +15159,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Mysteries",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80201868",
+      "id":"80201868",
       "date_released":"2018-10-12",
       "description":"Wickedly talented baker and artist Christine McConnell fills her home with haunting confections, creepy crafts -- and wildly inappropriate creatures."
   },
@@ -15159,8 +15176,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"5.8\/10",
       "runtime":"",
-      "netflixid":"80184569",
-      "date_released":"2017-10-20",
+      "id":"80184569",
+      "date_released":"2019-10-20",
       "description":"Mexican superstar actress Kate del Castillo reveals the untold story of her encounter with El Chapo Guzm\u00e1n, the world\u2019s most-wanted drug lord."
   },
   {
@@ -15176,8 +15193,8 @@ module.exports = [
       "category":"Documentaries\n                  LGBTQ Movies",
       "imdb":"7.4\/10",
       "runtime":"105 minutes",
-      "netflixid":"80189623",
-      "date_released":"2017-10-06",
+      "id":"80189623",
+      "date_released":"2019-10-06",
       "description":"As she fights the tide of violence against trans women, activist Victoria Cruz probes the suspicious 1992 death of her friend Marsha P. Johnson."
   },
   {
@@ -15193,7 +15210,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"3.0\/10",
       "runtime":"",
-      "netflixid":"80987753",
+      "id":"80987753",
       "date_released":"2018-10-30",
       "description":"Six stand-ups explore the coarse and salacious side of comedy in this series of half-hour specials. For mature audiences."
   },
@@ -15210,7 +15227,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"8.0\/10",
       "runtime":"108 minutes",
-      "netflixid":"80169469",
+      "id":"80169469",
       "date_released":"2019-03-22",
       "description":"In this unflinching biopic based on M\u00f6tley Cr\u00fce's best-selling book, four LA misfits navigate the monster highs and savage lows of music superstardom."
   },
@@ -15227,7 +15244,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80194956",
+      "id":"80194956",
       "date_released":"2019-03-15",
       "description":"The documentary takes a detailed look at the disappearance of 3-year-old Madeleine McCann, who vanished while on holiday with her family."
   },
@@ -15244,8 +15261,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  Romantic Movies",
       "imdb":"6.2\/10",
       "runtime":"102 minutes",
-      "netflixid":"80115857",
-      "date_released":"2017-03-31",
+      "id":"80115857",
+      "date_released":"2019-03-31",
       "description":"A scientist whose proof of an afterlife caused a rash of suicides forges ahead with his research, while his disapproving son falls for a troubled woman."
   },
   {
@@ -15261,7 +15278,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies",
       "imdb":"5.7\/10",
       "runtime":"108 minutes",
-      "netflixid":"80063265",
+      "id":"80063265",
       "date_released":"2016-05-27",
       "description":"The life of a bank manager is turned upside down when a friend from his past manipulates him into faking his own death and taking off on an adventure."
   },
@@ -15278,7 +15295,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80212245",
+      "id":"80212245",
       "date_released":"2018-09-14",
       "description":"An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands."
   },
@@ -15295,7 +15312,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"5.8\/10",
       "runtime":"138 minutes",
-      "netflixid":"80236133",
+      "id":"80236133",
       "date_released":"2019-02-21",
       "description":"A petty smuggler from Busan dives headfirst into illicit drug trafficking in the 1970s and rises to become king of narcotics exports to Japan."
   },
@@ -15312,7 +15329,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80175722",
+      "id":"80175722",
       "date_released":"2018-01-05",
       "description":"A budding teen psychopath and a rebel hungry for adventure embark on a star-crossed road trip in this darkly comic series based on a graphic novel."
   },
@@ -15329,7 +15346,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80179782",
+      "id":"80179782",
       "date_released":"2018-07-13",
       "description":"Fourth-grade friends George and Harold have a shared love of pranks and comic books -- and turning their principal into an undies-wearing superhero."
   },
@@ -15346,7 +15363,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"70272726",
+      "id":"70272726",
       "date_released":"2015-01-16",
       "description":"A detective superintendent battles her own personal demons as she tries to get inside the head of a serial killer hiding behind a family-man facade."
   },
@@ -15363,7 +15380,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80201866",
+      "id":"80201866",
       "date_released":"2018-11-20",
       "description":"Teams of elite chefs vie to impress the world's toughest palates as they whip up iconic dishes from nine nations in this star-packed competition."
   },
@@ -15380,7 +15397,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80216124",
+      "id":"80216124",
       "date_released":"2018-12-14",
       "description":"Comedians Jimmy Carr, D.L. Hughley and Katherine Ryan tackle the world's woes with help from a rotating crew of funny guests and an actual expert."
   },
@@ -15397,7 +15414,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80240691",
+      "id":"80240691",
       "date_released":"2018-06-29",
       "description":"When a teen girl disappears from a village near the Ardennes Forest, local police and a concerned teacher begin to uncover a web of unsettling secrets."
   },
@@ -15414,7 +15431,7 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80161335",
+      "id":"80161335",
       "date_released":"2018-02-20",
       "description":"A detective tracks what seems to be a killer with a taste for dismemberment in 1827 London, but the case leads in a far more terrifying direction."
   },
@@ -15431,7 +15448,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80186459",
+      "id":"80186459",
       "date_released":"2018-01-01",
       "description":"A grisly find atop a mountain in the French Pyrenees leads investigator Martin Servaz into a twisted dance with a serial killer in this icy thriller."
   },
@@ -15448,7 +15465,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"7.4\/10",
       "runtime":"97 minutes",
-      "netflixid":"80097349",
+      "id":"80097349",
       "date_released":"2016-06-24",
       "description":"In this inspirational buddy comedy, a young shut-in and his caregiver take a road trip in search of landmarks, but end up finding hope and friendship."
   },
@@ -15465,7 +15482,7 @@ module.exports = [
       "category":"TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80025601",
+      "id":"80025601",
       "date_released":"2016-08-12",
       "description":"In 1977 New York City, the talented and soulful youth of the South Bronx chase dreams and breakneck beats to transform music history."
   },
@@ -15482,7 +15499,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80157073",
+      "id":"80157073",
       "date_released":"2018-09-21",
       "description":"When he's not solving murders, a pathologically honest detective tries to keep an eye on his crooked but kindhearted dad."
   },
@@ -15499,7 +15516,7 @@ module.exports = [
       "category":"British TV Shows\n                  Reality TV",
       "imdb":"",
       "runtime":"",
-      "netflixid":"81013505",
+      "id":"81013505",
       "date_released":"2018-11-30",
       "description":"Deck the halls with sugar, butter and chocolate as competitors from past seasons bake sweet Yuletide treats for judges Paul Hollywood and Prue Leith."
   },
@@ -15516,7 +15533,7 @@ module.exports = [
       "category":"Dramas\n                  Romantic Movies",
       "imdb":"7.8\/10",
       "runtime":"123 minutes",
-      "netflixid":"80223371",
+      "id":"80223371",
       "date_released":"2018-08-10",
       "description":"A London writer bonds with the colorful residents of Guernsey as she learns about the book club they formed during the WWII German occupation."
   },
@@ -15533,7 +15550,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Horror\n                  TV Mysteries",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80189221",
+      "id":"80189221",
       "date_released":"2018-10-12",
       "description":"Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
   },
@@ -15550,7 +15567,7 @@ module.exports = [
       "category":"Dramas",
       "imdb":"8.0\/10",
       "runtime":"132 minutes",
-      "netflixid":"80200571",
+      "id":"80200571",
       "date_released":"2019-03-29",
       "description":"Two steely former Texas Rangers are tasked with tracking and killing infamous criminals Bonnie and Clyde in this crime drama based on real events."
   },
@@ -15567,7 +15584,7 @@ module.exports = [
       "category":"Dramas\n                  Romantic Movies",
       "imdb":"6.7\/10",
       "runtime":"95 minutes",
-      "netflixid":"80242446",
+      "id":"80242446",
       "date_released":"2018-11-02",
       "description":"A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future -- and pointing her toward love."
   },
@@ -15584,7 +15601,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Thrillers",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80147919",
+      "id":"80147919",
       "date_released":"2018-06-08",
       "description":"Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts."
   },
@@ -15601,7 +15618,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"6.6\/10",
       "runtime":"",
-      "netflixid":"80213655",
+      "id":"80213655",
       "date_released":"2018-04-17",
       "description":"Impending parenthood does funny things to Natasha Leggero and Moshe Kasher, who dissect family, relationships and more in a trio of stand-up specials."
   },
@@ -15618,7 +15635,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Comedies",
       "imdb":"8.7\/10",
       "runtime":"",
-      "netflixid":"80190086",
+      "id":"80190086",
       "date_released":"2018-12-07",
       "description":"When Parisian Elsa gets hung up on her ex, her best friends secretly hire a male escort to help her move on. But their plan works a little too well."
   },
@@ -15635,7 +15652,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Comedies",
       "imdb":"5.9\/10",
       "runtime":"",
-      "netflixid":"80160935",
+      "id":"80160935",
       "date_released":"2018-08-10",
       "description":"In this dark comedy, a wealthy matriarch tries to maintain her family's facade of perfection after her husband's mistress exposes their dirty secrets."
   },
@@ -15652,8 +15669,8 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  Romantic Movies",
       "imdb":"6.4\/10",
       "runtime":"83 minutes",
-      "netflixid":"80171022",
-      "date_released":"2017-07-28",
+      "id":"80171022",
+      "date_released":"2019-07-28",
       "description":"Burned by a bad breakup, a struggling New York City playwright makes an unlikely connection with a divorced app designer she meets on a blind date."
   },
   {
@@ -15669,8 +15686,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80190279",
-      "date_released":"2017-12-19",
+      "id":"80190279",
+      "date_released":"2019-12-19",
       "description":"In this crime dramedy, a suspended Canadian cop visits his father in Mumbai and assists in investigating a huge criminal operation with links to home."
   },
   {
@@ -15686,7 +15703,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80187030",
+      "id":"80187030",
       "date_released":"2018-12-14",
       "description":"This documentary adaptation of John Grisham's only nonfiction book raises troubling questions about two murder cases in Ada, Oklahoma, in the 1980s."
   },
@@ -15703,7 +15720,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"6.4\/10",
       "runtime":"",
-      "netflixid":"80184405",
+      "id":"80184405",
       "date_released":"2018-08-24",
       "description":"Runaway teen lovers June and Harry find themselves swept up in a dangerous and confusing new world when June begins to display mysterious abilities."
   },
@@ -15720,8 +15737,8 @@ module.exports = [
       "category":"British TV Shows\n                  Crime TV Shows\n                  Docuseries",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80144146",
-      "date_released":"2017-01-13",
+      "id":"80144146",
+      "date_released":"2019-01-13",
       "description":"After 40 years of inconclusive evidence, renowned criminologist Mark Williams-Thomas re-examines a string of mysterious murders."
   },
   {
@@ -15737,7 +15754,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.8\/10",
       "runtime":"112 minutes",
-      "netflixid":"80117533",
+      "id":"80117533",
       "date_released":"2016-11-04",
       "description":"Filmmakers infiltrate the corrupt global network of ivory trafficking, exposing poachers and dealers as African elephants edge closer to extinction."
   },
@@ -15754,7 +15771,7 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80211384",
+      "id":"80211384",
       "date_released":"2018-02-18",
       "description":"Trending news, pop culture, social media, original sketches and more come together in host Joel McHale's comedy commentary show."
   },
@@ -15771,7 +15788,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80241877",
+      "id":"80241877",
       "date_released":"2018-11-01",
       "description":"After a traumatic incident at a party makes her a target of gossip and derision, a young college student tries to change her school's toxic culture."
   },
@@ -15788,8 +15805,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  TV Mysteries",
       "imdb":"7.6\/10",
       "runtime":"",
-      "netflixid":"80122179",
-      "date_released":"2017-05-19",
+      "id":"80122179",
+      "date_released":"2019-05-19",
       "description":"This docuseries examines the decades-old murder of Sister Catherine Cesnik and its suspected link to a priest accused of abuse."
   },
   {
@@ -15805,8 +15822,8 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"6.3\/10",
       "runtime":"99 minutes",
-      "netflixid":"80127990",
-      "date_released":"2017-11-10",
+      "id":"80127990",
+      "date_released":"2019-11-10",
       "description":"In lawless badlands, reclusive Cabeleira sets out to discover the fate of his gunman father and grows to be a feared assassin himself."
   },
   {
@@ -15822,7 +15839,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"7.0\/10",
       "runtime":"97 minutes",
-      "netflixid":"80240972",
+      "id":"80240972",
       "date_released":"2018-10-12",
       "description":"A devoted teacher takes interest in a young student's creative potential after hearing his poetry. But she soon crosses the line into obsession."
   },
@@ -15839,7 +15856,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"7.4\/10",
       "runtime":"105 minutes",
-      "netflixid":"80143556",
+      "id":"80143556",
       "date_released":"2018-05-11",
       "description":"When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend."
   },
@@ -15856,7 +15873,7 @@ module.exports = [
       "category":"TV Comedies\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80201680",
+      "id":"80201680",
       "date_released":"2018-11-16",
       "description":"Acting coach Sandy Kominsky and best friend Norman Newlander keep each other laughing as they navigate the ups and downs of getting older."
   },
@@ -15873,7 +15890,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"5.6\/10",
       "runtime":"98 minutes",
-      "netflixid":"80164779",
+      "id":"80164779",
       "date_released":"2018-09-14",
       "description":"After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life."
   },
@@ -15890,7 +15907,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"7.7\/10",
       "runtime":"44 minutes",
-      "netflixid":"81020973",
+      "id":"81020973",
       "date_released":"2018-12-21",
       "description":"In this biblical \"Hangover\" spoof, the apostles awaken to find Jesus is missing and must piece together events of the previous night's wild Last Supper."
   },
@@ -15907,7 +15924,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Action & Adventure",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80074249",
+      "id":"80074249",
       "date_released":"2016-07-10",
       "description":"As Alfred the Great defends his kingdom from Norse invaders, Uhtred -- born a Saxon but raised by Vikings -- seeks to claim his ancestral birthright."
   },
@@ -15924,7 +15941,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"5.8\/10",
       "runtime":"98 minutes",
-      "netflixid":"80202273",
+      "id":"80202273",
       "date_released":"2019-01-11",
       "description":"After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit."
   },
@@ -15941,7 +15958,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"6.1\/10",
       "runtime":"109 minutes",
-      "netflixid":"80999729",
+      "id":"80999729",
       "date_released":"2019-05-03",
       "description":"Teens from a Chicago high school grapple with their dreams, relationships and identities in a transformative summer before they leave for college."
   },
@@ -15958,7 +15975,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"6.1\/10",
       "runtime":"100 minutes",
-      "netflixid":"80114719",
+      "id":"80114719",
       "date_released":"2018-08-31",
       "description":"A physicist uses the laws of thermodynamics to describe romance and relationships, but his theories prove faulty when it comes to his own love life."
   },
@@ -15975,7 +15992,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies\n                  Dramas",
       "imdb":"5.3\/10",
       "runtime":"83 minutes",
-      "netflixid":"80176715",
+      "id":"80176715",
       "date_released":"2018-07-06",
       "description":"A star of hunting videos strives to bond with his 12-year-old son on a wilderness trip but learns familial connections can't be forced."
   },
@@ -15992,7 +16009,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.5\/10",
       "runtime":"87 minutes",
-      "netflixid":"80999977",
+      "id":"80999977",
       "date_released":"2019-03-29",
       "description":"An urban legend about a duffel bag of cocaine buried in the Caribbean leads a misfit band to hatch a nutball plan to find it in this comic documentary."
   },
@@ -16009,7 +16026,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80198635",
+      "id":"80198635",
       "date_released":"2018-04-21",
       "description":"Audrey, mother of a 2-month-old, joins a new-parents support group, where she makes some quirky friends facing various challenges and life changes."
   },
@@ -16026,8 +16043,8 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Romantic Movies",
       "imdb":"7.0\/10",
       "runtime":"110 minutes",
-      "netflixid":"80105690",
-      "date_released":"2017-04-07",
+      "id":"80105690",
+      "date_released":"2019-04-07",
       "description":"A mother travels to Patagonia with her autistic son with the hopes that a ranger and a pod of wild orcas can help him find an emotional connection."
   },
   {
@@ -16043,7 +16060,7 @@ module.exports = [
       "category":"Children & Family Movies",
       "imdb":"7.6\/10",
       "runtime":"106 minutes",
-      "netflixid":"80057578",
+      "id":"80057578",
       "date_released":"2016-08-05",
       "description":"When an overscheduled girl befriends an eccentric aviator, he regales her with tales about the adventures of an unusual boy who lives on an asteroid."
   },
@@ -16060,8 +16077,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80108373",
-      "date_released":"2017-09-29",
+      "id":"80108373",
+      "date_released":"2019-09-29",
       "description":"Ms. Frizzle's kid sister Fiona takes the wheel at Walkerville Elementary, leading the class on wild adventures packed with science-fueled fun."
   },
   {
@@ -16077,8 +16094,8 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80199051",
-      "date_released":"2017-11-24",
+      "id":"80199051",
+      "date_released":"2019-11-24",
       "description":"A jaded rom-com screenwriter in her 30s mines four love-sick women for their stories under the guise of providing them with romantic advice."
   },
   {
@@ -16094,8 +16111,8 @@ module.exports = [
       "category":"Children & Family Movies\n                  Documentaries",
       "imdb":"7.2\/10",
       "runtime":"97 minutes",
-      "netflixid":"80117263",
-      "date_released":"2017-05-05",
+      "id":"80117263",
+      "date_released":"2019-05-05",
       "description":"Self-professed teenage \"space nerds\" at Space Camp chase their dreams of traveling to Mars, while experts reflect on NASA's history and future."
   },
   {
@@ -16111,7 +16128,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80120485",
+      "id":"80120485",
       "date_released":"2018-03-23",
       "description":"A scandal erupts in Brazil during an investigation of alleged government corruption via oil and construction companies. Loosely inspired by true events."
   },
@@ -16128,8 +16145,8 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"6.3\/10",
       "runtime":"112 minutes",
-      "netflixid":"80174434",
-      "date_released":"2017-10-13",
+      "id":"80174434",
+      "date_released":"2019-10-13",
       "description":"Grudges and rivalries abound as three adult siblings converge in New York to contend with their prickly artist father -- and his fading legacy."
   },
   {
@@ -16145,7 +16162,7 @@ module.exports = [
       "category":"International TV Shows\n                  Spanish-Language TV Shows\n                  TV Action & Adventure",
       "imdb":"6.9\/10",
       "runtime":"",
-      "netflixid":"80064235",
+      "id":"80064235",
       "date_released":"2018-01-28",
       "description":"Three officers from different eras work for a secret agency guarding Spain's past from time-traveling intruders trying to manipulate history."
   },
@@ -16162,7 +16179,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"5.7\/10",
       "runtime":"102 minutes",
-      "netflixid":"80159586",
+      "id":"80159586",
       "date_released":"2018-09-07",
       "description":"In 1930s Paris, an actress famous for her gory death scenes at the Grand Guignol Theater contends with a mysterious stalker and ghosts from her past."
   },
@@ -16179,8 +16196,8 @@ module.exports = [
       "category":"Dramas",
       "imdb":"5.9\/10",
       "runtime":"92 minutes",
-      "netflixid":"80082242",
-      "date_released":"2017-03-24",
+      "id":"80082242",
+      "date_released":"2019-03-24",
       "description":"This drama follows the controversial life of outspoken atheist Madalyn Murray O'Hair, from her landmark court battles to her infamous abduction."
   },
   {
@@ -16196,7 +16213,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"114 minutes",
-      "netflixid":"80173606",
+      "id":"80173606",
       "date_released":"2018-08-17",
       "description":"An aspiring writer with no imagination seeks inspiration for his novel by manipulating the lives of his neighbors so that he can write about them."
   },
@@ -16213,7 +16230,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80050007",
+      "id":"80050007",
       "date_released":"2015-10-09",
       "description":"Mr. Peabody and Sherman host a zany late-night comedy show from a swanky penthouse, with time-traveling historical figures and a live audience."
   },
@@ -16230,7 +16247,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Sci-Fi & Fantasy",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80184682",
+      "id":"80184682",
       "date_released":"2018-04-27",
       "description":"A valiant girl liberates the Monkey King -- a god long trapped in stone -- in a quest to find seven sacred scrolls and save the world from evil."
   },
@@ -16247,7 +16264,7 @@ module.exports = [
       "category":"Action & Adventure\n                  International Movies",
       "imdb":"7.2\/10",
       "runtime":"120 minutes",
-      "netflixid":"80148162",
+      "id":"80148162",
       "date_released":"2018-10-19",
       "description":"After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters."
   },
@@ -16264,7 +16281,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80044950",
+      "id":"80044950",
       "date_released":"2016-12-16",
       "description":"Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission."
   },
@@ -16281,7 +16298,7 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"3.6\/10",
       "runtime":"94 minutes",
-      "netflixid":"80198661",
+      "id":"80198661",
       "date_released":"2018-01-19",
       "description":"Following a tragedy, a mother and her teen son move to a relative's vacant vacation home, where eerie and unexplained forces conspire against them."
   },
@@ -16298,7 +16315,7 @@ module.exports = [
       "category":"TV Dramas\n                  TV Horror\n                  TV Mysteries",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80238357",
+      "id":"80238357",
       "date_released":"2019-03-07",
       "description":"Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic."
   },
@@ -16315,7 +16332,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"6.8\/10",
       "runtime":"84 minutes",
-      "netflixid":"80011852",
+      "id":"80011852",
       "date_released":"2015-05-22",
       "description":"This chronicle of Bob Weir highlights his brotherhood with Jerry Garcia and his success as a member of one of the world's most influential bands."
   },
@@ -16332,7 +16349,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"6.9\/10",
       "runtime":"122 minutes",
-      "netflixid":"80085566",
+      "id":"80085566",
       "date_released":"2018-11-02",
       "description":"On the last day of his life, a legendary director struggles to complete a new project and contemplates his legacy in this layered film by Orson Welles."
   },
@@ -16349,7 +16366,7 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"6.1\/10",
       "runtime":"120 minutes",
-      "netflixid":"80152434",
+      "id":"80152434",
       "date_released":"2018-03-09",
       "description":"An American soldier imprisoned in postwar Japan enters the dark world of the yakuza, adopting their way of life in repayment for his freedom."
   },
@@ -16366,7 +16383,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.6\/10",
       "runtime":"94 minutes",
-      "netflixid":"80175147",
+      "id":"80175147",
       "date_released":"2018-08-10",
       "description":"After their buddy suffers an unfortunate accident during spring break, four pals risk everything -- including their dignity -- to make him whole again."
   },
@@ -16383,7 +16400,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"6.8\/10",
       "runtime":"90 minutes",
-      "netflixid":"81019888",
+      "id":"81019888",
       "date_released":"2019-04-12",
       "description":"To earn money for college, a high schooler launches an app offering his services as a fake date. But when real feelings emerge, things get complicated."
   },
@@ -16400,7 +16417,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.5\/10",
       "runtime":"110 minutes",
-      "netflixid":"80191608",
+      "id":"80191608",
       "date_released":"2019-02-22",
       "description":"A Catal\u00e1n prisoner at a Nazi concentration camp uses his office job to steal photo negatives of the atrocities committed there. Based on true events."
   },
@@ -16417,7 +16434,7 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies",
       "imdb":"5.6\/10",
       "runtime":"94 minutes",
-      "netflixid":"80173395",
+      "id":"80173395",
       "date_released":"2018-01-12",
       "description":"Determined to make it big in America, Polish-born bandleader Jan Lewan draws his fans into a Ponzi scheme in this comedy based on a true story."
   },
@@ -16434,7 +16451,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas\n                  Romantic Movies",
       "imdb":"7.2\/10",
       "runtime":"101 minutes",
-      "netflixid":"80242926",
+      "id":"80242926",
       "date_released":"2018-11-16",
       "description":"When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places."
   },
@@ -16451,7 +16468,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Action & Adventure",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80189829",
+      "id":"80189829",
       "date_released":"2018-12-14",
       "description":"Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy."
   },
@@ -16468,7 +16485,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"81022683",
+      "id":"81022683",
       "date_released":"2018-11-09",
       "description":"Seventeen years after being wrongly imprisoned, a talented songwriter seeks justice against the men who caused her downfall and killed her family."
   },
@@ -16485,7 +16502,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.2\/10",
       "runtime":"104 minutes",
-      "netflixid":"80149821",
+      "id":"80149821",
       "date_released":"2018-04-27",
       "description":"Rachel Dolezal, her family and her critics reckon with the aftermath of a national debate sparked by questions about her racial identity."
   },
@@ -16502,7 +16519,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Dramas\n                  TV Mysteries",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80154610",
+      "id":"80154610",
       "date_released":"2018-05-04",
       "description":"Six years after a brutal virus wipes out most of Scandinavia's population, two siblings join a band of young survivors seeking safety -- and answers."
   },
@@ -16519,7 +16536,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.3\/10",
       "runtime":"",
-      "netflixid":"80077977",
+      "id":"80077977",
       "date_released":"2016-04-01",
       "description":"Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family."
   },
@@ -16536,7 +16553,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.7\/10",
       "runtime":"123 minutes",
-      "netflixid":"80244019",
+      "id":"80244019",
       "date_released":"2018-09-11",
       "description":"Risking his family and future, a banker in occupied Amsterdam slows the Nazi war machine by creating an underground bank to fund the resistance."
   },
@@ -16553,7 +16570,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies",
       "imdb":"4.9\/10",
       "runtime":"120 minutes",
-      "netflixid":"80039517",
+      "id":"80039517",
       "date_released":"2015-12-11",
       "description":"When his outlaw dad is kidnapped, Tommy \u201cWhite Knife\u201d Stockburn sets off across the West on a rescue mission with five brothers he never knew he had."
   },
@@ -16570,7 +16587,7 @@ module.exports = [
       "category":"International TV Shows\n                  Romantic TV Shows\n                  TV Action & Adventure",
       "imdb":"9.0\/10",
       "runtime":"",
-      "netflixid":"80993613",
+      "id":"80993613",
       "date_released":"2018-09-14",
       "description":"When a secret from the past rears its head, a respected court scholar must choose between avenging her family and staying true to the prince she loves."
   },
@@ -16587,7 +16604,7 @@ module.exports = [
       "category":"Horror Movies\n                  International Movies\n                  Thrillers",
       "imdb":"6.0\/10",
       "runtime":"94 minutes",
-      "netflixid":"80217312",
+      "id":"80217312",
       "date_released":"2018-02-09",
       "description":"Four friends with a long-standing -- but strained -- connection take a hiking trip into the Swedish wilderness, from which they may never return."
   },
@@ -16604,7 +16621,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"6.0\/10",
       "runtime":"111 minutes",
-      "netflixid":"81080942",
+      "id":"81080942",
       "date_released":"2019-04-19",
       "description":"A rebellious teen grows up to become one of Milan's most ambitious criminals during the golden years of the 'ndrangheta Mafia in the 1980s."
   },
@@ -16621,7 +16638,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80050063",
+      "id":"80050063",
       "date_released":"2015-11-01",
       "description":"When a kingdom is taken over by tyrants, the deposed princess begins a quest to find a disbanded group of evil knights to help take back her realm."
   },
@@ -16638,7 +16655,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Documentaries\n                  Sports Movies",
       "imdb":"7.4\/10",
       "runtime":"100 minutes",
-      "netflixid":"70290567",
+      "id":"70290567",
       "date_released":"2013-12-12",
       "description":"They are fiercely competitive athletes, determined to become champions on one of the world's toughest golf courses. And they're still in grade school."
   },
@@ -16655,7 +16672,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Dramas\n                  International Movies",
       "imdb":"7.1\/10",
       "runtime":"108 minutes",
-      "netflixid":"80041653",
+      "id":"80041653",
       "date_released":"2016-10-07",
       "description":"Besieged by overwhelming enemy forces, Irish soldiers on a U.N. peacekeeping mission in Africa valiantly defend their outpost in this true story."
   },
@@ -16672,7 +16689,7 @@ module.exports = [
       "category":"Horror Movies\n                  Thrillers",
       "imdb":"",
       "runtime":"90 minutes",
-      "netflixid":"81021447",
+      "id":"81021447",
       "date_released":"2019-04-10",
       "description":"With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult."
   },
@@ -16689,7 +16706,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"4.9\/10",
       "runtime":"110 minutes",
-      "netflixid":"80168029",
+      "id":"80168029",
       "date_released":"2018-07-06",
       "description":"An animal trapper living in an abandoned mountain town in northern Spain seeks to resolve his loneliness by securing a wife."
   },
@@ -16706,8 +16723,8 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Comedies",
       "imdb":"8.2\/10",
       "runtime":"",
-      "netflixid":"80155793",
-      "date_released":"2017-02-24",
+      "id":"80155793",
+      "date_released":"2019-02-24",
       "description":"Based on Korea's longest-running webtoon series, this comedy follows the ridiculous daily lives of a cartoonist, his girlfriend and his subpar family."
   },
   {
@@ -16723,7 +16740,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Comedies",
       "imdb":"4.5\/10",
       "runtime":"",
-      "netflixid":"81029884",
+      "id":"81029884",
       "date_released":"2018-10-29",
       "description":"Webtoonist Cho Seok is back with more anecdotes of mix-ups, unintended antics, and bathroom blunders in this reboot starring an all-new cast."
   },
@@ -16740,8 +16757,8 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"7.9\/10",
       "runtime":"104 minutes",
-      "netflixid":"70268449",
-      "date_released":"2014-01-17",
+      "id":"70268449",
+      "date_released":"2020-01-17",
       "description":"This Emmy-winning, street-level view of the 2011 Egyptian Revolution captures the astonishing uprising that led to the collapse of two governments."
   },
   {
@@ -16757,7 +16774,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries\n                  TV Mysteries",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80233441",
+      "id":"80233441",
       "date_released":"2018-06-08",
       "description":"Accident or murder? After the mysterious death of his wife, author Michael Peterson watches his life go under the microscope."
   },
@@ -16774,8 +16791,8 @@ module.exports = [
       "category":"Stand-Up Comedy & Talk Shows\n                  TV Comedies",
       "imdb":"5.3\/10",
       "runtime":"",
-      "netflixid":"80175685",
-      "date_released":"2017-07-04",
+      "id":"80175685",
+      "date_released":"2019-07-04",
       "description":"Comedy's freshest voices take the stage in LA for half-hour specials packed with sly jokes, hilarious anecdotes and awkward confessions."
   },
   {
@@ -16791,7 +16808,7 @@ module.exports = [
       "category":"Dramas\n                  Sci-Fi & Fantasy\n                  Thrillers",
       "imdb":"5.3\/10",
       "runtime":"97 minutes",
-      "netflixid":"80148210",
+      "id":"80148210",
       "date_released":"2018-03-30",
       "description":"On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he's becoming more creature than man."
   },
@@ -16808,8 +16825,8 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"80161497",
-      "date_released":"2017-12-22",
+      "id":"80161497",
+      "date_released":"2019-12-22",
       "description":"The minds behind history's most iconic toy franchises discuss the rise -- and sometimes fall -- of their billion-dollar creations."
   },
   {
@@ -16825,7 +16842,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"6.7\/10",
       "runtime":"23 minutes",
-      "netflixid":"80209006",
+      "id":"80209006",
       "date_released":"2018-02-09",
       "description":"A traveling trader provides a window into rural life in the Republic of Georgia, where potatoes are currency and ambition is crushed by poverty."
   },
@@ -16842,7 +16859,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"7.2\/10",
       "runtime":"135 minutes",
-      "netflixid":"81029383",
+      "id":"81029383",
       "date_released":"2019-02-08",
       "description":"As a young couple write the story of their families' shared history, both reveal their relatives' dark secrets and one must make a painful confession."
   },
@@ -16859,7 +16876,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"6.2\/10",
       "runtime":"90 minutes",
-      "netflixid":"80988835",
+      "id":"80988835",
       "date_released":"2018-11-21",
       "description":"An executive-turned-viral sensation loses his reputation and his memory, but finds a new life with his biological mother and her empowered dance group."
   },
@@ -16876,7 +16893,7 @@ module.exports = [
       "category":"TV Action & Adventure\n                  TV Mysteries\n                  TV Sci-Fi & Fantasy",
       "imdb":"8.7\/10",
       "runtime":"",
-      "netflixid":"80186863",
+      "id":"80186863",
       "date_released":"2019-02-15",
       "description":"Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity."
   },
@@ -16893,7 +16910,7 @@ module.exports = [
       "category":"International Movies\n                  Thrillers",
       "imdb":"6.2\/10",
       "runtime":"92 minutes",
-      "netflixid":"80232989",
+      "id":"80232989",
       "date_released":"2018-07-24",
       "description":"After his friend is shot, Jon finds a numerical pattern behind deaths that occurred at the same location and sets out to warn the next young victim."
   },
@@ -16910,7 +16927,7 @@ module.exports = [
       "category":"Comedies",
       "imdb":"5.1\/10",
       "runtime":"116 minutes",
-      "netflixid":"80183328",
+      "id":"80183328",
       "date_released":"2018-04-27",
       "description":"Two fathers with clashing views about their children's upcoming wedding struggle to keep it together during the chaotic week before the big day."
   },
@@ -16927,7 +16944,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.5\/10",
       "runtime":"40 minutes",
-      "netflixid":"80101827",
+      "id":"80101827",
       "date_released":"2016-09-16",
       "description":"As daily airstrikes pound civilian targets in Syria, a group of indomitable first responders risk their lives to rescue victims from the rubble."
   },
@@ -16944,7 +16961,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80184379",
+      "id":"80184379",
       "date_released":"2018-05-11",
       "description":"Fresh voices bring some of the most famous names in history to life. A live-action sketch comedy show based on the series of best-selling books."
   },
@@ -16961,7 +16978,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies\n                  International Movies",
       "imdb":"7.2\/10",
       "runtime":"100 minutes",
-      "netflixid":"81021528",
+      "id":"81021528",
       "date_released":"2018-11-30",
       "description":"To escape his life of crime, a Paris drug dealer takes on one last job involving Spain, unhinged gangsters, his longtime crush and his scheming mother."
   },
@@ -16978,7 +16995,7 @@ module.exports = [
       "category":"British TV Shows\n                  Docuseries\n                  International TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80213025",
+      "id":"80213025",
       "date_released":"2018-03-05",
       "description":"Award-winning architect Piers Taylor and actress\/property enthusiast Caroline Quentin travel the world touring beautifully unconventional homes."
   },
@@ -16995,8 +17012,8 @@ module.exports = [
       "category":"British TV Shows\n                  Kids' TV",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80130521",
-      "date_released":"2017-07-21",
+      "id":"80130521",
+      "date_released":"2019-07-21",
       "description":"After stumbling into a school for witches, a bumbling heroine comes to realize that she just might belong there. Based on Jill Murphy's beloved books."
   },
   {
@@ -17012,7 +17029,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.1\/10",
       "runtime":"66 minutes",
-      "netflixid":"80080617",
+      "id":"80080617",
       "date_released":"2016-02-26",
       "description":"Southern charmer Theo Von offers up a twisted take on his dating mishaps, meeting Brad Pitt, chasing down fugitive chimpanzees and more."
   },
@@ -17029,7 +17046,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"7.4\/10",
       "runtime":"98 minutes",
-      "netflixid":"80124722",
+      "id":"80124722",
       "date_released":"2018-11-02",
       "description":"Actors, crew members and others who were there discuss the tumultuous creation of Orson Welles's final, unfinished film, \u201cThe Other Side of the Wind.\u201d"
   },
@@ -17046,7 +17063,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80191239",
+      "id":"80191239",
       "date_released":"2018-12-14",
       "description":"Ex-con Cal McTeer's return to her hometown of Orphelin Bay blows the lid off a generations-long conspiracy of silence around murder, drugs and Sirens."
   },
@@ -17063,7 +17080,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80209379",
+      "id":"80209379",
       "date_released":"2019-01-01",
       "description":"In a series of inspiring home makeovers, world-renowned tidying expert Marie Kondo helps clients clear out the clutter -- and choose joy."
   },
@@ -17080,7 +17097,7 @@ module.exports = [
       "category":"Documentaries\n                  Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"91 minutes",
-      "netflixid":"80028208",
+      "id":"80028208",
       "date_released":"2015-07-17",
       "description":"Comedian Tig Notaro announced her cancer diagnosis at what became a legendary stand-up set in 2012. Follow her search for humor amid devastating news."
   },
@@ -17097,7 +17114,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.3\/10",
       "runtime":"58 minutes",
-      "netflixid":"80151384",
+      "id":"80151384",
       "date_released":"2018-05-22",
       "description":"Comedian Tig Notaro unleashes her inner prankster in a playful stand-up special packed with funny anecdotes, parenting confessions and more."
   },
@@ -17114,7 +17131,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80241474",
+      "id":"80241474",
       "date_released":"2019-04-05",
       "description":"When a prominent politician is murdered, the intrepid journalists of Frente Tijuana risk their lives to uncover the truth."
   },
@@ -17131,7 +17148,7 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies\n                  International Movies",
       "imdb":"5.2\/10",
       "runtime":"96 minutes",
-      "netflixid":"80991809",
+      "id":"80991809",
       "date_released":"2018-11-30",
       "description":"Husband and father Pedro becomes increasingly suspicious that a series of mishaps at a resort during a family vacation are part of a sinister plan."
   },
@@ -17148,7 +17165,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  Romantic Movies",
       "imdb":"8.0\/10",
       "runtime":"99 minutes",
-      "netflixid":"80203147",
+      "id":"80203147",
       "date_released":"2018-08-17",
       "description":"When her secret love letters somehow get mailed to each of her five crushes, Lara Jean finds her quiet high school existence turned upside down."
   },
@@ -17165,7 +17182,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies\n                  LGBTQ Movies",
       "imdb":"4.9\/10",
       "runtime":"95 minutes",
-      "netflixid":"80160994",
+      "id":"80160994",
       "date_released":"2018-06-24",
       "description":"Just as Simone works up the courage to tell her conservative Jewish family she's a lesbian, she finds herself attracted to a male Senegalese chef."
   },
@@ -17182,8 +17199,8 @@ module.exports = [
       "category":"Dramas\n                  Independent Movies",
       "imdb":"7.3\/10",
       "runtime":"107 minutes",
-      "netflixid":"80171659",
-      "date_released":"2017-07-14",
+      "id":"80171659",
+      "date_released":"2019-07-14",
       "description":"Ellen, a 20-year-old with anorexia nervosa, goes on a harrowing, sometimes funny journey of self-discovery at a group home run by an unusual doctor."
   },
   {
@@ -17199,8 +17216,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"60 minutes",
-      "netflixid":"80214478",
-      "date_released":"2017-12-26",
+      "id":"80214478",
+      "date_released":"2019-12-26",
       "description":"With bone-dry wit, stand-up comic Todd Barry dissects texting emergencies, Hitler's taste in wine, pricey soap, cheap pizza and much more."
   },
   {
@@ -17216,7 +17233,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"4.9\/10",
       "runtime":"62 minutes",
-      "netflixid":"80208684",
+      "id":"80208684",
       "date_released":"2018-01-23",
       "description":"Try to keep up as comedian Todd Glass delivers rapid-fire stand-up that bounces from his heart attack to his coming out to how to eat a Kit Kat."
   },
@@ -17233,7 +17250,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.3\/10",
       "runtime":"78 minutes",
-      "netflixid":"80191990",
+      "id":"80191990",
       "date_released":"2018-04-06",
       "description":"In his stand-up set, Argentine comic Lucas Lauriente animatedly rattles off reflections on different generations and begs kids to stop saying \"goals.\""
   },
@@ -17250,7 +17267,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"71 minutes",
-      "netflixid":"80187307",
+      "id":"80187307",
       "date_released":"2018-01-12",
       "description":"Tom Segura gives voice to the sordid thoughts you'd never say out loud, with blunt musings on porn, parking lot power struggles, parenthood and more."
   },
@@ -17267,7 +17284,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.6\/10",
       "runtime":"73 minutes",
-      "netflixid":"80077923",
+      "id":"80077923",
       "date_released":"2016-01-08",
       "description":"The bearded, bawdy and comically bitter Tom Segura gets real about body piercings, the \"Area 51\" of men's bodies, and the lie he told Mike Tyson."
   },
@@ -17284,7 +17301,7 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.7\/10",
       "runtime":"116 minutes",
-      "netflixid":"80102204",
+      "id":"80102204",
       "date_released":"2016-07-15",
       "description":"Tony Robbins' clients swear by his unorthodox life coaching methods. A revealing film goes behind the curtain at his annual mega-event."
   },
@@ -17301,8 +17318,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.0\/10",
       "runtime":"58 minutes",
-      "netflixid":"80133551",
-      "date_released":"2017-05-16",
+      "id":"80133551",
+      "date_released":"2019-05-16",
       "description":"In his first special since his serious car accident, Tracy Morgan cracks jokes about life in a coma, his second marriage and his family's dark side."
   },
   {
@@ -17318,8 +17335,8 @@ module.exports = [
       "category":"Classic & Cult TV\n                  Crime TV Shows\n                  International TV Shows",
       "imdb":"7.8\/10",
       "runtime":"",
-      "netflixid":"70153385",
-      "date_released":"2014-09-05",
+      "id":"70153385",
+      "date_released":"2020-09-05",
       "description":"Follow the booze-fueled misadventures of three longtime pals and petty serial criminals who run scams from their Nova Scotia trailer park."
   },
   {
@@ -17335,8 +17352,8 @@ module.exports = [
       "category":"Movies",
       "imdb":"6.9\/10",
       "runtime":"88 minutes",
-      "netflixid":"70304188",
-      "date_released":"2014-11-15",
+      "id":"70304188",
+      "date_released":"2020-11-15",
       "description":"Bubbles's plan to spread the true meaning of Christmas is dashed by Julian's wish to cash in on the holiday and Ricky's quest to meet the real Santa."
   },
   {
@@ -17352,8 +17369,8 @@ module.exports = [
       "category":"Movies",
       "imdb":"5.8\/10",
       "runtime":"81 minutes",
-      "netflixid":"70304186",
-      "date_released":"2014-06-01",
+      "id":"70304186",
+      "date_released":"2020-06-01",
       "description":"The boys head to Ireland after winning a contest to see Rush but are arrested by immigration and must perform a community service puppet show."
   },
   {
@@ -17369,7 +17386,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"5.4\/10",
       "runtime":"74 minutes",
-      "netflixid":"80081410",
+      "id":"80081410",
       "date_released":"2015-12-09",
       "description":"Ricky, Julian and Bubbles bring their trailer park humor out onto the stage for a night of bravado, schemes and an intoxicated acting demo."
   },
@@ -17386,7 +17403,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80094260",
+      "id":"80094260",
       "date_released":"2016-10-28",
       "description":"The Trailer Park Boys are thrilled to get a free trip to Europe, until they arrive and learn about their corporate sponsor's unusual requirements."
   },
@@ -17403,8 +17420,8 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80198545",
-      "date_released":"2017-11-24",
+      "id":"80198545",
+      "date_released":"2019-11-24",
       "description":"The boys are back on the loose as Bubbles, Julian and Ricky head south of the Canadian border for some outrageous American adventures."
   },
   {
@@ -17420,7 +17437,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80235932",
+      "id":"80235932",
       "date_released":"2019-03-31",
       "description":"Nova Scotia\u2019s favorite miscreants have always been super sketchy. Now, carrying on from the Season 12 finale, the boys have become complete cartoons."
   },
@@ -17437,7 +17454,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80223793",
+      "id":"80223793",
       "date_released":"2019-03-29",
       "description":"As World War II ends, a young English woman agrees to help an enigmatic American agent root out Russian infiltration of the British government."
   },
@@ -17454,8 +17471,8 @@ module.exports = [
       "category":"Independent Movies\n                  Romantic Movies",
       "imdb":"6.1\/10",
       "runtime":"83 minutes",
-      "netflixid":"80146759",
-      "date_released":"2017-04-21",
+      "id":"80146759",
+      "date_released":"2019-04-21",
       "description":"Pulled into a shady briefcase swap for different reasons, young strangers Danny and Ellie spend an eventful night together when the deal goes wrong."
   },
   {
@@ -17471,7 +17488,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80105699",
+      "id":"80105699",
       "date_released":"2016-12-23",
       "description":"A federal agent tracks four people who suddenly seem to possess entirely new personalities, leading to a startling discovery about humanity's future."
   },
@@ -17488,7 +17505,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Thrillers",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80147923",
+      "id":"80147923",
       "date_released":"2018-06-08",
       "description":"When their animal friends need help, brother-and-sister team Toby and Teri use the clues and follow the facts to solve mysteries in their own backyard."
   },
@@ -17505,8 +17522,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.4\/10",
       "runtime":"67 minutes",
-      "netflixid":"80134969",
-      "date_released":"2017-02-21",
+      "id":"80134969",
+      "date_released":"2019-02-21",
       "description":"The \"Daily Show\" host ponders the perils of naming countries, how traffic lights turn New Yorkers invincible and why you shouldn't drink in Scotland."
   },
   {
@@ -17522,7 +17539,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"7.2\/10",
       "runtime":"63 minutes",
-      "netflixid":"80239932",
+      "id":"80239932",
       "date_released":"2018-11-20",
       "description":"\"Daily Show\" host Trevor Noah touches on tacos, runaway snakes, camping, racism immunity and lessons he learned from his mother in this comedy special."
   },
@@ -17539,7 +17556,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80144442",
+      "id":"80144442",
       "date_released":"2019-01-18",
       "description":"In this funny and provocative series, rapper and activist Killer Mike puts his revolutionary ideas about achieving social change into action."
   },
@@ -17556,7 +17573,7 @@ module.exports = [
       "category":"Action & Adventure",
       "imdb":"5.5\/10",
       "runtime":"125 minutes",
-      "netflixid":"80192187",
+      "id":"80192187",
       "date_released":"2019-03-13",
       "description":"Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences."
   },
@@ -17573,7 +17590,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Action & Adventure\n                  TV Sci-Fi & Fantasy",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80075820",
+      "id":"80075820",
       "date_released":"2016-12-23",
       "description":"After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds. Created by Guillermo del Toro."
   },
@@ -17590,7 +17607,7 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80117560",
+      "id":"80117560",
       "date_released":"2018-01-19",
       "description":"As Queen Poppy celebrates a time of peace in Troll Village with parties, competitions and special occasions, Branch tries to be more fun-loving."
   },
@@ -17607,7 +17624,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"5.6\/10",
       "runtime":"",
-      "netflixid":"80175352",
+      "id":"80175352",
       "date_released":"2018-04-06",
       "description":"Searching for the woman promised to him by Aphrodite, herdsman Paris learns his true identity and falls for Helen of Sparta, igniting the Trojan War."
   },
@@ -17624,8 +17641,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.5\/10",
       "runtime":"",
-      "netflixid":"80063599",
-      "date_released":"2017-08-11",
+      "id":"80063599",
+      "date_released":"2019-08-11",
       "description":"When something's wrong in the Rainbow Kingdom, bighearted guardian True and her best friend, Bartleby, are there to grant wishes and save the day."
   },
   {
@@ -17641,7 +17658,7 @@ module.exports = [
       "category":"Action & Adventure\n                  Comedies",
       "imdb":"5.7\/10",
       "runtime":"98 minutes",
-      "netflixid":"80091658",
+      "id":"80091658",
       "date_released":"2016-11-11",
       "description":"After his publisher markets his crime novel as a memoir, a novice author finds himself forcibly recruited into a deadly political plot in Venezuela."
   },
@@ -17658,7 +17675,7 @@ module.exports = [
       "category":"Movies",
       "imdb":"",
       "runtime":"23 minutes",
-      "netflixid":"81035127",
+      "id":"81035127",
       "date_released":"2019-02-01",
       "description":"True and Bartleby try to cheer up the Rainbow Kingdom\u2019s loneliest citizen, but his gloomy mood is contagious! Can a trio of wishes turn things around?"
   },
@@ -17675,7 +17692,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80243582",
+      "id":"80243582",
       "date_released":"2018-06-15",
       "description":"The power of friendship can solve any problem -- and the Rainbow Kingdom's got plenty to go around. Cue Bartleby and True for the rescue!"
   },
@@ -17692,7 +17709,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"",
       "runtime":"",
-      "netflixid":"80243473",
+      "id":"80243473",
       "date_released":"2018-06-15",
       "description":"Do-gooding True and Bartleby will go anywhere to make wishes come true -- from the bottom of the Living Sea to the tip of Mount Tippy Tippy Top!"
   },
@@ -17709,7 +17726,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80206395",
+      "id":"80206395",
       "date_released":"2018-03-30",
       "description":"Friends, associates and critics reveal the truly American story of Donald Trump, the brash businessman who defied the odds to become U.S. president."
   },
@@ -17726,7 +17743,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80198137",
+      "id":"80198137",
       "date_released":"2019-05-03",
       "description":"Free-spirited toucan Tuca and self-doubting song thrush Bertie are best friends -- and birds -- who guide each other through life's ups and downs."
   },
@@ -17743,7 +17760,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"70271773",
+      "id":"70271773",
       "date_released":"2013-12-24",
       "description":"Join Turbo and his posse, the Fast Action Stunt Team. Filled with comedy, action and fun, this series amps it up to the extreme."
   },
@@ -17760,7 +17777,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80124723",
+      "id":"80124723",
       "date_released":"2019-03-15",
       "description":"A down-and-out DJ plots to rebuild his music career while working as a nanny for his famous best friend's wild 11-year-old daughter."
   },
@@ -17777,7 +17794,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"6.7\/10",
       "runtime":"116 minutes",
-      "netflixid":"80992039",
+      "id":"80992039",
       "date_released":"2018-09-28",
       "description":"Representatives from both the Catalonian and Spanish societies speak about the complexities of Catalonia's politics and the independentist movement."
   },
@@ -17794,7 +17811,7 @@ module.exports = [
       "category":"Docuseries",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80170368",
+      "id":"80170368",
       "date_released":"2018-02-23",
       "description":"All the flavor. None of the BS. Star chef David Chang leads friends on a mouthwatering, cross-cultural hunt for the world's most satisfying grub."
   },
@@ -17811,8 +17828,8 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"5.2\/10",
       "runtime":"",
-      "netflixid":"80095299",
-      "date_released":"2017-02-24",
+      "id":"80095299",
+      "date_released":"2019-02-24",
       "description":"In this intense obstacle course series, elite athletes from the U.S. and other countries compete for cash prizes, individual glory and national pride."
   },
   {
@@ -17828,8 +17845,8 @@ module.exports = [
       "category":"Reality TV\n                  Spanish-Language TV Shows",
       "imdb":"5.2\/10",
       "runtime":"",
-      "netflixid":"80156006",
-      "date_released":"2017-02-24",
+      "id":"80156006",
+      "date_released":"2019-02-24",
       "description":"Competitors representing countries from around the world battle it out on a grueling obstacle course. Luis Ernesto Franco and In\u00e9s Sainz host."
   },
   {
@@ -17845,7 +17862,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80231373",
+      "id":"80231373",
       "date_released":"2019-04-01",
       "description":"Decades ago, a hero from the stars left this world in peace. Now, the son of Ultraman must rise to protect the Earth from a new alien threat."
   },
@@ -17862,7 +17879,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.5\/10",
       "runtime":"",
-      "netflixid":"80225020",
+      "id":"80225020",
       "date_released":"2018-08-17",
       "description":"An online community of amateur sleuths use technology to solve crimes -- and make quirky friends -- in their quest for justice."
   },
@@ -17879,7 +17896,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80241001",
+      "id":"80241001",
       "date_released":"2019-02-08",
       "description":"When a Galician shipper and drug lord hiding his Alzheimer's reveals plans to retire, his second-in-command plots to steal the empire from the heir."
   },
@@ -17896,7 +17913,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.2\/10",
       "runtime":"",
-      "netflixid":"80025384",
+      "id":"80025384",
       "date_released":"2015-03-06",
       "description":"When a woman is rescued from a doomsday cult and lands in New York City, she must navigate a world she didn\u2019t think even existed anymore."
   },
@@ -17913,7 +17930,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80225312",
+      "id":"80225312",
       "date_released":"2019-05-03",
       "description":"Undercover agents infiltrate a drug kingpin's operation by posing as a couple at the campground where he spends his weekends. Inspired by real events."
   },
@@ -17930,7 +17947,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"80220145",
+      "id":"80220145",
       "date_released":"2018-08-31",
       "description":"Female intelligence agents infiltrate the disparate aspects of a Colombian cartel in an attempt to take down the drug lords and their associates."
   },
@@ -17947,7 +17964,7 @@ module.exports = [
       "category":"Comedies\n                  Dramas\n                  Independent Movies",
       "imdb":"7.7\/10",
       "runtime":"91 minutes",
-      "netflixid":"81034317",
+      "id":"81034317",
       "date_released":"2019-04-05",
       "description":"After failing out of art school and taking a humdrum office job, a whimsical painter gets a chance to fulfill her lifelong dream of adopting a unicorn."
   },
@@ -17964,7 +17981,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Romantic Movies",
       "imdb":"8.1\/10",
       "runtime":"119 minutes",
-      "netflixid":"80993655",
+      "id":"80993655",
       "date_released":"2018-06-21",
       "description":"Two strangers meet on a train and form a bond that evolves over the years. After a separation, they reconnect and reflect on their love for each other."
   },
@@ -17981,7 +17998,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Reality TV",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80216621",
+      "id":"80216621",
       "date_released":"2018-11-16",
       "description":"Go behind the scenes with Brazilian pop icon Anitta, along with her friends and family, as she aims to create a new song and music video each month."
   },
@@ -17998,8 +18015,8 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80119145",
-      "date_released":"2017-02-24",
+      "id":"80119145",
+      "date_released":"2019-02-24",
       "description":"With exciting trips to the big city, the ski slopes and beyond, the Veggie friends expand their horizons and learn valuable faith-based lessons."
   },
   {
@@ -18015,7 +18032,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80011539",
+      "id":"80011539",
       "date_released":"2016-03-25",
       "description":"Bob the Tomato, Larry the Cucumber and their Veggie pals venture beyond the kitchen counter in these playful adventures with Christian themes."
   },
@@ -18032,7 +18049,7 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"7.0\/10",
       "runtime":"112 minutes",
-      "netflixid":"80199689",
+      "id":"80199689",
       "date_released":"2019-02-01",
       "description":"A feared critic, an icy gallery owner and an ambitious assistant snap up a recently deceased artist's stash of paintings -- with dire consequences."
   },
@@ -18049,7 +18066,7 @@ module.exports = [
       "category":"Anime Series\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"8.1\/10",
       "runtime":"",
-      "netflixid":"80182123",
+      "id":"80182123",
       "date_released":"2019-01-31",
       "description":"The war is over, and Violet Evergarden needs a job. Scarred and emotionless, she takes a job as a letter writer to understand herself and her past."
   },
@@ -18066,8 +18083,8 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.6\/10",
       "runtime":"65 minutes",
-      "netflixid":"80133552",
-      "date_released":"2017-04-25",
+      "id":"80133552",
+      "date_released":"2019-04-25",
       "description":"Comedian Vir Das tackles nationalism, globalism, good food and bad politics in two cleverly crosscut performances in New York and New Delhi."
   },
   {
@@ -18083,7 +18100,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"8.0\/10",
       "runtime":"67 minutes",
-      "netflixid":"80995991",
+      "id":"80995991",
       "date_released":"2018-12-11",
       "description":"The world's got a lot of problems, but Vir Das has a lot of answers as he discusses travel, religion, his childhood and more in this stand-up special."
   },
@@ -18100,8 +18117,8 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"8.2\/10",
       "runtime":"100 minutes",
-      "netflixid":"80009431",
-      "date_released":"2014-11-07",
+      "id":"80009431",
+      "date_released":"2020-11-07",
       "description":"The Oscar-nominated true story of the rangers risking their lives to save Africa's most precious national park and its endangered gorillas."
   },
   {
@@ -18117,7 +18134,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.4\/10",
       "runtime":"",
-      "netflixid":"80075595",
+      "id":"80075595",
       "date_released":"2016-06-10",
       "description":"In an all-new series, five unlikely heroes and their flying robot lions unite to form the megapowerful Voltron and defend the universe from evil."
   },
@@ -18134,8 +18151,8 @@ module.exports = [
       "category":"Documentaries",
       "imdb":"6.3\/10",
       "runtime":"95 minutes",
-      "netflixid":"80176212",
-      "date_released":"2017-12-01",
+      "id":"80176212",
+      "date_released":"2019-12-01",
       "description":"Legendary journalist Gay Talese unmasks a motel owner who spied on his guests for decades. But his bombshell story soon becomes a scandal of its own."
   },
   {
@@ -18151,7 +18168,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.3\/10",
       "runtime":"65 minutes",
-      "netflixid":"80200015",
+      "id":"80200015",
       "date_released":"2018-06-26",
       "description":"Comedian W. Kamau Bell muses on parenting in the Trump era, \"free speech\" dustups, woke children's TV and his fear of going off the grid."
   },
@@ -18168,7 +18185,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80049065",
+      "id":"80049065",
       "date_released":"2015-11-13",
       "description":"After being dishonorably discharged from the Navy Seals, Bob and David are back serving our country the way they do best -- making sketch comedy."
   },
@@ -18185,7 +18202,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas",
       "imdb":"5.0\/10",
       "runtime":"99 minutes",
-      "netflixid":"80995799",
+      "id":"80995799",
       "date_released":"2019-03-08",
       "description":"In the wake of an accident that leaves her paralyzed, a champion rodeo rider vows to get back on her horse and compete again. Based on a true story."
   },
@@ -18202,7 +18219,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  Romantic TV Shows",
       "imdb":"5.4\/10",
       "runtime":"",
-      "netflixid":"80211465",
+      "id":"80211465",
       "date_released":"2018-10-19",
       "description":"Unable to revive their fading sex life after many years of marriage, a therapist and her husband decide to start dating other people."
   },
@@ -18219,8 +18236,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80195522",
-      "date_released":"2017-10-24",
+      "id":"80195522",
+      "date_released":"2019-10-24",
       "description":"Polar-opposite strangers Lola and Chelsea become partners on the run when they witness a murder involving dirty cops and are framed for the crime."
   },
   {
@@ -18236,8 +18253,8 @@ module.exports = [
       "category":"Comedies\n                  Dramas",
       "imdb":"5.6\/10",
       "runtime":"122 minutes",
-      "netflixid":"80068327",
-      "date_released":"2017-05-26",
+      "id":"80068327",
+      "date_released":"2019-05-26",
       "description":"When a proud general is tasked with winning an unpopular war, he takes the challenge head-on, not knowing that hubris may be his own worst enemy."
   },
   {
@@ -18253,7 +18270,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80193978",
+      "id":"80193978",
       "date_released":"2018-11-13",
       "description":"A war veteran plagued by guilt over his final mission teams up with his best friend's widow to infiltrate a dangerous Copenhagen biker gang."
   },
@@ -18270,7 +18287,7 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Action & Adventure",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80107989",
+      "id":"80107989",
       "date_released":"2018-12-23",
       "description":"A warren of rabbits battles many threats on their daring journey to find a new home in this adaptation of the classic novel by Richard Adams."
   },
@@ -18287,8 +18304,8 @@ module.exports = [
       "category":"Kids' TV\n                  TV Comedies",
       "imdb":"5.0\/10",
       "runtime":"",
-      "netflixid":"80095649",
-      "date_released":"2017-01-10",
+      "id":"80095649",
+      "date_released":"2019-01-10",
       "description":"The Lalaloopsy gang and their adorable pets know every day is a perfect day to celebrate the magic of friendship, creativity and collaboration."
   },
   {
@@ -18304,7 +18321,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies\n                  TV Dramas",
       "imdb":"6.3\/10",
       "runtime":"",
-      "netflixid":"80212251",
+      "id":"80212251",
       "date_released":"2018-07-27",
       "description":"When an evicted single mom's estranged father dies, she and his second wife cover up his death after learning they've been written out of his will."
   },
@@ -18321,7 +18338,7 @@ module.exports = [
       "category":"Reality TV",
       "imdb":"4.0\/10",
       "runtime":"",
-      "netflixid":"80201862",
+      "id":"80201862",
       "date_released":"2018-11-09",
       "description":"Nine struggling musicians share the spotlight in this emotional reality series as they navigate the highs and lows of pursuing their Hollywood dreams."
   },
@@ -18338,7 +18355,7 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.2\/10",
       "runtime":"",
-      "netflixid":"80039813",
+      "id":"80039813",
       "date_released":"2015-07-31",
       "description":"It's the first day of camp in this outrageous prequel to the hilarious 2001 cult classic movie. And at Camp Firewood, anything can happen."
   },
@@ -18355,8 +18372,8 @@ module.exports = [
       "category":"TV Comedies",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80117800",
-      "date_released":"2017-08-04",
+      "id":"80117800",
+      "date_released":"2019-08-04",
       "description":"A decade after their wild summer as junior counselors, the gang reunites for a weekend of bonding, hanky-panky and hair-raising adventures."
   },
   {
@@ -18372,8 +18389,8 @@ module.exports = [
       "category":"Action & Adventure\n                  Sci-Fi & Fantasy",
       "imdb":"7.2\/10",
       "runtime":"123 minutes",
-      "netflixid":"80146805",
-      "date_released":"2017-08-18",
+      "id":"80146805",
+      "date_released":"2019-08-18",
       "description":"In a future with a strict one-child policy, six septuplets must avoid government detection while searching for their missing sister."
   },
   {
@@ -18389,7 +18406,7 @@ module.exports = [
       "category":"Documentaries\n                  Music & Musicals",
       "imdb":"7.6\/10",
       "runtime":"102 minutes",
-      "netflixid":"70308063",
+      "id":"70308063",
       "date_released":"2015-06-26",
       "description":"Using never-before-heard recordings, rare archival footage and her best-known songs, this is the story of legendary singer and activist Nina Simone."
   },
@@ -18406,8 +18423,8 @@ module.exports = [
       "category":"Action & Adventure",
       "imdb":"5.9\/10",
       "runtime":"82 minutes",
-      "netflixid":"80113669",
-      "date_released":"2017-10-20",
+      "id":"80113669",
+      "date_released":"2019-10-20",
       "description":"The getaway driver in a botched robbery puts his skills and smarts to the test when he receives shocking orders from an unknown caller."
   },
   {
@@ -18423,7 +18440,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"5.6\/10",
       "runtime":"96 minutes",
-      "netflixid":"80244708",
+      "id":"80244708",
       "date_released":"2018-12-28",
       "description":"After a businessman falls asleep at the wheel and hits a woman with his car, his interactions with her scared friend unleash a string of dark events."
   },
@@ -18440,7 +18457,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"8.0\/10",
       "runtime":"",
-      "netflixid":"81021294",
+      "id":"81021294",
       "date_released":"2019-01-10",
       "description":"Years after a bitter falling out, four Israeli military veterans reunite and travel to Colombia in search of a loved one they'd presumed to be dead."
   },
@@ -18457,7 +18474,7 @@ module.exports = [
       "category":"Comedies\n                  Romantic Movies",
       "imdb":"6.6\/10",
       "runtime":"97 minutes",
-      "netflixid":"80117531",
+      "id":"80117531",
       "date_released":"2018-02-09",
       "description":"Using a magical photo booth that sends him back in time, Noah relives the night he met Avery over and over, trying to persuade her to fall for him."
   },
@@ -18474,7 +18491,7 @@ module.exports = [
       "category":"Children & Family Movies\n                  Dramas",
       "imdb":"7.0\/10",
       "runtime":"87 minutes",
-      "netflixid":"80245121",
+      "id":"80245121",
       "date_released":"2018-07-06",
       "description":"A loyal wolfdog's curiosity leads him on the adventure of a lifetime while serving a series of three distinctly different masters."
   },
@@ -18491,8 +18508,8 @@ module.exports = [
       "category":"British TV Shows\n                  International TV Shows\n                  TV Comedies",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80191680",
-      "date_released":"2017-08-17",
+      "id":"80191680",
+      "date_released":"2019-08-17",
       "description":"In 1980s Essex, cocky salesman Vincent Swan and his unscrupulous team will do anything to get the sale -- including throwing honesty out the window."
   },
   {
@@ -18508,8 +18525,8 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Dramas",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80150604",
-      "date_released":"2017-02-14",
+      "id":"80150604",
+      "date_released":"2019-02-14",
       "description":"A coldhearted heiress, a man from her past and an ambitious new hire in her company all become entangled on a battleground for money and power."
   },
   {
@@ -18525,7 +18542,7 @@ module.exports = [
       "category":"Docuseries\n                  International TV Shows\n                  Reality TV",
       "imdb":"6.8\/10",
       "runtime":"",
-      "netflixid":"80091245",
+      "id":"80091245",
       "date_released":"2016-12-09",
       "description":"Kari Byron, Tory Belleci and Grant Imahara rank history's greatest inventions, heists and more in this series from the producers of \"MythBusters.\""
   },
@@ -18542,7 +18559,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies",
       "imdb":"5.3\/10",
       "runtime":"93 minutes",
-      "netflixid":"81018120",
+      "id":"81018120",
       "date_released":"2019-04-12",
       "description":"On their last night together, four longtime flatmates' lives are suddenly upended when a secret is revealed during the course of an evening celebration."
   },
@@ -18559,7 +18576,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  International TV Shows\n                  Spanish-Language TV Shows",
       "imdb":"8.0\/10",
       "runtime":"45 minutes",
-      "netflixid":"80230435",
+      "id":"80230435",
       "date_released":"2018-10-19",
       "description":"After surrendering to Bogot\u00e1 police, an ex-guerrilla avoids prison by working undercover to investigate a ruthless enforcer of government corruption."
   },
@@ -18576,7 +18593,7 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"7.9\/10",
       "runtime":"",
-      "netflixid":"80145240",
+      "id":"80145240",
       "date_released":"2018-03-16",
       "description":"When a controversial cult leader builds a utopian city in the Oregon desert, conflict with the locals escalates into a national scandal."
   },
@@ -18593,8 +18610,8 @@ module.exports = [
       "category":"Comedies\n                  Independent Movies\n                  Romantic Movies",
       "imdb":"5.7\/10",
       "runtime":"88 minutes",
-      "netflixid":"80134527",
-      "date_released":"2017-04-07",
+      "id":"80134527",
+      "date_released":"2019-04-07",
       "description":"After losing $50,000 that wasn't his, gambling addict Eddie starts to rebuild his life. But an unwelcome surprise pushes him toward his old ways."
   },
   {
@@ -18610,7 +18627,7 @@ module.exports = [
       "category":"Documentaries\n                  International Movies",
       "imdb":"8.1\/10",
       "runtime":"98 minutes",
-      "netflixid":"80031666",
+      "id":"80031666",
       "date_released":"2015-10-09",
       "description":"Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement."
   },
@@ -18627,7 +18644,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Action & Adventure\n                  TV Dramas",
       "imdb":"8.7\/10",
       "runtime":"",
-      "netflixid":"81007175",
+      "id":"81007175",
       "date_released":"2018-12-21",
       "description":"Tasked with risky missions across Turkey, members of a special-operations police unit confront danger and tragedy both on the field and at home."
   },
@@ -18644,7 +18661,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80063705",
+      "id":"80063705",
       "date_released":"2016-07-08",
       "description":"Meet Bailey, Franny, Kip and Lulu. They're adorable baby animals, and they want you to join the party and help them learn!"
   },
@@ -18661,7 +18678,7 @@ module.exports = [
       "category":"International TV Shows\n                  TV Comedies",
       "imdb":"5.5\/10",
       "runtime":"",
-      "netflixid":"80198991",
+      "id":"80198991",
       "date_released":"2019-02-22",
       "description":"Maternity leave is over and it's time for these four moms to return to work while navigating kids, bosses, love and life in modern-day Toronto."
   },
@@ -18678,7 +18695,7 @@ module.exports = [
       "category":"Kids' TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80007778",
+      "id":"80007778",
       "date_released":"2016-11-04",
       "description":"The reality show \"WOW!\" engages the Winx in their mission, starting an undercover, worldly journey in order to make talented kids' dreams come true."
   },
@@ -18695,8 +18712,8 @@ module.exports = [
       "category":"Crime TV Shows\n                  Docuseries",
       "imdb":"6.7\/10",
       "runtime":"",
-      "netflixid":"80059446",
-      "date_released":"2017-12-15",
+      "id":"80059446",
+      "date_released":"2019-12-15",
       "description":"In this genre-bending tale, Errol Morris explores the mysterious death of a U.S. scientist entangled in a secret Cold War program known as MK-Ultra."
   },
   {
@@ -18712,7 +18729,7 @@ module.exports = [
       "category":"Dramas",
       "imdb":"5.9\/10",
       "runtime":"92 minutes",
-      "netflixid":"80057691",
+      "id":"80057691",
       "date_released":"2016-08-26",
       "description":"The lives of a budding DJ, his loyal pal, a hopeless romantic, a jaded has-been and a troubled couple intersect at an electronic dance music festival."
   },
@@ -18729,7 +18746,7 @@ module.exports = [
       "category":"International TV Shows\n                  Korean TV Shows\n                  TV Comedies",
       "imdb":"7.7\/10",
       "runtime":"",
-      "netflixid":"80220650",
+      "id":"80220650",
       "date_released":"2018-10-05",
       "description":"K-pop star Seungri, BIGBANG's youngest member, tries to lead a team of bumbling staff at YG's Future Strategy Office in this mockumentary sitcom."
   },
@@ -18746,7 +18763,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"6.0\/10",
       "runtime":"54 minutes",
-      "netflixid":"80223582",
+      "id":"80223582",
       "date_released":"2018-08-17",
       "description":"Daring comedian Yoo Byung-jae connects criticism he's received from the general public to some of the most touchy issues in current Korean society."
   },
@@ -18763,7 +18780,7 @@ module.exports = [
       "category":"Stand-Up Comedy",
       "imdb":"5.7\/10",
       "runtime":"63 minutes",
-      "netflixid":"80223734",
+      "id":"80223734",
       "date_released":"2018-03-16",
       "description":"\"Saturday Night Live Korea\" writer-turned-comedian Yoo Byung-jae lays bare his childhood memories and philosophy on sex in his first stand-up venture."
   },
@@ -18780,7 +18797,7 @@ module.exports = [
       "category":"Kids' TV\n                  Korean TV Shows",
       "imdb":"6.0\/10",
       "runtime":"",
-      "netflixid":"80212481",
+      "id":"80212481",
       "date_released":"2019-03-15",
       "description":"In a series of magical missions, quick-witted YooHoo and his can-do crew travel the globe to help animals in need."
   },
@@ -18797,8 +18814,8 @@ module.exports = [
       "category":"Dramas\n                  Thrillers",
       "imdb":"5.6\/10",
       "runtime":"89 minutes",
-      "netflixid":"80155477",
-      "date_released":"2017-06-23",
+      "id":"80155477",
+      "date_released":"2019-06-23",
       "description":"After a one-night stand, Holly develops a dangerous obsession with Tyler and transfers to his high school, desperate to keep their \"romance\" alive."
   },
   {
@@ -18814,7 +18831,7 @@ module.exports = [
       "category":"Kids' TV\n                  Reality TV\n                  Science & Nature TV",
       "imdb":"7.0\/10",
       "runtime":"",
-      "netflixid":"80227574",
+      "id":"80227574",
       "date_released":"2019-04-10",
       "description":"In this interactive series, you'll make key decisions to help Bear Grylls survive, thrive and complete missions in the harshest environments on Earth."
   },
@@ -18831,7 +18848,7 @@ module.exports = [
       "category":"Dramas\n                  International Movies\n                  Thrillers",
       "imdb":"6.0\/10",
       "runtime":"103 minutes",
-      "netflixid":"80167647",
+      "id":"80167647",
       "date_released":"2019-03-01",
       "description":"After his son is brutally beaten outside a nightclub, a surgeon takes the law into his own hands and seeks vengeance against the perpetrators."
   },
@@ -18848,7 +18865,7 @@ module.exports = [
       "category":"Comedies\n                  International Movies",
       "imdb":"5.5\/10",
       "runtime":"130 minutes",
-      "netflixid":"80988834",
+      "id":"80988834",
       "date_released":"2019-02-15",
       "description":"Competing con artists attempt to creatively and ruthlessly swindle a fatherly lottery winner while on a lively cruise from Spain to Mexico."
   },
@@ -18865,7 +18882,7 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"2.0\/10",
       "runtime":"",
-      "netflixid":"80217769",
+      "id":"80217769",
       "date_released":"2019-01-18",
       "description":"It's drama Down Under when expectant mothers with model good looks and lavish lifestyles pull out all the stops to prepare for their new arrivals."
   },
@@ -18882,7 +18899,7 @@ module.exports = [
       "category":"Documentaries\n                  Sports Movies",
       "imdb":"6.6\/10",
       "runtime":"11 minutes",
-      "netflixid":"80239831",
+      "id":"80239831",
       "date_released":"2018-08-10",
       "description":"Born without legs and stuck in foster care for years, teen Zion Clark finds his calling when he pursues competitive wrestling. A documentary short."
   },
@@ -18899,8 +18916,8 @@ module.exports = [
       "category":"International TV Shows\n                  Reality TV",
       "imdb":"5.7\/10",
       "runtime":"",
-      "netflixid":"80204927",
-      "date_released":"2017-10-31",
+      "id":"80204927",
+      "date_released":"2019-10-31",
       "description":"Dessert wizard Adriano Zumbo looks for the next \u201cWilly Wonka\u201d in this tense competition that finds skilled amateurs competing for a $100,000 prize."
   }
 ]

@@ -50,7 +50,6 @@ const DayCells = ({ currentDate }) => {
   useEffect(() => {
     const getEvents = async () => {
       let response = await axios.get(`http://localhost:3000/api/events/${dateFns.getYear(currentDate)}/${dateFns.getMonth(currentDate) + 1}`)
-      console.log(response)
       setEvents(response.data)
     }
 

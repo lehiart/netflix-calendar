@@ -4,8 +4,11 @@ import '../../styles/Header.scss'
 
 const ResetButton = withRouter(({ history }) => (
   <div role='img' alt='Today'
-    className='reset-btn' onClick={() => { history.push('/') }}
-  >
+    className='reset-btn'
+    onClick={() => {
+      history.push('/')
+      window.location.reload()
+    }}>
     <div className='icon'>
       today
     </div>

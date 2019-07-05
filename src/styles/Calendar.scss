@@ -53,6 +53,7 @@
   cursor: pointer;
   background: $neutral-color;
   transition: 0.25s ease-out;
+  border-bottom: 1px solid $border-color;
 }
 
 .calendar .body .cell:hover {
@@ -64,6 +65,7 @@
   border-left: 10px solid transparent;
   border-image: linear-gradient(45deg, $primary-color 0%, $primary-color-dark 40%);
   border-image-slice: 1;
+  border-bottom: 1px solid $border-color;
 }
 
 .calendar .body .row {
@@ -90,7 +92,7 @@
   color: $primary-color-dark;
 }
 
-.calendar .body .cell span {
+.calendar .body .cell .title span {
   color: $text-color;
 }
 
