@@ -15,12 +15,10 @@
     position: fixed;
 }
 
-
 .modal-mask {
     position: absolute;
     background: rgba(0, 0, 0, .5);
 }
-
 
 .modal-dialog {
   position: absolute;
@@ -57,17 +55,10 @@
 // BODY
 
 .modal-body {
-  margin: 50px;
-  margin-top: 25px;
-  max-height: 45vh;
+  margin: 25px 50px 25px 50px;
+  max-height: 50vh;
   overflow-y: scroll;
 }
-
-@media (min-height: 700px) { 
-  .modal-body {
-    max-height: 50vh;
-  }
- }
 
 .event-container {
   padding-top: 15px;

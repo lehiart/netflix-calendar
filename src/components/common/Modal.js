@@ -1,8 +1,11 @@
 import React, { useState, useEffect, useRef, Fragment } from 'react';
+import Proptypes from 'prop-types'
 import ReactDOM from 'react-dom';
 import dateFns from 'date-fns'
+import { EventCard, EmptyCard } from './Cards'
 import '../../styles/Modal.scss'
 
+// Custom Hook
 export const useModal = () => {
   const [isShowing, setIsShowing] = useState(false);
 
@@ -15,32 +18,6 @@ export const useModal = () => {
     toggle,
   }
 };
-
-const EventCard = ({ event }) => {
-  return (
-    <div className='row event-container'>
-      <div className='col col-4'>
-        <img alt='cover' src={event.image_landscape} />
-      </div>
-      <div className='col col-6 event-details'>
-        <span className='event-title'>{ event.title}</span>
-        <p>{event.category.split(' ')[0]}</p>
-        <p><b>IMDB</b> { event.imdb ? event.imdb : 'N/A'}</p>
-        <p>{ event.description}</p>
-      </div>
-    </div>
-  )
-}
-
-const EmptyCard = () => {
-  return (
-    <div className='row event-container'>
-    <div className='col'>
-      <span className='event-title'>Sorry, no events for this day</span>
-    </div>
-  </div>
-  )
-}
 
 const ModalContainer = ({ events, date, hide, isShowing }) => {
   const [isShow, setIsShow] = useState(false)
@@ -107,8 +84,16 @@ const ModalContainer = ({ events, date, hide, isShowing }) => {
   )
 }
 
+// Creates a React Portal on id: portal
 const Modal = (props) => {
   return props.isShowing ? ReactDOM.createPortal(<ModalContainer {...props} />, document.getElementById('portal')) : null;
+}
+
+ModalContainer.propTypes = {
+  events: Proptypes.array,
+  date: Proptypes.object,
+  hide: Proptypes.func,
+  isShowing: Proptypes.bool
 }
 
 export default Modal;

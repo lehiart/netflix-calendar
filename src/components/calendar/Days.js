@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import Proptypes from 'prop-types'
 import dateFns from 'date-fns';
 import axios from 'axios'
 import Modal, { useModal } from '../common/Modal';
@@ -16,6 +17,10 @@ const getCellClassname = (day, monthStart, selectedDate) => {
   }
 
   return customClass
+}
+
+function addEvents(day, events) {
+  return events.filter(event => dateFns.isSameDay(day, event.date_released))
 }
 
 const Daybox = ({ onDateClick, day, monthStart, selectedDate, dayEvents }) => {
@@ -37,10 +42,7 @@ const Daybox = ({ onDateClick, day, monthStart, selectedDate, dayEvents }) => {
   )
 }
 
-function addEvents(day, events) {
-  return events.filter(event => dateFns.isSameDay(day, event.date_released))
-}
-
+// Creates each square for the current month
 const DayCells = ({ currentDate }) => {
   const [events, setEvents] = useState([]);
   const [selectedDate, setSelectedDate] = useState(new Date())
@@ -100,5 +102,18 @@ const DayCells = ({ currentDate }) => {
     </div>
   )
 }
+
+Daybox.propTypes = {
+  onDateClick: Proptypes.func,
+  day: Proptypes.object,
+  monthStart: Proptypes.object,
+  selectedDate: Proptypes.object,
+  dayEvents: Proptypes.array
+}
+
+DayCells.propTypes = {
+  currentDate: Proptypes.object
+}
+
 
 export default DayCells
