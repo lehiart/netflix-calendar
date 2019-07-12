@@ -70,7 +70,7 @@ const DayCells = ({ currentDate }) => {
     toggle();
   }
 
-  // O(n) constant time
+  // O(n) linear time
   while (dayindex < 35) {
     days.push(
       <Daybox
